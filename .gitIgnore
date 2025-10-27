@@ -1,0 +1,5 @@
+# red-panda-export
+package-lock.json
+node_modules/
+logs/
+_backup_*

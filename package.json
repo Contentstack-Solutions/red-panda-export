@@ -1,0 +1,10 @@
+{
+  "name": "red-panda-export",
+  "version": "3.3.0",
+  "description": "red panda main stack content export",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kulsum Ansari",
+  "license": "ISC"
+}
