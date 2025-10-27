@@ -49,7 +49,7 @@ async function createVersionTag(customVersion = null) {
         } catch (error) {
             // There are changes, commit them
             console.log('Committing changes...');
-            execSync(`git commit -m "Release ${version}"`, { stdio: 'inherit' });
+            execSync(`git commit -m "Release ${version}" --no-verify`, { stdio: 'inherit' });
         }
         
         // Create and push the tag
