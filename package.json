@@ -1,6 +1,6 @@
 {
   "name": "red-panda-export",
-  "version": "4.0.0",
+  "version": "3.0.0",
   "description": "red panda main stack content export",
   "scripts": {
     "version:update": "node vhandler.js",
