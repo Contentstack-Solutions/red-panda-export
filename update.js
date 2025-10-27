@@ -113,7 +113,7 @@ if (require.main === module) {
     const command = args[0];
     
     switch (command) {
-        case 'tag':
+        case 'create-version':
             // Just create a tag with current version
             createVersionTag();
             break;
@@ -129,7 +129,7 @@ if (require.main === module) {
         default:
             console.log(`
 Usage:
-  node update.js tag              - Create a tag with current version (${require('./package.json').version})
+  node update.js create-tag              - Create a tag with current version (${require('./package.json').version})
   node update.js update [type]    - Update version and create tag
   
 Version types:
