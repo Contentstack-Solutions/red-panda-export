@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "description": "red panda main stack content export",
   "scripts": {
-    "version:update": "node vhandler.js",
+    "version:update": "node version_handler.js",
     "content:update": "node content_handler.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
