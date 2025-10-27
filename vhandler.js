@@ -146,20 +146,21 @@ if (require.main === module) {
         default:
             console.log(`
 Usage:
-  node update.js tag [version]    - Create a tag with custom version or current version (${require('./package.json').version})
-  node update.js update [type]    - Update version and create tag
-  
+  npm run version:update tag              - Create a tag using current version (${require('./package.json').version}) from package.json
+  npm run version:update tag [version]    - Update version in package.json and create a tag with custom version
+  npm run version:update update [type]    - Update version in package.json and create tag
+
 Version types:
   patch (default) - Increment patch version (x.x.X)
   minor          - Increment minor version (x.X.0)
   major          - Increment major version (X.0.0)
 
 Examples:
-  node update.js tag              - Create tag v3.3.0 (current version)
-  node update.js tag 2.1.5        - Create tag v2.1.5 (custom version)
-  node update.js update           - Update to v3.3.1 and create tag
-  node update.js update minor     - Update to v3.4.0 and create tag
-  node update.js update major     - Update to v4.0.0 and create tag
+  npm run version:update tag              - Create tag v3.3.0 (current version)
+  npm run version:update tag 2.1.5        - Create tag v2.1.5 (custom version)
+  npm run version:update update           - Update to v3.3.1 and create tag
+  npm run version:update update minor     - Update to v3.4.0 and create tag
+  npm run version:update update major     - Update to v4.0.0 and create tag
             `);
             break;
     }
