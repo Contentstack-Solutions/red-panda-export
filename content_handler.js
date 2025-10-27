@@ -93,12 +93,12 @@ if (require.main === module) {
         updateContentDirectory(); // Default action
     }
     command === '--help' && console.log(`
-📁 Content Directory Updater
+        📁 Content Directory Updater
 
-Usage:
-  node content_hanlder.js          - Delete content directory and export fresh content
+        Usage:
+        node content_handler.js          - Delete content directory and export fresh content
 
-Export Command Used: csdx cm:export -k bltc991c0dda4197336 -d content
+        Export Command Used: csdx cm:export -k bltc991c0dda4197336 -d content
             `);
     }
 

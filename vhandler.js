@@ -58,6 +58,10 @@ async function createVersionTag(customVersion = null) {
         
         console.log(`Pushing tag ${version} to remote...`);
         execSync(`git push origin ${version}`, { stdio: 'inherit' });
+
+        // publish changes to main branch
+        console.log('Pushing changes to main branch...');
+        execSync('git push origin main', { stdio: 'inherit' });
         
         console.log(`✅ Successfully created and pushed tag ${version}`);
         
