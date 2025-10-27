@@ -4,13 +4,21 @@ const path = require('path');
 
 /**
  * Creates a version tag in the current git repository
+ * @param {string} customVersion - Optional custom version to use instead of package.json version
  */
-async function createVersionTag() {
+async function createVersionTag(customVersion = null) {
     try {
-        // Read package.json to get the current version
-        const packageJsonPath = path.join(__dirname, 'package.json');
-        const packageJson = JSON.parse(fs.readFileSync(packageJsonPath, 'utf8'));
-        const version = packageJson.version;
+        let version;
+        
+        if (customVersion) {
+            version = customVersion;
+            console.log(`Using custom version: ${version}`);
+        } else {
+            // Read package.json to get the current version
+            const packageJsonPath = path.join(__dirname, 'package.json');
+            const packageJson = JSON.parse(fs.readFileSync(packageJsonPath, 'utf8'));
+            version = packageJson.version;
+        }
         
         console.log(`Creating version tag for v${version}...`);
         
@@ -113,9 +121,18 @@ if (require.main === module) {
     const command = args[0];
     
     switch (command) {
-        case 'create-version':
-            // Just create a tag with current version
-            createVersionTag();
+        case 'tag': 
+            // Create a tag with custom version or current version
+            const customVersion = args[1];
+            if (customVersion) {
+                // Validate version format (basic semver check)
+                const versionRegex = /^\d+\.\d+\.\d+(-[\w\.-]+)?$/;
+                if (!versionRegex.test(customVersion)) {
+                    console.error('❌ Invalid version format. Please use semantic versioning (e.g., 1.0.0)');
+                    process.exit(1);
+                }
+            }
+            createVersionTag(customVersion);
             break;
         case 'update':
             // Update version and create tag
@@ -129,7 +146,7 @@ if (require.main === module) {
         default:
             console.log(`
 Usage:
-  node update.js create-tag              - Create a tag with current version (${require('./package.json').version})
+  node update.js tag [version]    - Create a tag with custom version or current version (${require('./package.json').version})
   node update.js update [type]    - Update version and create tag
   
 Version types:
@@ -138,7 +155,8 @@ Version types:
   major          - Increment major version (X.0.0)
 
 Examples:
-  node update.js tag              - Create tag v3.3.0
+  node update.js tag              - Create tag v3.3.0 (current version)
+  node update.js tag 2.1.5        - Create tag v2.1.5 (custom version)
   node update.js update           - Update to v3.3.1 and create tag
   node update.js update minor     - Update to v3.4.0 and create tag
   node update.js update major     - Update to v4.0.0 and create tag
