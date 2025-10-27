@@ -20,7 +20,7 @@ async function createVersionTag(customVersion = null) {
             version = packageJson.version;
         }
         
-        console.log(`Creating version tag for v${version}...`);
+        console.log(`Creating version tag for ${version}...`);
         
         // Check if we're in a git repository
         try {
@@ -49,17 +49,17 @@ async function createVersionTag(customVersion = null) {
         } catch (error) {
             // There are changes, commit them
             console.log('Committing changes...');
-            execSync(`git commit -m "Release v${version}"`, { stdio: 'inherit' });
+            execSync(`git commit -m "Release ${version}"`, { stdio: 'inherit' });
         }
         
         // Create and push the tag
-        console.log(`Creating tag v${version}...`);
-        execSync(`git tag -a v${version} -m "Release version ${version}"`, { stdio: 'inherit' });
+        console.log(`Creating tag ${version}...`);
+        execSync(`git tag -a ${version} -m "Release version ${version}"`, { stdio: 'inherit' });
         
-        console.log(`Pushing tag v${version} to remote...`);
-        execSync(`git push origin v${version}`, { stdio: 'inherit' });
+        console.log(`Pushing tag ${version} to remote...`);
+        execSync(`git push origin ${version}`, { stdio: 'inherit' });
         
-        console.log(`✅ Successfully created and pushed tag v${version}`);
+        console.log(`✅ Successfully created and pushed tag ${version}`);
         
     } catch (error) {
         console.error('❌ Error creating version tag:', error.message);
