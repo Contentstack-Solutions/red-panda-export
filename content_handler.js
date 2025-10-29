@@ -2,6 +2,8 @@ const { execSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
+const SOURCE_API_KEY = 'bltc991c0dda4197336';
+
 /**
  * Updates the content directory by deleting it and running fresh export
  */
@@ -23,7 +25,7 @@ async function updateContentDirectory() {
         console.log('📥 Starting fresh content export...');
         
         // Run the Contentstack export command
-        const exportCommand = 'csdx cm:export -k bltc991c0dda4197336 -d content';
+        const exportCommand = `csdx cm:export -k ${SOURCE_API_KEY} -d content`;
         
         console.log(`Running: ${exportCommand}`);
         execSync(exportCommand, { 
@@ -98,7 +100,7 @@ if (require.main === module) {
         Usage:
         node content_handler.js          - Delete content directory and export fresh content
 
-        Export Command Used: csdx cm:export -k stack_api_key -d content
+        Export Command Used: csdx cm:export -k ${SOURCE_API_KEY} -d content
             `);
     }
 
