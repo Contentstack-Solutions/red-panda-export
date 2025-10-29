@@ -98,7 +98,7 @@ if (require.main === module) {
         Usage:
         node content_handler.js          - Delete content directory and export fresh content
 
-        Export Command Used: csdx cm:export -k bltc991c0dda4197336 -d content
+        Export Command Used: csdx cm:export -k stack_api_key -d content
             `);
     }
 
