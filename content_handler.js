@@ -98,9 +98,10 @@ if (require.main === module) {
         📁 Content Directory Updater
 
         Usage:
-        node content_handler.js          - Delete content directory and export fresh content
+        npm run content:update         - Delete content directory and export fresh content
 
         Export Command Used: csdx cm:export -k ${SOURCE_API_KEY} -d content
+        - Export stack used: Red Panda Main Stack
             `);
     }
 

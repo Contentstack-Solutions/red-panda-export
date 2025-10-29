@@ -186,7 +186,6 @@ async function updateVersionAndTag(type = 'patch') {
 
 // CLI interface
 if (require.main === module) {
-    console.log(process.argv)
     const args = process.argv.slice(2);
     const command = ['major', 'minor', 'patch'].includes(args[0]) ? 'update' : args[0];
     
