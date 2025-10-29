@@ -72,7 +72,7 @@ async function createVersionTag(customVersion = null, force = false) {
                 }
             } else {
                 console.log(`⏭️  Tag ${version} exists both locally and remotely. Skipping...`);
-                console.log(`💡 Use --force to update the existing tag`);
+                console.log(`💡 Use force-update to update the existing tag`);
                 return;
             }
         } else if (tagExistsLocally && !tagExistsRemotely) {
@@ -99,7 +99,7 @@ async function createVersionTag(customVersion = null, force = false) {
                 }
             } else {
                 console.log(`🌐 Tag ${version} exists remotely but not locally.`);
-                console.log(`💡 Use --force to update the remote tag`);
+                console.log(`💡 Use force-update to update the remote tag`);
                 return;
             }
         } else {
@@ -190,6 +190,7 @@ async function updateVersionAndTag(type = 'patch') {
 
 // CLI interface
 if (require.main === module) {
+    console.log(process.argv)
     const args = process.argv.slice(2);
     const command = args[0];
     
@@ -197,9 +198,10 @@ if (require.main === module) {
         case 'tag': 
             // Create a tag with custom version or current version
             const customVersion = args[1];
-            const forceFlag = args.includes('--force') || args.includes('-f');
+            const forceFlag = args.includes('force-update') || args.includes('-f');
+            console.log("🚀 ~ forceFlag:", forceFlag)
             
-            if (customVersion && (customVersion === '--force' || customVersion === '-f')) {
+            if (customVersion && (customVersion === 'force-update' || customVersion === '-f')) {
                 // If first argument is force flag, use package.json version with force
                 createVersionTag(null, true);
             } else {
@@ -226,7 +228,7 @@ if (require.main === module) {
         default:
             console.log(`
 Usage:
-  npm run version:update tag [version] [--force]  - Create a tag using current or custom version
+  npm run version:update tag [version] [force-update]  - Create a tag using current or custom version
   npm run version:update update [type]            - Update version in package.json and create tag
 
 Version types:
@@ -235,18 +237,18 @@ Version types:
   major          - Increment major version (X.0.0)
 
 Flags:
-  --force, -f    - Force recreate tag if it already exists locally
+  force-update, -f    - Force recreate tag if it already exists locally
 
 Examples:
   npm run version:update tag                    - Create tag ${require('./package.json').version} (current version)
   npm run version:update tag 3.3.0             - Create tag v3.3.0 (custom version)
-  npm run version:update tag 3.3.0 --force     - Force recreate tag v3.3.0 (deletes local tag first)
-  npm run version:update tag --force           - Force recreate tag with current version
+  npm run version:update tag 3.3.0 force-update     - Force recreate tag v3.3.0 (deletes local tag first)
+  npm run version:update tag force-update           - Force recreate tag with current version
   npm run version:update update                - Update to next patch and create tag
   npm run version:update update minor          - Update to next minor and create tag
   npm run version:update update major          - Update to next major and create tag
 
-Note: If you deleted a tag from GitHub but it still exists locally, use --force flag
+Note: If you deleted a tag from GitHub but it still exists locally, use force-update flag
             `);
             break;
     }
