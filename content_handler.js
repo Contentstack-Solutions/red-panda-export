@@ -23,7 +23,7 @@ async function updateContentDirectory() {
         console.log('📥 Starting fresh content export...');
         
         // Run the Contentstack export command
-        const exportCommand = 'csdx cm:export -k bltf60cec96ab7f6113 -d content';
+        const exportCommand = 'csdx cm:export -k bltc991c0dda4197336 -d content';
         
         console.log(`Running: ${exportCommand}`);
         execSync(exportCommand, { 
