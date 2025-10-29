@@ -32,7 +32,8 @@ csdx auth:login
 ```
 csdx cm:stacks:import -k <<DESTINATION_STACK_API KEY>> -d content/main -y
 ```
-<br/>
+Sit back and relax, import to your destination stack will start.
+<br/><br/><br/>
 
 ---
 # Revision Scripts 
