@@ -33,7 +33,7 @@ async function createVersionTag(customVersion = null, force = false) {
         // Check if the tag already exists locally
         let tagExistsLocally = false;
         try {
-            execSync(`git rev-parse v${version}`, { stdio: 'pipe' });
+            execSync(`git rev-parse ${version}`, { stdio: 'pipe' });
             tagExistsLocally = true;
         } catch (error) {
             // Tag doesn't exist locally
@@ -42,7 +42,7 @@ async function createVersionTag(customVersion = null, force = false) {
         // Check if the tag exists on remote
         let tagExistsRemotely = false;
         try {
-            const remoteOutput = execSync(`git ls-remote --tags origin v${version}`, { encoding: 'utf8', stdio: 'pipe' });
+            const remoteOutput = execSync(`git ls-remote --tags origin ${version}`, { encoding: 'utf8', stdio: 'pipe' });
             tagExistsRemotely = remoteOutput.trim().length > 0;
         } catch (error) {
             // Error checking remote or tag doesn't exist remotely
@@ -52,35 +52,35 @@ async function createVersionTag(customVersion = null, force = false) {
         if (tagExistsLocally && tagExistsRemotely) {
             // Case 1: Tag exists both locally and remotely
             if (force) {
-                console.log(`⚠️  Tag v${version} exists both locally and remotely. Force updating...`);
-                console.log(`🗑️  Deleting local tag v${version}...`);
+                console.log(`⚠️  Tag ${version} exists both locally and remotely. Force updating...`);
+                console.log(`🗑️  Deleting local tag ${version}...`);
                 try {
-                    execSync(`git tag -d v${version}`, { stdio: 'inherit' });
-                    console.log(`✅ Local tag v${version} deleted`);
+                    execSync(`git tag -d ${version}`, { stdio: 'inherit' });
+                    console.log(`✅ Local tag ${version} deleted`);
                 } catch (error) {
                     console.error(`❌ Failed to delete local tag: ${error.message}`);
                     throw error;
                 }
                 
-                console.log(`🗑️  Deleting remote tag v${version}...`);
+                console.log(`🗑️  Deleting remote tag ${version}...`);
                 try {
-                    execSync(`git push --delete origin v${version}`, { stdio: 'inherit' });
-                    console.log(`✅ Remote tag v${version} deleted`);
+                    execSync(`git push --delete origin ${version}`, { stdio: 'inherit' });
+                    console.log(`✅ Remote tag ${version} deleted`);
                 } catch (error) {
                     console.error(`❌ Failed to delete remote tag: ${error.message}`);
                     throw error;
                 }
             } else {
-                console.log(`⏭️  Tag v${version} exists both locally and remotely. Skipping...`);
+                console.log(`⏭️  Tag ${version} exists both locally and remotely. Skipping...`);
                 console.log(`💡 Use --force to update the existing tag`);
                 return;
             }
         } else if (tagExistsLocally && !tagExistsRemotely) {
             // Case 2: Tag exists locally but not remotely - always proceed
-            console.log(`📍 Tag v${version} exists locally but not remotely. Deleting local tag and creating fresh...`);
+            console.log(`📍 Tag ${version} exists locally but not remotely. Deleting local tag and creating fresh...`);
             try {
-                execSync(`git tag -d v${version}`, { stdio: 'inherit' });
-                console.log(`✅ Local tag v${version} deleted`);
+                execSync(`git tag -d ${version}`, { stdio: 'inherit' });
+                console.log(`✅ Local tag ${version} deleted`);
             } catch (error) {
                 console.error(`❌ Failed to delete local tag: ${error.message}`);
                 throw error;
@@ -88,23 +88,23 @@ async function createVersionTag(customVersion = null, force = false) {
         } else if (!tagExistsLocally && tagExistsRemotely) {
             // Case 3: Tag exists remotely but not locally
             if (force) {
-                console.log(`🌐 Tag v${version} exists remotely but not locally. Force updating...`);
-                console.log(`🗑️  Deleting remote tag v${version}...`);
+                console.log(`🌐 Tag ${version} exists remotely but not locally. Force updating...`);
+                console.log(`🗑️  Deleting remote tag ${version}...`);
                 try {
-                    execSync(`git push --delete origin v${version}`, { stdio: 'inherit' });
-                    console.log(`✅ Remote tag v${version} deleted`);
+                    execSync(`git push --delete origin ${version}`, { stdio: 'inherit' });
+                    console.log(`✅ Remote tag ${version} deleted`);
                 } catch (error) {
                     console.error(`❌ Failed to delete remote tag: ${error.message}`);
                     throw error;
                 }
             } else {
-                console.log(`🌐 Tag v${version} exists remotely but not locally.`);
+                console.log(`🌐 Tag ${version} exists remotely but not locally.`);
                 console.log(`💡 Use --force to update the remote tag`);
                 return;
             }
         } else {
             // Tag doesn't exist anywhere - proceed normally
-            console.log(`✨ Tag v${version} doesn't exist. Creating new tag...`);
+            console.log(`✨ Tag ${version} doesn't exist. Creating new tag...`);
         }
         
         // Add all changes to staging
@@ -129,8 +129,8 @@ async function createVersionTag(customVersion = null, force = false) {
         execSync(`git push origin ${version}`, { stdio: 'inherit' });
 
         // publish changes to main branch
-        console.log('Pushing changes to main branch...');
-        execSync('git push origin main', { stdio: 'inherit' });
+        // console.log('Pushing changes to main branch...');
+        // execSync('git push origin main', { stdio: 'inherit' });
         
         console.log(`✅ Successfully created and pushed tag ${version}`);
         
@@ -238,7 +238,7 @@ Flags:
   --force, -f    - Force recreate tag if it already exists locally
 
 Examples:
-  npm run version:update tag                    - Create tag v${require('./package.json').version} (current version)
+  npm run version:update tag                    - Create tag ${require('./package.json').version} (current version)
   npm run version:update tag 3.3.0             - Create tag v3.3.0 (custom version)
   npm run version:update tag 3.3.0 --force     - Force recreate tag v3.3.0 (deletes local tag first)
   npm run version:update tag --force           - Force recreate tag with current version
