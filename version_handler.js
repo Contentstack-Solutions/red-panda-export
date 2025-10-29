@@ -127,10 +127,6 @@ async function createVersionTag(customVersion = null, force = false) {
         
         console.log(`Pushing tag ${version} to remote...`);
         execSync(`git push origin ${version}`, { stdio: 'inherit' });
-
-        // publish changes to main branch
-        // console.log('Pushing changes to main branch...');
-        // execSync('git push origin main', { stdio: 'inherit' });
         
         console.log(`✅ Successfully created and pushed tag ${version}`);
         
@@ -192,16 +188,15 @@ async function updateVersionAndTag(type = 'patch') {
 if (require.main === module) {
     console.log(process.argv)
     const args = process.argv.slice(2);
-    const command = args[0];
+    const command = ['major', 'minor', 'patch'].includes(args[0]) ? 'update' : args[0];
     
     switch (command) {
         case 'tag': 
             // Create a tag with custom version or current version
             const customVersion = args[1];
             const forceFlag = args.includes('force-update') || args.includes('-f');
-            console.log("🚀 ~ forceFlag:", forceFlag)
             
-            if (customVersion && (customVersion === 'force-update' || customVersion === '-f')) {
+            if (customVersion && (customVersion === 'force-update')) {
                 // If first argument is force flag, use package.json version with force
                 createVersionTag(null, true);
             } else {
@@ -218,7 +213,7 @@ if (require.main === module) {
             break;
         case 'update':
             // Update version and create tag
-            const versionType = args[1] || 'patch';
+            const versionType = args[0] || 'patch';
             if (!['patch', 'minor', 'major'].includes(versionType)) {
                 console.error('❌ Invalid version type. Use: patch, minor, or major');
                 process.exit(1);

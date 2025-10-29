@@ -37,15 +37,15 @@ npm run version:update tag
 npm run version:update tag 1.2.3
 
 # Force recreate existing tag (deletes existing tags first)
-npm run version:update tag 1.2.3 --force
+npm run version:update tag 1.2.3 force-update
 
 # Update version in package.json and create tag using patch|minor|major
 # Increment patch version (3.3.0 → 3.3.1) and create tag
-npm run version:update update
+npm run version:update patch
 
 # Increment minor version (3.3.0 → 3.4.0) and create tag  
-npm run version:update update minor
+npm run version:update minor
 
 # Increment major version (3.3.0 → 4.0.0) and create tag
-npm run version:update update major
+npm run version:update major
 ```
