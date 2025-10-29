@@ -80,6 +80,9 @@ npm run version:update minor
 
 # Increment major version (3.3.0 → 4.0.0) and create tag
 npm run version:update major
+
+# help command
+npm run version:update help
 ```
 
 
