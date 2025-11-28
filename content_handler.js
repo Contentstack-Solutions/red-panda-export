@@ -1,8 +1,9 @@
 const { execSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
+require('dotenv').config();
 
-const SOURCE_API_KEY = 'bltc991c0dda4197336';
+const RP_STACK_API_KEY = process.env.RP_STACK_API_KEY
 
 /**
  * Updates the content directory by deleting it and running fresh export
@@ -25,7 +26,7 @@ async function updateContentDirectory() {
         console.log('📥 Starting fresh content export...');
         
         // Run the Contentstack export command
-        const exportCommand = `csdx cm:export -k ${SOURCE_API_KEY} -d content`;
+        const exportCommand = `csdx cm:export -k ${RP_STACK_API_KEY} -d content`;
         
         console.log(`Running: ${exportCommand}`);
         execSync(exportCommand, { 
@@ -89,6 +90,10 @@ function getContentStats(dirPath) {
 
 // CLI interface
 if (require.main === module) {
+    if (!RP_STACK_API_KEY) {
+        console.error('❌ RP_STACK_API_KEY is not set in environment variables.');
+        process.exit(1);
+    }
     const args = process.argv.slice(2);
     const command = args[0];
     if (!command) {
@@ -100,7 +105,7 @@ if (require.main === module) {
         Usage:
         npm run content:update         - Delete content directory and export fresh content
 
-        Export Command Used: csdx cm:export -k ${SOURCE_API_KEY} -d content
+        Export Command Used: csdx cm:export -k ${RP_STACK_API_KEY} -d content
         - Export stack used: Red Panda Main Stack
             `);
     }

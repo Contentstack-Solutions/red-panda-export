@@ -42,8 +42,13 @@ Sit back and relax, import to your destination stack will start.
 
 This repository includes scripts to update the exported content from Contentstack.
 
-#### Content Update Commands
+#### Set-up Source Stack Key
+Create a .env file and following environment variable
+```
+RP_STACK_API_KEY=<<RED_PANDA_STACK_API_KEY>>
+```
 
+#### Content Update Commands
 ```bash
 # Update content directory (delete existing and re-export)
 npm run content:update
