@@ -26,7 +26,7 @@ async function updateContentDirectory() {
         console.log('📥 Starting fresh content export...');
         
         // Run the Contentstack export command
-        const exportCommand = `csdx cm:export -k ${RP_STACK_API_KEY} -d content`;
+        const exportCommand = `csdx cm:stacks:export -k ${RP_STACK_API_KEY} -d content`;
         
         console.log(`Running: ${exportCommand}`);
         execSync(exportCommand, { 

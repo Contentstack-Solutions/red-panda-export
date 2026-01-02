@@ -199,14 +199,14 @@ if (require.main === module) {
                 // If first argument is force flag, use package.json version with force
                 createVersionTag(null, true);
             } else {
-                if (customVersion) {
-                    // Validate version format (basic semver check)
-                    const versionRegex = /^\d+\.\d+\.\d+(-[\w\.-]+)?$/;
-                    if (!versionRegex.test(customVersion)) {
-                        console.error('❌ Invalid version format. Please use semantic versioning (e.g., 1.0.0)');
-                        process.exit(1);
-                    }
-                }
+                // if (customVersion) {
+                //     // Validate version format (basic semver check)
+                //     const versionRegex = /^\d+\.\d+\.\d+(-[\w\.-]+)?$/;
+                //     if (!versionRegex.test(customVersion)) {
+                //         console.error('❌ Invalid version format. Please use semantic versioning (e.g., 1.0.0)');
+                //         process.exit(1);
+                //     }
+                // }
                 createVersionTag(customVersion, forceFlag);
             }
             break;
