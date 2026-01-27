@@ -4,3 +4,4 @@ logs/
 _backup_*
 .env
 .DS_Store
+.vscode/
