@@ -1,0 +1,4 @@
+{
+    "snyk.advanced.organization": "REDACTED_SNYK_ORG_ID",
+    "snyk.advanced.autoSelectOrganization": true
+}
