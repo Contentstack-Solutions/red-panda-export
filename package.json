@@ -10,6 +10,6 @@
   "author": "Kulsum Ansari",
   "license": "ISC",
   "dependencies": {
-    "@contentstack/cli": "^1.51.0"
+    "@contentstack/cli": "^1.57.0"
   }
 }
