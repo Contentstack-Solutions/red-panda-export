@@ -1,1 +1,1423 @@
-{"bltcbb2d3b4d593c2db":{"locale":"en","ACL":{},"_in_progress":false,"hero":[{"uid":"bltab253840d341232e","_content_type_uid":"hero_banner"}],"modular_blocks":[{"text_block":{"headline":"WELCOME TO THE MALDIVES","_metadata":{"uid":"csb2b314b8f25b24b7"},"body":"Make the most of your Maldives visit by staying at Red Panda Resort. Experience the breathtaking beauty of islands and enjoy world class pampering that Red Panda Resort supplies.\n\nWhether traveling as a couple, alone, or with others, Compass offers amenities and to suit everyone. We're excited to have you as a guest and we know your stay will be unforgettable."}},{"cards":{"card":[{"image":{"uid":"blte288fffeccc27a3a","created_at":"2026-02-03T12:26:39.730Z","updated_at":"2026-02-03T12:26:39.730Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"1239080","tags":[],"filename":"lagoon_villas.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blte288fffeccc27a3a/6981e97fe585ba6257270e54/lagoon_villas.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"lagoon_villas.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"es","time":"2026-02-03T12:28:47.486Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"es","time":"2026-02-03T12:28:47.492Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"es","time":"2026-02-03T12:28:47.497Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"de","time":"2026-02-03T12:28:47.506Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"de","time":"2026-02-03T12:28:47.511Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"de","time":"2026-02-03T12:28:47.517Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"fr","time":"2026-02-03T12:28:47.525Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"fr","time":"2026-02-03T12:28:47.530Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"fr","time":"2026-02-03T12:28:47.535Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:28:47.543Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:28:47.549Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:28:47.553Z","user":"bltc2fefc85fa8a3b60","version":1}]},"_metadata":{"uid":"cs1894e5894f3fd274"},"headline":"LAGOON VILLAS ARE AWESOME!","body":"Escape to paradise with our luxurious lagoon villas. Nestled over crystal clear waters, our villas offer stunning views of the surrounding turquoise lagoon and vibrant marine life below.\n\nIndulge in the ultimate relaxation as you soak up the sun on your private deck or take a dip in the warm waters right outside your door. Each villa is elegantly designed with modern amenities and spacious interiors, ensuring a comfortable and unforgettable stay.","button_text":"Book Now","page":[{"uid":"blt05f4906ce717a4a7","_content_type_uid":"page"}]},{"image":{"uid":"blt8db1066489b45d4e","created_at":"2026-02-03T12:26:36.181Z","updated_at":"2026-02-03T12:26:36.181Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"834799","tags":[],"filename":"beach_cabanas.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blt8db1066489b45d4e/6981e97c37a5ad03c86ff93b/beach_cabanas.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"beach_cabanas.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"es","time":"2026-02-03T12:28:45.754Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"es","time":"2026-02-03T12:28:45.829Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"es","time":"2026-02-03T12:28:45.834Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"de","time":"2026-02-03T12:28:45.841Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"de","time":"2026-02-03T12:28:45.846Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"de","time":"2026-02-03T12:28:45.850Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"fr","time":"2026-02-03T12:28:45.856Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"fr","time":"2026-02-03T12:28:45.861Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"fr","time":"2026-02-03T12:28:45.865Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:28:45.872Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:28:45.877Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:28:45.882Z","user":"bltc2fefc85fa8a3b60","version":1}]},"_metadata":{"uid":"cs3780bace54057cdd"},"headline":"Beach Villas","body":"Relax at our beach villas. Situated along the pristine white sand beaches and crystal-clear turquoise waters, our beach villas offer the perfect blend of luxury and comfort.\n\nEach villa features a spacious living area, private terrace with sun loungers, and direct access to the beach. Relax and unwind as you soak up the stunning views of the Indian Ocean and feel the gentle ocean breeze on your skin.\n\n","button_text":"Button Text","page":[]}],"_metadata":{"uid":"csc2daad59967c8806"},"background_color":{"hsl":{"h":204.00000000000003,"s":1,"l":0.9705882352941176,"a":1},"hex":"#f0f9ff","rgb":{"r":240,"g":249,"b":255,"a":1},"hsv":{"h":204.00000000000003,"s":0.05882352941176472,"v":1,"a":1},"oldHue":219.99999999999997,"source":"rgb"}}},{"image_grid":{"image":[{"text":"FAMILY ADVENTURES","_metadata":{"uid":"cs656f3cd00c88ebd8"},"image":{"uid":"bltf7549a3d5f57d863","created_at":"2026-02-03T12:26:39.406Z","updated_at":"2026-02-03T12:26:39.406Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"885870","tags":[],"filename":"family.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltf7549a3d5f57d863/6981e97f37a5adbb636ff93f/family.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"family.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"es","time":"2026-02-03T12:28:47.665Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"es","time":"2026-02-03T12:28:47.670Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"es","time":"2026-02-03T12:28:47.675Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"de","time":"2026-02-03T12:28:47.682Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"de","time":"2026-02-03T12:28:47.687Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"de","time":"2026-02-03T12:28:47.692Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"fr","time":"2026-02-03T12:28:47.699Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"fr","time":"2026-02-03T12:28:47.703Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"fr","time":"2026-02-03T12:28:47.707Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:28:47.714Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:28:47.719Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:28:47.723Z","user":"bltc2fefc85fa8a3b60","version":1}]},"page":[]},{"text":"DINING","_metadata":{"uid":"cs7eef7cbdc9f8be62"},"image":{"uid":"bltb724267d7f170000","created_at":"2026-02-03T12:26:36.041Z","updated_at":"2026-02-03T12:26:36.041Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"609809","tags":[],"filename":"dining.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltb724267d7f170000/6981e97ccc276c512c5e1741/dining.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"dining.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"es","time":"2026-02-03T12:28:45.703Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"es","time":"2026-02-03T12:28:45.709Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"es","time":"2026-02-03T12:28:45.714Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"de","time":"2026-02-03T12:28:45.722Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"de","time":"2026-02-03T12:28:45.727Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"de","time":"2026-02-03T12:28:45.732Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"fr","time":"2026-02-03T12:28:45.740Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"fr","time":"2026-02-03T12:28:45.745Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"fr","time":"2026-02-03T12:28:45.750Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:28:45.758Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:28:45.764Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:28:45.769Z","user":"bltc2fefc85fa8a3b60","version":1}]},"page":[{"uid":"blt05f4906ce717a4a7","_content_type_uid":"page"}]},{"text":"PAMPERING","_metadata":{"uid":"cs41fb09a9be885f38"},"image":{"uid":"blte416f03577ccf8ba","created_at":"2026-02-03T12:26:32.601Z","updated_at":"2026-02-03T12:26:32.601Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"451278","tags":[],"filename":"pampering.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blte416f03577ccf8ba/6981e978baaad37933ee6072/pampering.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"pampering.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"es","time":"2026-02-03T12:28:44.030Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"es","time":"2026-02-03T12:28:44.088Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"es","time":"2026-02-03T12:28:44.095Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"de","time":"2026-02-03T12:28:44.103Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"de","time":"2026-02-03T12:28:44.108Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"de","time":"2026-02-03T12:28:44.114Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"fr","time":"2026-02-03T12:28:44.121Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"fr","time":"2026-02-03T12:28:44.126Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"fr","time":"2026-02-03T12:28:44.130Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:28:44.138Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:28:44.144Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:28:44.149Z","user":"bltc2fefc85fa8a3b60","version":1}]},"page":[]},{"text":"WEDDINGS","_metadata":{"uid":"csa49169965e4881b7"},"image":{"uid":"blta791c9f5cc09978d","created_at":"2026-02-03T12:26:32.424Z","updated_at":"2026-02-03T12:26:32.424Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"298377","tags":[],"filename":"wedding.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blta791c9f5cc09978d/6981e97872d7bea4cd676b9e/wedding.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"wedding.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"es","time":"2026-02-03T12:28:44.028Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"es","time":"2026-02-03T12:28:44.088Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"es","time":"2026-02-03T12:28:44.094Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"de","time":"2026-02-03T12:28:44.101Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"de","time":"2026-02-03T12:28:44.106Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"de","time":"2026-02-03T12:28:44.110Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"fr","time":"2026-02-03T12:28:44.116Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"fr","time":"2026-02-03T12:28:44.121Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"fr","time":"2026-02-03T12:28:44.125Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:28:44.132Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:28:44.137Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:28:44.141Z","user":"bltc2fefc85fa8a3b60","version":1}]},"page":[]}],"_metadata":{"uid":"csb947b280dae6007e"}}},{"review":{"testimonials":[{"uid":"blt594026e04b590589","_content_type_uid":"testimonials"}],"_metadata":{"uid":"csb9c68c8d7a8ec915"}}},{"text_and_image":{"headline":"THE VILLAS","_metadata":{"uid":"cs9ef69152bd34de92"},"body":"Escape to paradise, where crystal clear waters, white sandy beaches, and luxurious overwater bungalows await. Indulge in relaxation and adventure in this tropical oasis.","button_text":"BOOK NOW","page":[{"uid":"blt9e7100c00d6cc372","_content_type_uid":"page"}],"image_align":"Image Right","image":{"uid":"blt5b3797d22a392703","created_at":"2026-02-03T12:26:43.329Z","updated_at":"2026-02-03T12:26:43.329Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"1132855","tags":[],"filename":"villas.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blt5b3797d22a392703/6981e98372d7be1eb7676ba2/villas.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"villas.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"es","time":"2026-02-03T12:28:49.370Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"es","time":"2026-02-03T12:28:49.375Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"es","time":"2026-02-03T12:28:49.379Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"de","time":"2026-02-03T12:28:49.386Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"de","time":"2026-02-03T12:28:49.392Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"de","time":"2026-02-03T12:28:49.396Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"fr","time":"2026-02-03T12:28:49.402Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"fr","time":"2026-02-03T12:28:49.406Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"fr","time":"2026-02-03T12:28:49.411Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:28:49.417Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:28:49.422Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:28:49.426Z","user":"bltc2fefc85fa8a3b60","version":1}]},"vertical_margin":false}},{"product_banner":{"title":"Special Offers","_metadata":{"uid":"cs14cad7ded3608786"},"description":"","large_cards":false,"products":{},"plp_link_text":"","plp":[]}},{"tabs":{"tabs":[{"title":"Beaches","_metadata":{"uid":"csae910f67d3c55386"},"tab_text":"Beaches","body":"A chain of 1,192 islands in the Indian Ocean, the Maldives is one of the most serene, romantic, and wildly scenic destinations in the world. The islands are clustered into atolls, based on their proximity to coral reefs, and are surrounded by azure-colored lagoons.","image":{"uid":"blt884378637898fdcb","created_at":"2026-02-03T12:28:07.041Z","updated_at":"2026-02-03T12:28:07.041Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"236606","tags":[],"filename":"beaches.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blt884378637898fdcb/6981e9d7cc276c3a925e1765/beaches.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"beaches.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:29:33.317Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:29:33.322Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:29:33.327Z","user":"bltc2fefc85fa8a3b60","version":1}]},"background_color":{"hsl":{"h":204.00000000000003,"s":1,"l":0.9705882352941176,"a":1},"hex":"#f0f9ff","rgb":{"r":240,"g":249,"b":255,"a":1},"hsv":{"h":204.00000000000003,"s":0.05882352941176472,"v":1,"a":1},"oldHue":240,"source":"rgb"},"text_dark":true,"layout":"Text Right"},{"title":"Dining","_metadata":{"uid":"cs64689b7dfb8c9cc4"},"tab_text":"Dining","body":"Dining in the Maldives can be a very indulgent experience indeed. Each resort has multiple restaurants concentrating on various types of world cuisine. Not surprisingly, seafood is a prominent fixture. Vegetarians won't go hungry, though!","image":{"uid":"bltc41dda6299a99ee1","created_at":"2026-02-03T12:28:10.274Z","updated_at":"2026-02-03T12:28:10.274Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"158883","tags":[],"filename":"tabs-dining.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltc41dda6299a99ee1/6981e9da37a5adeb496ff953/tabs-dining.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"tabs-dining.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:29:35.084Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:29:35.089Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:29:35.093Z","user":"bltc2fefc85fa8a3b60","version":1}]},"background_color":{"hsl":{"h":185.99999999999997,"s":0.5,"l":0.9607843137254901,"a":1},"hex":"#f0f9fa","rgb":{"r":240,"g":249,"b":250,"a":1},"hsv":{"h":185.99999999999997,"s":0.03999999999999997,"v":0.9803921568627451,"a":1},"oldHue":246.9064748201439,"source":"rgb"},"text_dark":true,"layout":"Text Right"},{"title":"Attractions","_metadata":{"uid":"cs415ab59acab44d6c"},"tab_text":"Attractions","body":"With 1,190 islands scattered across 26 atolls in the Indian Ocean, including close to 200 resort islands and 200 inhabited islands, there are plenty of places to explore in the Maldives. Despite the numerous options, most visitors choose to lounge at their resort, where restaurants, bars, boutiques and activity centers abound.","image":{"uid":"bltb816e5d855097b04","created_at":"2026-02-03T12:28:10.274Z","updated_at":"2026-02-03T12:28:10.274Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"138305","tags":[],"filename":"attractions.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltb816e5d855097b04/6981e9da6ea27578838c249f/attractions.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"attractions.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:29:35.102Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:29:35.107Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:29:35.112Z","user":"bltc2fefc85fa8a3b60","version":1}]},"background_color":{"hsl":{"h":204.00000000000003,"s":1,"l":0.9705882352941176,"a":1},"hex":"#f0f9ff","rgb":{"r":240,"g":249,"b":255,"a":1},"hsv":{"h":204.00000000000003,"s":0.05882352941176472,"v":1,"a":1},"oldHue":180,"source":"rgb"},"text_dark":true,"layout":"Text Right"},{"title":"Amenities","_metadata":{"uid":"cs67fcd9f95cb36446"},"tab_text":"Amenities","body":"Amenities in hotels can include spas, hot tubs, health clubs, conference facilities, and banqueting rooms. Hotels also often provide complimentary personal items like soap, shampoo, mouthwash, hair dryers, and irons","image":{"uid":"bltc7f2fd0a807e2741","created_at":"2026-02-03T12:28:06.672Z","updated_at":"2026-02-03T12:28:06.672Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"211279","tags":[],"filename":"amentities.jpeg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltc7f2fd0a807e2741/6981e9d672d7beca15676bb6/amentities.jpeg","ACL":[],"is_dir":false,"parent_uid":"blt83e58f99fa70ecce","_version":1,"title":"amentities.jpeg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:29:33.296Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:29:33.301Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:29:33.305Z","user":"bltc2fefc85fa8a3b60","version":1}]},"background_color":{"hsl":{"h":204.00000000000003,"s":1,"l":0.9705882352941176,"a":1},"hex":"#f0f9ff","rgb":{"r":240,"g":249,"b":255,"a":1},"hsv":{"h":204.00000000000003,"s":0.05882352941176472,"v":1,"a":1},"oldHue":174.78260869565221,"source":"rgb"},"text_dark":true,"layout":"Text Right"}],"_metadata":{"uid":"cs1c5759f4c0648053"}}}],"seo":{"canonical_url":"/","description":"Make the most of your Maldives visit by staying at Red Panda Resort. Experience the breathtaking beauty of islands and enjoy world class pampering that Red Panda Resort supplies.\n\nWhether traveling as a couple, alone, or with others, Compass offers amenities and to suit everyone. We're excited to have you as a guest and we know your stay will be unforgettable.","no_follow":false,"no_index":false,"og_meta_tags":{"description":"Make the most of your Maldives visit by staying at Red Panda Resort. Experience the breathtaking beauty of islands and enjoy world class pampering that Red Panda Resort supplies.\n\nWhether traveling as a couple, alone, or with others, Compass offers amenities and to suit everyone. We're excited to have you as a guest and we know your stay will be unforgettable.","image":{"uid":"bltfc2ca13335c766d4","created_at":"2026-02-03T12:28:14.585Z","updated_at":"2026-02-03T12:28:14.585Z","created_by":"bltc2fefc85fa8a3b60","updated_by":"bltc2fefc85fa8a3b60","content_type":"image/jpeg","file_size":"2504726","tags":[],"filename":"og-maldives.jpg","url":"https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltfc2ca13335c766d4/6981e9de397042098be9d1b3/og-maldives.jpg","ACL":[],"is_dir":false,"parent_uid":"blt57980b4326674e13","_version":1,"title":"og-maldives.jpg","publish_details":[{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-03T12:29:36.954Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-03T12:29:36.959Z","user":"bltc2fefc85fa8a3b60","version":1},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-03T12:29:36.965Z","user":"bltc2fefc85fa8a3b60","version":1}]},"title":"Homepage"},"show_in_site_search":false,"show_in_sitemap":false,"title":"Homepage"},"tags":[],"title":"Homepage","url":"/","uid":"bltcbb2d3b4d593c2db","_version":4,"taxonomies":[{"taxonomy_uid":"locations","term_uid":"maldives"}],"publish_details":[{"environment":"blt0555fea4d20f047a","locale":"en","time":"2026-02-04T07:35:21.634Z","user":"bltc2fefc85fa8a3b60","version":4},{"environment":"blt35bb2aa526196fc6","locale":"en","time":"2026-02-04T07:35:21.634Z","user":"bltc2fefc85fa8a3b60","version":4},{"environment":"blt597fc756a4695656","locale":"en","time":"2026-02-04T07:35:21.634Z","user":"bltc2fefc85fa8a3b60","version":4}]}}
+{
+    "bltcbb2d3b4d593c2db": {
+        "locale": "en",
+        "ACL": {},
+        "_in_progress": false,
+        "hero": [
+            {
+                "uid": "bltab253840d341232e",
+                "_content_type_uid": "hero_banner"
+            }
+        ],
+        "modular_blocks": [
+            {
+                "text_block": {
+                    "headline": "WELCOME TO THE MALDIVES",
+                    "_metadata": {
+                        "uid": "csb2b314b8f25b24b7"
+                    },
+                    "body": "Make the most of your Maldives visit by staying at Red Panda Resort. Experience the breathtaking beauty of islands and enjoy world class pampering that Red Panda Resort supplies.\n\nWhether traveling as a couple, alone, or with others, Compass offers amenities and to suit everyone. We're excited to have you as a guest and we know your stay will be unforgettable."
+                }
+            },
+            {
+                "cards": {
+                    "card": [
+                        {
+                            "image": {
+                                "uid": "blte288fffeccc27a3a",
+                                "created_at": "2026-02-03T12:26:39.730Z",
+                                "updated_at": "2026-02-03T12:26:39.730Z",
+                                "created_by": "bltc2fefc85fa8a3b60",
+                                "updated_by": "bltc2fefc85fa8a3b60",
+                                "content_type": "image/jpeg",
+                                "file_size": "1239080",
+                                "tags": [],
+                                "filename": "lagoon_villas.jpeg",
+                                "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blte288fffeccc27a3a/6981e97fe585ba6257270e54/lagoon_villas.jpeg",
+                                "ACL": [],
+                                "is_dir": false,
+                                "parent_uid": "blt83e58f99fa70ecce",
+                                "_version": 1,
+                                "title": "lagoon_villas.jpeg",
+                                "publish_details": [
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:47.486Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:47.492Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:47.497Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:47.506Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:47.511Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:47.517Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:47.525Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:47.530Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:47.535Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:47.543Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:47.549Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:47.553Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    }
+                                ]
+                            },
+                            "_metadata": {
+                                "uid": "cs1894e5894f3fd274"
+                            },
+                            "headline": "LAGOON VILLAS ARE AWESOME!",
+                            "body": "Escape to paradise with our luxurious lagoon villas. Nestled over crystal clear waters, our villas offer stunning views of the surrounding turquoise lagoon and vibrant marine life below.\n\nIndulge in the ultimate relaxation as you soak up the sun on your private deck or take a dip in the warm waters right outside your door. Each villa is elegantly designed with modern amenities and spacious interiors, ensuring a comfortable and unforgettable stay.",
+                            "button_text": "Book Now",
+                            "page": [
+                                {
+                                    "uid": "blt05f4906ce717a4a7",
+                                    "_content_type_uid": "page"
+                                }
+                            ]
+                        },
+                        {
+                            "image": {
+                                "uid": "blt8db1066489b45d4e",
+                                "created_at": "2026-02-03T12:26:36.181Z",
+                                "updated_at": "2026-02-03T12:26:36.181Z",
+                                "created_by": "bltc2fefc85fa8a3b60",
+                                "updated_by": "bltc2fefc85fa8a3b60",
+                                "content_type": "image/jpeg",
+                                "file_size": "834799",
+                                "tags": [],
+                                "filename": "beach_cabanas.jpeg",
+                                "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blt8db1066489b45d4e/6981e97c37a5ad03c86ff93b/beach_cabanas.jpeg",
+                                "ACL": [],
+                                "is_dir": false,
+                                "parent_uid": "blt83e58f99fa70ecce",
+                                "_version": 1,
+                                "title": "beach_cabanas.jpeg",
+                                "publish_details": [
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:45.754Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:45.829Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:45.834Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:45.841Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:45.846Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:45.850Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:45.856Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:45.861Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:45.865Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:45.872Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:45.877Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:45.882Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    }
+                                ]
+                            },
+                            "_metadata": {
+                                "uid": "cs3780bace54057cdd"
+                            },
+                            "headline": "Beach Villas",
+                            "body": "Relax at our beach villas. Situated along the pristine white sand beaches and crystal-clear turquoise waters, our beach villas offer the perfect blend of luxury and comfort.\n\nEach villa features a spacious living area, private terrace with sun loungers, and direct access to the beach. Relax and unwind as you soak up the stunning views of the Indian Ocean and feel the gentle ocean breeze on your skin.\n\n",
+                            "button_text": "Button Text",
+                            "page": []
+                        }
+                    ],
+                    "_metadata": {
+                        "uid": "csc2daad59967c8806"
+                    },
+                    "background_color": {
+                        "hsl": {
+                            "h": 204.00000000000003,
+                            "s": 1,
+                            "l": 0.9705882352941176,
+                            "a": 1
+                        },
+                        "hex": "#f0f9ff",
+                        "rgb": {
+                            "r": 240,
+                            "g": 249,
+                            "b": 255,
+                            "a": 1
+                        },
+                        "hsv": {
+                            "h": 204.00000000000003,
+                            "s": 0.05882352941176472,
+                            "v": 1,
+                            "a": 1
+                        },
+                        "oldHue": 219.99999999999997,
+                        "source": "rgb"
+                    }
+                }
+            },
+            {
+                "image_grid": {
+                    "image": [
+                        {
+                            "text": "FAMILY ADVENTURES",
+                            "_metadata": {
+                                "uid": "cs656f3cd00c88ebd8"
+                            },
+                            "image": {
+                                "uid": "bltf7549a3d5f57d863",
+                                "created_at": "2026-02-03T12:26:39.406Z",
+                                "updated_at": "2026-02-03T12:26:39.406Z",
+                                "created_by": "bltc2fefc85fa8a3b60",
+                                "updated_by": "bltc2fefc85fa8a3b60",
+                                "content_type": "image/jpeg",
+                                "file_size": "885870",
+                                "tags": [],
+                                "filename": "family.jpeg",
+                                "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltf7549a3d5f57d863/6981e97f37a5adbb636ff93f/family.jpeg",
+                                "ACL": [],
+                                "is_dir": false,
+                                "parent_uid": "blt83e58f99fa70ecce",
+                                "_version": 1,
+                                "title": "family.jpeg",
+                                "publish_details": [
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:47.665Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:47.670Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:47.675Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:47.682Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:47.687Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:47.692Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:47.699Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:47.703Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:47.707Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:47.714Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:47.719Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:47.723Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    }
+                                ]
+                            },
+                            "page": []
+                        },
+                        {
+                            "text": "DINING",
+                            "_metadata": {
+                                "uid": "cs7eef7cbdc9f8be62"
+                            },
+                            "image": {
+                                "uid": "bltb724267d7f170000",
+                                "created_at": "2026-02-03T12:26:36.041Z",
+                                "updated_at": "2026-02-03T12:26:36.041Z",
+                                "created_by": "bltc2fefc85fa8a3b60",
+                                "updated_by": "bltc2fefc85fa8a3b60",
+                                "content_type": "image/jpeg",
+                                "file_size": "609809",
+                                "tags": [],
+                                "filename": "dining.jpeg",
+                                "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltb724267d7f170000/6981e97ccc276c512c5e1741/dining.jpeg",
+                                "ACL": [],
+                                "is_dir": false,
+                                "parent_uid": "blt83e58f99fa70ecce",
+                                "_version": 1,
+                                "title": "dining.jpeg",
+                                "publish_details": [
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:45.703Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:45.709Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:45.714Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:45.722Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:45.727Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:45.732Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:45.740Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:45.745Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:45.750Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:45.758Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:45.764Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:45.769Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    }
+                                ]
+                            },
+                            "page": [
+                                {
+                                    "uid": "blt05f4906ce717a4a7",
+                                    "_content_type_uid": "page"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "PAMPERING",
+                            "_metadata": {
+                                "uid": "cs41fb09a9be885f38"
+                            },
+                            "image": {
+                                "uid": "blte416f03577ccf8ba",
+                                "created_at": "2026-02-03T12:26:32.601Z",
+                                "updated_at": "2026-02-03T12:26:32.601Z",
+                                "created_by": "bltc2fefc85fa8a3b60",
+                                "updated_by": "bltc2fefc85fa8a3b60",
+                                "content_type": "image/jpeg",
+                                "file_size": "451278",
+                                "tags": [],
+                                "filename": "pampering.jpeg",
+                                "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blte416f03577ccf8ba/6981e978baaad37933ee6072/pampering.jpeg",
+                                "ACL": [],
+                                "is_dir": false,
+                                "parent_uid": "blt83e58f99fa70ecce",
+                                "_version": 1,
+                                "title": "pampering.jpeg",
+                                "publish_details": [
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:44.030Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:44.088Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:44.095Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:44.103Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:44.108Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:44.114Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:44.121Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:44.126Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:44.130Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:44.138Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:44.144Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:44.149Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    }
+                                ]
+                            },
+                            "page": []
+                        },
+                        {
+                            "text": "WEDDINGS",
+                            "_metadata": {
+                                "uid": "csa49169965e4881b7"
+                            },
+                            "image": {
+                                "uid": "blta791c9f5cc09978d",
+                                "created_at": "2026-02-03T12:26:32.424Z",
+                                "updated_at": "2026-02-03T12:26:32.424Z",
+                                "created_by": "bltc2fefc85fa8a3b60",
+                                "updated_by": "bltc2fefc85fa8a3b60",
+                                "content_type": "image/jpeg",
+                                "file_size": "298377",
+                                "tags": [],
+                                "filename": "wedding.jpeg",
+                                "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blta791c9f5cc09978d/6981e97872d7bea4cd676b9e/wedding.jpeg",
+                                "ACL": [],
+                                "is_dir": false,
+                                "parent_uid": "blt83e58f99fa70ecce",
+                                "_version": 1,
+                                "title": "wedding.jpeg",
+                                "publish_details": [
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:44.028Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:44.088Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "es",
+                                        "time": "2026-02-03T12:28:44.094Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:44.101Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:44.106Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "de",
+                                        "time": "2026-02-03T12:28:44.110Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:44.116Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:44.121Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "fr",
+                                        "time": "2026-02-03T12:28:44.125Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:44.132Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:44.137Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:28:44.141Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    }
+                                ]
+                            },
+                            "page": []
+                        }
+                    ],
+                    "_metadata": {
+                        "uid": "csb947b280dae6007e"
+                    }
+                }
+            },
+            {
+                "review": {
+                    "testimonials": [
+                        {
+                            "uid": "blt594026e04b590589",
+                            "_content_type_uid": "testimonials"
+                        }
+                    ],
+                    "_metadata": {
+                        "uid": "csb9c68c8d7a8ec915"
+                    }
+                }
+            },
+            {
+                "text_and_image": {
+                    "headline": "THE VILLAS",
+                    "_metadata": {
+                        "uid": "cs9ef69152bd34de92"
+                    },
+                    "body": "Escape to paradise, where crystal clear waters, white sandy beaches, and luxurious overwater bungalows await. Indulge in relaxation and adventure in this tropical oasis.",
+                    "button_text": "BOOK NOW",
+                    "page": [
+                        {
+                            "uid": "blt9e7100c00d6cc372",
+                            "_content_type_uid": "page"
+                        }
+                    ],
+                    "image_align": "Image Right",
+                    "image": {
+                        "uid": "blt5b3797d22a392703",
+                        "created_at": "2026-02-03T12:26:43.329Z",
+                        "updated_at": "2026-02-03T12:26:43.329Z",
+                        "created_by": "bltc2fefc85fa8a3b60",
+                        "updated_by": "bltc2fefc85fa8a3b60",
+                        "content_type": "image/jpeg",
+                        "file_size": "1132855",
+                        "tags": [],
+                        "filename": "villas.jpeg",
+                        "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blt5b3797d22a392703/6981e98372d7be1eb7676ba2/villas.jpeg",
+                        "ACL": [],
+                        "is_dir": false,
+                        "parent_uid": "blt83e58f99fa70ecce",
+                        "_version": 1,
+                        "title": "villas.jpeg",
+                        "publish_details": [
+                            {
+                                "environment": "blt0555fea4d20f047a",
+                                "locale": "es",
+                                "time": "2026-02-03T12:28:49.370Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt35bb2aa526196fc6",
+                                "locale": "es",
+                                "time": "2026-02-03T12:28:49.375Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt597fc756a4695656",
+                                "locale": "es",
+                                "time": "2026-02-03T12:28:49.379Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt0555fea4d20f047a",
+                                "locale": "de",
+                                "time": "2026-02-03T12:28:49.386Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt35bb2aa526196fc6",
+                                "locale": "de",
+                                "time": "2026-02-03T12:28:49.392Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt597fc756a4695656",
+                                "locale": "de",
+                                "time": "2026-02-03T12:28:49.396Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt0555fea4d20f047a",
+                                "locale": "fr",
+                                "time": "2026-02-03T12:28:49.402Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt35bb2aa526196fc6",
+                                "locale": "fr",
+                                "time": "2026-02-03T12:28:49.406Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt597fc756a4695656",
+                                "locale": "fr",
+                                "time": "2026-02-03T12:28:49.411Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt0555fea4d20f047a",
+                                "locale": "en",
+                                "time": "2026-02-03T12:28:49.417Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt35bb2aa526196fc6",
+                                "locale": "en",
+                                "time": "2026-02-03T12:28:49.422Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            },
+                            {
+                                "environment": "blt597fc756a4695656",
+                                "locale": "en",
+                                "time": "2026-02-03T12:28:49.426Z",
+                                "user": "bltc2fefc85fa8a3b60",
+                                "version": 1
+                            }
+                        ]
+                    },
+                    "vertical_margin": false
+                }
+            },
+            {
+                "product_banner": {
+                    "title": "Special Offers",
+                    "_metadata": {
+                        "uid": "cs14cad7ded3608786"
+                    },
+                    "description": "",
+                    "large_cards": false,
+                    "products": {
+                    "selectedIds": [
+                        "fc60c26b-1a3e-4262-898c-22b5f9bd59f9",
+                        "77902cf9-f618-4f91-836b-3b1226862f7a"
+                    ],
+                    "items": [
+                        {
+                            "id": "fc60c26b-1a3e-4262-898c-22b5f9bd59f9",
+                            "name": "Zenith Woven Long-Sleeve Knit Polo Base",
+                            "image": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Zenith-Woven-Long-Sleeve-Knit-Polo2---1.png",
+                            "media": [
+                                {
+                                    "id": 1780,
+                                    "name": "Zenith-Woven-Long-Sleeve-Knit-Polo2---1.png",
+                                    "path": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Zenith-Woven-Long-Sleeve-Knit-Polo2---1.png",
+                                    "type": "image",
+                                    "ordernum": 0,
+                                    "language_id": 115,
+                                    "locale": "en",
+                                    "language_name": "English",
+                                    "is_default_language": true
+                                },
+                                {
+                                    "id": 1781,
+                                    "name": "Zenith-Woven-Long-Sleeve-Knit-Polo2---2.png",
+                                    "path": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Zenith-Woven-Long-Sleeve-Knit-Polo2---2.png",
+                                    "type": "image",
+                                    "ordernum": 1,
+                                    "language_id": 115,
+                                    "locale": "en",
+                                    "language_name": "English",
+                                    "is_default_language": true
+                                },
+                                {
+                                    "id": 1782,
+                                    "name": "Zenith-Woven-Long-Sleeve-Knit-Polo2---3.png",
+                                    "path": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Zenith-Woven-Long-Sleeve-Knit-Polo2---3.png",
+                                    "type": "image",
+                                    "ordernum": 2,
+                                    "language_id": 115,
+                                    "locale": "en",
+                                    "language_name": "English",
+                                    "is_default_language": true
+                                },
+                                {
+                                    "id": 1783,
+                                    "name": "Zenith-Woven-Long-Sleeve-Knit-Polo2---4.png",
+                                    "path": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Zenith-Woven-Long-Sleeve-Knit-Polo2---4.png",
+                                    "type": "image",
+                                    "ordernum": 3,
+                                    "language_id": 115,
+                                    "locale": "en",
+                                    "language_name": "English",
+                                    "is_default_language": true
+                                },
+                                {
+                                    "id": 1784,
+                                    "name": "Zenith-Woven-Long-Sleeve-Knit-Polo2---5.png",
+                                    "path": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Zenith-Woven-Long-Sleeve-Knit-Polo2---5.png",
+                                    "type": "image",
+                                    "ordernum": 4,
+                                    "language_id": 115,
+                                    "locale": "en",
+                                    "language_name": "English",
+                                    "is_default_language": true
+                                }
+                            ],
+                            "sku": "ZN-KPL-MT488",
+                            "url": "zenith-woven-long-sleeve-knit-polo-midnight-tide",
+                            "brand": "Red Panda",
+                            "description": "<p>Experience the depth and coolness of the ocean with the <strong>Midnight Tide Zenith Knit Polo</strong>. This exquisite long-sleeve sweater, crafted in a deep indigo blue, uses the same intricate, breathable ottoman-style weave for a rich texture and soft hand-feel. The dark, luxurious hue provides a striking contrast for the subtle black bamboo logo, making it an essential piece for sharp business-casual or sophisticated evening wear.</p><p><strong>Technical Details</strong></p><ul><li><p><strong>Custom Detail:</strong> Black logo embroidery on the left chest.</p></li><li><p><strong>Fabric Composition:</strong> 55% Supima Cotton, 35% Modal, 10% Linen Blend.</p></li><li><p><strong>Knit:</strong> Textured ottoman stitch for superior structure and breathability.</p></li><li><p><strong>Collar:</strong> Self-fabric collar with clean, untipped edges.</p></li><li><p><strong>Care:</strong> Hand wash or machine wash cold on delicate cycle. Lay flat on a towel to dry. Iron low if necessary.</p></li><li><p><strong>SKU:</strong> ZN-KPL-MT488</p></li></ul>",
+                            "productType": "variant",
+                            "price": 148,
+                            "currency_code": "USD",
+                            "currency_symbol": "$",
+                            "locale": "en"
+                        },
+                        {
+                            "id": "77902cf9-f618-4f91-836b-3b1226862f7a",
+                            "name": "Bamboo Weave Long-Sleeve Resort Polo",
+                            "image": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Bamboo-Weave-Long-Sleeve-Resort-Polo---1.png",
+                            "media": [
+                                {
+                                    "id": 1760,
+                                    "name": "Bamboo-Weave-Long-Sleeve-Resort-Polo---1.png",
+                                    "path": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Bamboo-Weave-Long-Sleeve-Resort-Polo---1.png",
+                                    "type": "image",
+                                    "ordernum": 0,
+                                    "language_id": 115,
+                                    "locale": "en",
+                                    "language_name": "English",
+                                    "is_default_language": true
+                                },
+                                {
+                                    "id": 1761,
+                                    "name": "Bamboo-Weave-Long-Sleeve-Resort-Polo---2.png",
+                                    "path": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Bamboo-Weave-Long-Sleeve-Resort-Polo---2.png",
+                                    "type": "image",
+                                    "ordernum": 1,
+                                    "language_id": 115,
+                                    "locale": "en",
+                                    "language_name": "English",
+                                    "is_default_language": true
+                                },
+                                {
+                                    "id": 1762,
+                                    "name": "Bamboo-Weave-Long-Sleeve-Resort-Polo---3.png",
+                                    "path": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Bamboo-Weave-Long-Sleeve-Resort-Polo---3.png",
+                                    "type": "image",
+                                    "ordernum": 2,
+                                    "language_id": 115,
+                                    "locale": "en",
+                                    "language_name": "English",
+                                    "is_default_language": true
+                                },
+                                {
+                                    "id": 1763,
+                                    "name": "Bamboo-Weave-Long-Sleeve-Resort-Polo---5.png",
+                                    "path": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Bamboo-Weave-Long-Sleeve-Resort-Polo---5.png",
+                                    "type": "image",
+                                    "ordernum": 3,
+                                    "language_id": 115,
+                                    "locale": "en",
+                                    "language_name": "English",
+                                    "is_default_language": true
+                                },
+                                {
+                                    "id": 1764,
+                                    "name": "Bamboo-Weave-Long-Sleeve-Resort-Polo---4.png",
+                                    "path": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Sweater/Bamboo-Weave-Long-Sleeve-Resort-Polo---4.png",
+                                    "type": "image",
+                                    "ordernum": 4,
+                                    "language_id": 115,
+                                    "locale": "en",
+                                    "language_name": "English",
+                                    "is_default_language": true
+                                }
+                            ],
+                            "sku": "BWT42488",
+                            "url": "bamboo-weave-long-sleeve-resort-polo-forest-trail",
+                            "brand": "Red Panda",
+                            "description": "<p>Elevate your casual wardrobe with the sophisticated comfort of our <strong>Forest Trail Bamboo Weave Resort Polo</strong>. This long-sleeve sweater polo is designed with a unique textured knit for exceptional breathability and a luxurious feel. Featuring your elegant black bamboo logo embroidered on the chest, it's the perfect piece that transitions effortlessly from resort wear to refined everyday style.</p><p></p><p><strong>Key Features &amp; Technology:</strong></p><ul><li><p><strong>Signature Logo:</strong> Custom black bamboo logo embroidered on the left chest.</p></li><li><p><strong>Fabric Blend:</strong> 60% Cotton, 30% Bamboo Viscose, 10% Recycled Polyester.</p></li><li><p><strong>Weave Comfort:</strong> Textured, breathable knit for all-day comfort.</p></li><li><p><strong>Relaxed Fit:</strong> Designed for maximum comfort and mobility.</p></li><li><p><strong>Care Instructions:</strong> Machine wash cold with like colors, gentle cycle. Non-chlorine bleach only. Tumble dry low or lay flat to dry for best results. Cool iron if needed.</p></li><li><p><strong>Style Number:</strong> BWT42488</p></li></ul>",
+                            "productType": "variant",
+                            "price": 145,
+                            "currency_code": "USD",
+                            "currency_symbol": "$",
+                            "locale": "en"
+                        }
+                    ]
+                },
+                    "plp_link_text": "",
+                    "plp": []
+                }
+            },
+            {
+                "tabs": {
+                    "tabs": [
+                        {
+                            "title": "Beaches",
+                            "_metadata": {
+                                "uid": "csae910f67d3c55386"
+                            },
+                            "tab_text": "Beaches",
+                            "body": "A chain of 1,192 islands in the Indian Ocean, the Maldives is one of the most serene, romantic, and wildly scenic destinations in the world. The islands are clustered into atolls, based on their proximity to coral reefs, and are surrounded by azure-colored lagoons.",
+                            "image": {
+                                "uid": "blt884378637898fdcb",
+                                "created_at": "2026-02-03T12:28:07.041Z",
+                                "updated_at": "2026-02-03T12:28:07.041Z",
+                                "created_by": "bltc2fefc85fa8a3b60",
+                                "updated_by": "bltc2fefc85fa8a3b60",
+                                "content_type": "image/jpeg",
+                                "file_size": "236606",
+                                "tags": [],
+                                "filename": "beaches.jpeg",
+                                "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/blt884378637898fdcb/6981e9d7cc276c3a925e1765/beaches.jpeg",
+                                "ACL": [],
+                                "is_dir": false,
+                                "parent_uid": "blt83e58f99fa70ecce",
+                                "_version": 1,
+                                "title": "beaches.jpeg",
+                                "publish_details": [
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:33.317Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:33.322Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:33.327Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    }
+                                ]
+                            },
+                            "background_color": {
+                                "hsl": {
+                                    "h": 204.00000000000003,
+                                    "s": 1,
+                                    "l": 0.9705882352941176,
+                                    "a": 1
+                                },
+                                "hex": "#f0f9ff",
+                                "rgb": {
+                                    "r": 240,
+                                    "g": 249,
+                                    "b": 255,
+                                    "a": 1
+                                },
+                                "hsv": {
+                                    "h": 204.00000000000003,
+                                    "s": 0.05882352941176472,
+                                    "v": 1,
+                                    "a": 1
+                                },
+                                "oldHue": 240,
+                                "source": "rgb"
+                            },
+                            "text_dark": true,
+                            "layout": "Text Right"
+                        },
+                        {
+                            "title": "Dining",
+                            "_metadata": {
+                                "uid": "cs64689b7dfb8c9cc4"
+                            },
+                            "tab_text": "Dining",
+                            "body": "Dining in the Maldives can be a very indulgent experience indeed. Each resort has multiple restaurants concentrating on various types of world cuisine. Not surprisingly, seafood is a prominent fixture. Vegetarians won't go hungry, though!",
+                            "image": {
+                                "uid": "bltc41dda6299a99ee1",
+                                "created_at": "2026-02-03T12:28:10.274Z",
+                                "updated_at": "2026-02-03T12:28:10.274Z",
+                                "created_by": "bltc2fefc85fa8a3b60",
+                                "updated_by": "bltc2fefc85fa8a3b60",
+                                "content_type": "image/jpeg",
+                                "file_size": "158883",
+                                "tags": [],
+                                "filename": "tabs-dining.jpeg",
+                                "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltc41dda6299a99ee1/6981e9da37a5adeb496ff953/tabs-dining.jpeg",
+                                "ACL": [],
+                                "is_dir": false,
+                                "parent_uid": "blt83e58f99fa70ecce",
+                                "_version": 1,
+                                "title": "tabs-dining.jpeg",
+                                "publish_details": [
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:35.084Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:35.089Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:35.093Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    }
+                                ]
+                            },
+                            "background_color": {
+                                "hsl": {
+                                    "h": 185.99999999999997,
+                                    "s": 0.5,
+                                    "l": 0.9607843137254901,
+                                    "a": 1
+                                },
+                                "hex": "#f0f9fa",
+                                "rgb": {
+                                    "r": 240,
+                                    "g": 249,
+                                    "b": 250,
+                                    "a": 1
+                                },
+                                "hsv": {
+                                    "h": 185.99999999999997,
+                                    "s": 0.03999999999999997,
+                                    "v": 0.9803921568627451,
+                                    "a": 1
+                                },
+                                "oldHue": 246.9064748201439,
+                                "source": "rgb"
+                            },
+                            "text_dark": true,
+                            "layout": "Text Right"
+                        },
+                        {
+                            "title": "Attractions",
+                            "_metadata": {
+                                "uid": "cs415ab59acab44d6c"
+                            },
+                            "tab_text": "Attractions",
+                            "body": "With 1,190 islands scattered across 26 atolls in the Indian Ocean, including close to 200 resort islands and 200 inhabited islands, there are plenty of places to explore in the Maldives. Despite the numerous options, most visitors choose to lounge at their resort, where restaurants, bars, boutiques and activity centers abound.",
+                            "image": {
+                                "uid": "bltb816e5d855097b04",
+                                "created_at": "2026-02-03T12:28:10.274Z",
+                                "updated_at": "2026-02-03T12:28:10.274Z",
+                                "created_by": "bltc2fefc85fa8a3b60",
+                                "updated_by": "bltc2fefc85fa8a3b60",
+                                "content_type": "image/jpeg",
+                                "file_size": "138305",
+                                "tags": [],
+                                "filename": "attractions.jpeg",
+                                "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltb816e5d855097b04/6981e9da6ea27578838c249f/attractions.jpeg",
+                                "ACL": [],
+                                "is_dir": false,
+                                "parent_uid": "blt83e58f99fa70ecce",
+                                "_version": 1,
+                                "title": "attractions.jpeg",
+                                "publish_details": [
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:35.102Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:35.107Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:35.112Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    }
+                                ]
+                            },
+                            "background_color": {
+                                "hsl": {
+                                    "h": 204.00000000000003,
+                                    "s": 1,
+                                    "l": 0.9705882352941176,
+                                    "a": 1
+                                },
+                                "hex": "#f0f9ff",
+                                "rgb": {
+                                    "r": 240,
+                                    "g": 249,
+                                    "b": 255,
+                                    "a": 1
+                                },
+                                "hsv": {
+                                    "h": 204.00000000000003,
+                                    "s": 0.05882352941176472,
+                                    "v": 1,
+                                    "a": 1
+                                },
+                                "oldHue": 180,
+                                "source": "rgb"
+                            },
+                            "text_dark": true,
+                            "layout": "Text Right"
+                        },
+                        {
+                            "title": "Amenities",
+                            "_metadata": {
+                                "uid": "cs67fcd9f95cb36446"
+                            },
+                            "tab_text": "Amenities",
+                            "body": "Amenities in hotels can include spas, hot tubs, health clubs, conference facilities, and banqueting rooms. Hotels also often provide complimentary personal items like soap, shampoo, mouthwash, hair dryers, and irons",
+                            "image": {
+                                "uid": "bltc7f2fd0a807e2741",
+                                "created_at": "2026-02-03T12:28:06.672Z",
+                                "updated_at": "2026-02-03T12:28:06.672Z",
+                                "created_by": "bltc2fefc85fa8a3b60",
+                                "updated_by": "bltc2fefc85fa8a3b60",
+                                "content_type": "image/jpeg",
+                                "file_size": "211279",
+                                "tags": [],
+                                "filename": "amentities.jpeg",
+                                "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltc7f2fd0a807e2741/6981e9d672d7beca15676bb6/amentities.jpeg",
+                                "ACL": [],
+                                "is_dir": false,
+                                "parent_uid": "blt83e58f99fa70ecce",
+                                "_version": 1,
+                                "title": "amentities.jpeg",
+                                "publish_details": [
+                                    {
+                                        "environment": "blt0555fea4d20f047a",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:33.296Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt35bb2aa526196fc6",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:33.301Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    },
+                                    {
+                                        "environment": "blt597fc756a4695656",
+                                        "locale": "en",
+                                        "time": "2026-02-03T12:29:33.305Z",
+                                        "user": "bltc2fefc85fa8a3b60",
+                                        "version": 1
+                                    }
+                                ]
+                            },
+                            "background_color": {
+                                "hsl": {
+                                    "h": 204.00000000000003,
+                                    "s": 1,
+                                    "l": 0.9705882352941176,
+                                    "a": 1
+                                },
+                                "hex": "#f0f9ff",
+                                "rgb": {
+                                    "r": 240,
+                                    "g": 249,
+                                    "b": 255,
+                                    "a": 1
+                                },
+                                "hsv": {
+                                    "h": 204.00000000000003,
+                                    "s": 0.05882352941176472,
+                                    "v": 1,
+                                    "a": 1
+                                },
+                                "oldHue": 174.78260869565221,
+                                "source": "rgb"
+                            },
+                            "text_dark": true,
+                            "layout": "Text Right"
+                        }
+                    ],
+                    "_metadata": {
+                        "uid": "cs1c5759f4c0648053"
+                    }
+                }
+            }
+        ],
+        "seo": {
+            "canonical_url": "/",
+            "description": "Make the most of your Maldives visit by staying at Red Panda Resort. Experience the breathtaking beauty of islands and enjoy world class pampering that Red Panda Resort supplies.\n\nWhether traveling as a couple, alone, or with others, Compass offers amenities and to suit everyone. We're excited to have you as a guest and we know your stay will be unforgettable.",
+            "no_follow": false,
+            "no_index": false,
+            "og_meta_tags": {
+                "description": "Make the most of your Maldives visit by staying at Red Panda Resort. Experience the breathtaking beauty of islands and enjoy world class pampering that Red Panda Resort supplies.\n\nWhether traveling as a couple, alone, or with others, Compass offers amenities and to suit everyone. We're excited to have you as a guest and we know your stay will be unforgettable.",
+                "image": {
+                    "uid": "bltfc2ca13335c766d4",
+                    "created_at": "2026-02-03T12:28:14.585Z",
+                    "updated_at": "2026-02-03T12:28:14.585Z",
+                    "created_by": "bltc2fefc85fa8a3b60",
+                    "updated_by": "bltc2fefc85fa8a3b60",
+                    "content_type": "image/jpeg",
+                    "file_size": "2504726",
+                    "tags": [],
+                    "filename": "og-maldives.jpg",
+                    "url": "https://dev14-images.csnonprod.com/v3/assets/bltd95188221a5ad9ff/bltfc2ca13335c766d4/6981e9de397042098be9d1b3/og-maldives.jpg",
+                    "ACL": [],
+                    "is_dir": false,
+                    "parent_uid": "blt57980b4326674e13",
+                    "_version": 1,
+                    "title": "og-maldives.jpg",
+                    "publish_details": [
+                        {
+                            "environment": "blt0555fea4d20f047a",
+                            "locale": "en",
+                            "time": "2026-02-03T12:29:36.954Z",
+                            "user": "bltc2fefc85fa8a3b60",
+                            "version": 1
+                        },
+                        {
+                            "environment": "blt35bb2aa526196fc6",
+                            "locale": "en",
+                            "time": "2026-02-03T12:29:36.959Z",
+                            "user": "bltc2fefc85fa8a3b60",
+                            "version": 1
+                        },
+                        {
+                            "environment": "blt597fc756a4695656",
+                            "locale": "en",
+                            "time": "2026-02-03T12:29:36.965Z",
+                            "user": "bltc2fefc85fa8a3b60",
+                            "version": 1
+                        }
+                    ]
+                },
+                "title": "Homepage"
+            },
+            "show_in_site_search": false,
+            "show_in_sitemap": false,
+            "title": "Homepage"
+        },
+        "tags": [],
+        "title": "Homepage",
+        "url": "/",
+        "uid": "bltcbb2d3b4d593c2db",
+        "_version": 4,
+        "taxonomies": [
+            {
+                "taxonomy_uid": "locations",
+                "term_uid": "maldives"
+            }
+        ],
+        "publish_details": [
+            {
+                "environment": "blt0555fea4d20f047a",
+                "locale": "en",
+                "time": "2026-02-04T07:35:21.634Z",
+                "user": "bltc2fefc85fa8a3b60",
+                "version": 4
+            },
+            {
+                "environment": "blt35bb2aa526196fc6",
+                "locale": "en",
+                "time": "2026-02-04T07:35:21.634Z",
+                "user": "bltc2fefc85fa8a3b60",
+                "version": 4
+            },
+            {
+                "environment": "blt597fc756a4695656",
+                "locale": "en",
+                "time": "2026-02-04T07:35:21.634Z",
+                "user": "bltc2fefc85fa8a3b60",
+                "version": 4
+            }
+        ]
+    }
+}
