@@ -5,3 +5,4 @@ _backup_*
 .env
 .DS_Store
 .vscode/
+*.zip
