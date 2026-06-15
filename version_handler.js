@@ -2,6 +2,46 @@ const { execSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
+const V2_REPO = 'Contentstack-Solutions/Red-Panda-Resort-v2';
+
+async function createReleaseBranchInV2Repo(version) {
+    const branchName = `release/${version}`;
+    console.log(`\nCreating branch '${branchName}' in ${V2_REPO}...`);
+
+    try {
+        // Get the SHA of the default branch
+        const repoInfo = JSON.parse(
+            execSync(`gh api repos/${V2_REPO}`, { encoding: 'utf8', stdio: 'pipe' })
+        );
+        const defaultBranch = repoInfo.default_branch;
+
+        const refInfo = JSON.parse(
+            execSync(`gh api repos/${V2_REPO}/git/refs/heads/${defaultBranch}`, { encoding: 'utf8', stdio: 'pipe' })
+        );
+        const sha = refInfo.object.sha;
+
+        // Check if the branch already exists
+        try {
+            execSync(`gh api repos/${V2_REPO}/git/refs/heads/${branchName.replace('refs/heads/', '')}`, { encoding: 'utf8', stdio: 'pipe' });
+            console.log(`⏭️  Branch '${branchName}' already exists in ${V2_REPO}. Skipping...`);
+            return;
+        } catch {
+            // Branch doesn't exist, proceed
+        }
+
+        // Create the branch
+        execSync(
+            `gh api repos/${V2_REPO}/git/refs -f ref="refs/heads/${branchName}" -f sha="${sha}"`,
+            { stdio: 'pipe' }
+        );
+
+        console.log(`✅ Created branch '${branchName}' in ${V2_REPO}`);
+    } catch (error) {
+        console.error(`❌ Failed to create release branch in ${V2_REPO}: ${error.message}`);
+        console.error('   Make sure you are authenticated with: gh auth login');
+    }
+}
+
 /**
  * Creates a version tag in the current git repository
  * @param {string} customVersion - Optional custom version to use instead of package.json version
@@ -127,8 +167,11 @@ async function createVersionTag(customVersion = null, force = false) {
         
         console.log(`Pushing tag ${version} to remote...`);
         execSync(`git push origin ${version}`, { stdio: 'inherit' });
-        
+
         console.log(`✅ Successfully created and pushed tag ${version}`);
+
+        // Create release branch in Red-Panda-Resort-v2 repo
+        await createReleaseBranchInV2Repo(version);
         
     } catch (error) {
         console.error('❌ Error creating version tag:', error.message);
