@@ -1,1 +1,46 @@
-{"taxonomy":{"uid":"article","name":"Article","description":"","locale":"en"},"terms":[{"uid":"amenities","name":"Amenities","parent_uid":null,"locale":"en"},{"uid":"history","name":"History","parent_uid":null,"locale":"en"},{"uid":"cuisine","name":"Cuisine","parent_uid":null,"locale":"en"},{"uid":"culture","name":"Culture","parent_uid":null,"locale":"en"},{"uid":"activities","name":"Activities","parent_uid":null,"locale":"en"}]}
+{
+    "taxonomy": {
+        "uid": "article",
+        "name": "Article",
+        "description": "",
+        "locale": "en"
+    },
+    "terms": [
+        {
+            "uid": "amenities",
+            "name": "Amenities",
+            "parent_uid": null,
+            "locale": "en"
+        },
+        {
+            "uid": "swimming",
+            "name": "Swimming",
+            "parent_uid": null,
+            "locale": "en"
+        },
+        {
+            "uid": "history",
+            "name": "History",
+            "parent_uid": null,
+            "locale": "en"
+        },
+        {
+            "uid": "cuisine",
+            "name": "Cuisine",
+            "parent_uid": null,
+            "locale": "en"
+        },
+        {
+            "uid": "culture",
+            "name": "Culture",
+            "parent_uid": null,
+            "locale": "en"
+        },
+        {
+            "uid": "activities",
+            "name": "Activities",
+            "parent_uid": null,
+            "locale": "en"
+        }
+    ]
+}
