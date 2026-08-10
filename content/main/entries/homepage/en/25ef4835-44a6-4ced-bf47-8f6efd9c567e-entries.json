@@ -13,18 +13,18 @@
         ],
         "modular_blocks": [
             {
+                "recently_viewed_products": {
+                    "heading": "Continue Shopping",
+                    "sub_heading": "Your recently browsed products are waiting for you."
+                }
+            },
+            {
                 "text_block": {
                     "headline": "WELCOME TO THE MALDIVES",
                     "_metadata": {
                         "uid": "csb2b314b8f25b24b7"
                     },
                     "body": "Make the most of your Maldives visit by staying at Red Panda Resort. Experience the breathtaking beauty of islands and enjoy world class pampering that Red Panda Resort supplies.\n\nWhether traveling as a couple, alone, or with others, Compass offers amenities and to suit everyone. We're excited to have you as a guest and we know your stay will be unforgettable."
-                }
-            },
-            {
-                "recently_viewed_products": {
-                    "heading": "Continue Shopping",
-                    "sub_heading": "Your recently browsed products are waiting for you."
                 }
             },
             {

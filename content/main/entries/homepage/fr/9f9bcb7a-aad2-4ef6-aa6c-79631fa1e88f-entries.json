@@ -13,18 +13,18 @@
         ],
         "modular_blocks": [
             {
+                "recently_viewed_products": {
+                    "heading": "Continuer vos achats",
+                    "sub_heading": "Vos produits récemment consultés vous attendent."
+                }
+            },
+            {
                 "text_block": {
                     "headline": "BIENVENUE",
                     "_metadata": {
                         "uid": "csba0772377c6e8ecc"
                     },
                     "body": "Profitez au maximum de votre visite aux Maldives en séjournant au Compass Resort. Découvrez la beauté à couper le souffle des îles et profitez du luxe de classe mondiale que le Compass Resort propose.\n\nQue vous voyagiez en couple, seul ou avec d'autres, Compass offre des équipements pour convenir à tout le monde. Nous sommes ravis de vous accueillir en tant qu'invité et nous savons que votre séjour sera inoubliable."
-                }
-            },
-            {
-                "recently_viewed_products": {
-                    "heading": "Continuer vos achats",
-                    "sub_heading": "Vos produits récemment consultés vous attendent."
                 }
             },
             {

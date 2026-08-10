@@ -13,18 +13,18 @@
         ],
         "modular_blocks": [
             {
+                "recently_viewed_products": {
+                    "heading": "Einkauf fortsetzen",
+                    "sub_heading": "Ihre kürzlich angesehenen Produkte warten auf Sie."
+                }
+            },
+            {
                 "text_block": {
                     "headline": "WILLKOMMEN",
                     "_metadata": {
                         "uid": "csac0585d166d8770d"
                     },
                     "body": "Nutzen Sie Ihren Besuch auf den Malediven optimal, indem Sie im Red Panda Resort übernachten. Erleben Sie die atemberaubende Schönheit der Inseln und genießen Sie die erstklassige Verwöhnung, die das Red Panda Resort bietet.\n\nOb als Paar, alleine oder mit anderen unterwegs, Compass bietet Annehmlichkeiten, die jeden zufriedenstellen. Wir freuen uns, Sie als Gast zu haben, und wir wissen, dass Ihr Aufenthalt unvergesslich sein wird."
-                }
-            },
-            {
-                "recently_viewed_products": {
-                    "heading": "Einkauf fortsetzen",
-                    "sub_heading": "Ihre kürzlich angesehenen Produkte warten auf Sie."
                 }
             },
             {
