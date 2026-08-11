@@ -1,0 +1,36 @@
+{
+    "bltac7e7394f90b4051": {
+        "uid": "bltac7e7394f90b4051",
+        "locale": "de",
+        "ACL": {},
+        "_in_progress": false,
+        "_version": 1,
+        "key_values": [
+            {
+                "key": "buy_button",
+                "value": "JETZT KAUFEN",
+                "_metadata": {
+                    "uid": "cs61f1ae0b724f3321"
+                }
+            },
+            {
+                "key": "back_button",
+                "value": "zurück",
+                "_metadata": {
+                    "uid": "csd7572db71e2f2fa5"
+                }
+            }
+        ],
+        "tags": [],
+        "title": "import test",
+        "publish_details": [
+            {
+                "environment": "blt1c2fdbf023454f09",
+                "locale": "de",
+                "time": "2026-01-12T23:28:50.365Z",
+                "user": "csde9b4898ad8ee8c6",
+                "version": 1
+            }
+        ]
+    }
+}

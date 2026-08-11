@@ -1,0 +1,86 @@
+{
+    "bltd9ee50006d3067ad": {
+        "uid": "bltd9ee50006d3067ad",
+        "locale": "fr",
+        "ACL": {},
+        "_in_progress": false,
+        "_version": 7,
+        "key_values": [
+            {
+                "key": "variations_button",
+                "_metadata": {
+                    "uid": "csa0e113f1d6cad3b0"
+                },
+                "value": "VOIR TOUTES LES VARIATIONS"
+            },
+            {
+                "key": "cart_button",
+                "_metadata": {
+                    "uid": "cs97e42bb7bf8127d8"
+                },
+                "value": "AJOUTER AU PANIER"
+            },
+            {
+                "key": "back_button",
+                "_metadata": {
+                    "uid": "cscb961bd7cc48d1d8",
+                    "non_localizable_content": true
+                },
+                "value": "Retour aux produits précédents"
+            },
+            {
+                "key": "description_label",
+                "_metadata": {
+                    "uid": "cscc0a798f24e5b164",
+                    "non_localizable_content": true
+                },
+                "value": "Description"
+            }
+        ],
+        "tags": [],
+        "title": "PDP Translations",
+        "publish_details": [
+            {
+                "environment": "blt1c2fdbf023454f09",
+                "locale": "fr",
+                "time": "2026-01-13T00:45:47.897Z",
+                "user": "csde9b4898ad8ee8c6",
+                "version": 7
+            }
+        ]
+    },
+    "bltac7e7394f90b4051": {
+        "locale": "fr",
+        "uid": "bltac7e7394f90b4051",
+        "ACL": {},
+        "_in_progress": false,
+        "_version": 1,
+        "key_values": [
+            {
+                "key": "buy_button",
+                "value": "ACHETER MAINTENANT",
+                "_metadata": {
+                    "uid": "cs6a23d4ac6f5a1292"
+                }
+            },
+            {
+                "key": "back_button",
+                "value": "revenir",
+                "_metadata": {
+                    "uid": "cs19adb4d0a6aea265"
+                }
+            }
+        ],
+        "tags": [],
+        "title": "import test",
+        "publish_details": [
+            {
+                "environment": "blt1c2fdbf023454f09",
+                "locale": "fr",
+                "time": "2026-01-12T23:28:49.978Z",
+                "user": "csde9b4898ad8ee8c6",
+                "version": 1
+            }
+        ]
+    }
+}

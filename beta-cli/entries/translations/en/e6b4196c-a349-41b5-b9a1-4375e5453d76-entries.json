@@ -1,0 +1,66 @@
+{
+    "bltd9ee50006d3067ad": {
+        "title": "PDP Translations",
+        "key_values": [
+            {
+                "key": "variations_button",
+                "value": "SEE ALL VARIATIONS",
+                "_metadata": {
+                    "uid": "cs2bc5c06e41151878"
+                }
+            },
+            {
+                "key": "cart_button",
+                "value": "ADD TO CART",
+                "_metadata": {
+                    "uid": "cs6e284e1e3e99f135"
+                }
+            },
+            {
+                "key": "back_button",
+                "value": "Back to previous products",
+                "_metadata": {
+                    "uid": "cs94810643e3f94590"
+                }
+            },
+            {
+                "key": "description_label",
+                "value": "Description",
+                "_metadata": {
+                    "uid": "cs8b8eae624d322ee6"
+                }
+            }
+        ],
+        "tags": [],
+        "locale": "en",
+        "uid": "bltd9ee50006d3067ad",
+        "ACL": {},
+        "_version": 35,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt1c2fdbf023454f09",
+                "locale": "en",
+                "time": "2026-01-13T01:10:14.115Z",
+                "user": "csde9b4898ad8ee8c6",
+                "version": 35
+            },
+            {
+                "environment": "blt1c2fdbf023454f09",
+                "locale": "es",
+                "time": "2026-01-13T00:48:17.752Z",
+                "user": "csde9b4898ad8ee8c6",
+                "version": 15,
+                "entry_locale": "es"
+            },
+            {
+                "environment": "blt1c2fdbf023454f09",
+                "locale": "fr",
+                "time": "2026-01-13T00:45:47.897Z",
+                "user": "csde9b4898ad8ee8c6",
+                "version": 7,
+                "entry_locale": "fr"
+            }
+        ]
+    }
+}

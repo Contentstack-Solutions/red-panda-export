@@ -1,0 +1,1 @@
+{"title":"Recommendations Banner","uid":"recommendations_banner","description":"","schema":[{"data_type":"text","display_name":"Headline","uid":"headline","field_metadata":{"description":"","default_value":""},"format":"","error_messages":{"format":""},"mandatory":false,"multiple":false,"non_localizable":false,"unique":false}]}

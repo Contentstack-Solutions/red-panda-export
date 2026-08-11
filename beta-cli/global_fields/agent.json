@@ -1,0 +1,1 @@
+{"title":"Agent","uid":"agent","description":"","schema":[{"display_name":"Agent","extension_uid":"blt89d7b6003e55331d","field_metadata":{"extension":true},"uid":"agent","mandatory":false,"multiple":false,"non_localizable":false,"unique":false,"config":{},"data_type":"json"}]}

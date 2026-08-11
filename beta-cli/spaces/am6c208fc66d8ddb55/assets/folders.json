@@ -1,0 +1,269 @@
+{
+  "folders": [
+    {
+      "uid": "blt4087b448454f80eb",
+      "title": "PLP",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt7e582426ca855a48",
+      "created_by": "blt7e582426ca855a48",
+      "updated_by": "blt7e582426ca855a48",
+      "created_at": "2025-12-18T18:30:37.230Z",
+      "updated_at": "2025-12-18T18:30:37.230Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "bltc046e1cf4888bf93",
+      "title": "People",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt4aabe76cbc5c8676",
+      "created_by": "blt4aabe76cbc5c8676",
+      "updated_by": "blt4aabe76cbc5c8676",
+      "created_at": "2024-12-11T21:36:30.602Z",
+      "updated_at": "2024-12-11T21:36:30.602Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "blta83dfbfe0468b8d9",
+      "title": "Opengraph",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt4aabe76cbc5c8676",
+      "created_by": "blt4aabe76cbc5c8676",
+      "updated_by": "blt4aabe76cbc5c8676",
+      "created_at": "2024-12-11T20:25:24.474Z",
+      "updated_at": "2024-12-11T20:25:24.474Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "blte1c7de91ab90bccc",
+      "title": "Config",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt4aabe76cbc5c8676",
+      "created_by": "blt4aabe76cbc5c8676",
+      "updated_by": "blt4aabe76cbc5c8676",
+      "created_at": "2024-11-18T18:55:09.207Z",
+      "updated_at": "2024-11-18T18:55:09.207Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "blt72ae53c719ea1598",
+      "title": "Fiji",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "bltbe96af92bb2f78ae",
+      "created_by": "bltbe96af92bb2f78ae",
+      "updated_by": "bltbe96af92bb2f78ae",
+      "created_at": "2024-11-11T20:49:28.806Z",
+      "updated_at": "2024-11-11T20:49:28.806Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "bltee30b7534cc84ab8",
+      "title": "Videos",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt4aabe76cbc5c8676",
+      "created_by": "blt4aabe76cbc5c8676",
+      "updated_by": "blt4aabe76cbc5c8676",
+      "created_at": "2024-11-06T22:46:37.474Z",
+      "updated_at": "2024-11-06T22:46:37.474Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "blt3b932a6f4edee7a0",
+      "title": "airlines",
+      "description": "",
+      "parent_uid": "blt75a94c9f14d3ba7f",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt4aabe76cbc5c8676",
+      "created_by": "blt4aabe76cbc5c8676",
+      "updated_by": "blt4aabe76cbc5c8676",
+      "created_at": "2024-10-23T19:57:39.032Z",
+      "updated_at": "2024-10-23T19:57:39.032Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "bltadec92a23715fa31",
+      "title": "Articles",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt4aabe76cbc5c8676",
+      "created_by": "blt4aabe76cbc5c8676",
+      "updated_by": "blt4aabe76cbc5c8676",
+      "created_at": "2024-10-23T19:57:38.018Z",
+      "updated_at": "2024-10-23T19:57:38.018Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "blt31c3b393318f98bd",
+      "title": "Pages",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt4aabe76cbc5c8676",
+      "created_by": "blt4aabe76cbc5c8676",
+      "updated_by": "blt4aabe76cbc5c8676",
+      "created_at": "2024-10-23T19:57:36.999Z",
+      "updated_at": "2024-10-23T19:57:36.999Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "blt75a94c9f14d3ba7f",
+      "title": "Logos",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt4aabe76cbc5c8676",
+      "created_by": "blt4aabe76cbc5c8676",
+      "updated_by": "blt4aabe76cbc5c8676",
+      "created_at": "2024-10-23T19:57:36.027Z",
+      "updated_at": "2024-10-23T19:57:36.027Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "blt39d42ff5ed817a9e",
+      "title": "Components",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt4aabe76cbc5c8676",
+      "created_by": "blt4aabe76cbc5c8676",
+      "updated_by": "blt4aabe76cbc5c8676",
+      "created_at": "2024-10-23T19:57:35.022Z",
+      "updated_at": "2024-10-23T19:57:35.022Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    },
+    {
+      "uid": "blt32d798e5290d2415",
+      "title": "Banners",
+      "description": "",
+      "parent_uid": "root",
+      "org_uid": "bltd615cd84d1b59067",
+      "space_uid": "am6c208fc66d8ddb55",
+      "is_dir": true,
+      "tags": [],
+      "version": 1,
+      "content_type": "application/vnd.contenstack.folder",
+      "owner_uid": "blt4aabe76cbc5c8676",
+      "created_by": "blt4aabe76cbc5c8676",
+      "updated_by": "blt4aabe76cbc5c8676",
+      "created_at": "2024-10-23T19:57:34.009Z",
+      "updated_at": "2024-10-23T19:57:34.009Z",
+      "settings": {
+        "privacy_settings": {
+          "asset_access": "public"
+        }
+      }
+    }
+  ],
+  "count": 12
+}
