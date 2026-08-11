@@ -1,1 +1,1803 @@
-[{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"61c04dd81ecff10018907bed","name":"Cloudinary","description":"<p>Contentstack' Marketplace Apps offers a variety of ways to integrate third-party applications, such as Cloudinary, directly into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>. With the Cloudinary app, you can streamline the process of managing and sharing images across multiple platforms.</p><p><a href=\"https://www.contentstack.com/docs/developers/create-custom-fields/about-custom-fields\" target=\"_blank\">Custom Field</a> or <a href=\"https://www.contentstack.com/docs/developers/json-rich-text-editor/about-json-rich-text-editor/\" target=\"_blank\">JSON RTE</a>, you can integrate Cloudinary with Contentstack directly. You can create content in Contentstack, and Cloudinary will ensure that you are able to view and access your Cloudinary images within your CMS.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt5492471633f54c05/6242e90f6aee76195cd5a511/cloudinary_cloud_glyph_512x512.png","webhook":{"enabled":true,"channels":["cs.apps.installations.install","cs.apps.installations.update","cs.apps.installations.uninstall"],"branch_scope":"main"},"ui_location":{"locations":[{"type":"cs.cm.stack.config","meta":[{"uid":"628b5d4949314928ff3f2ae5","path":"/config","signed":true,"enabled":true,"required":true}]},{"type":"cs.cm.stack.rte","meta":[{"uid":"628b5d4949314928ff3f2ae6","name":"Cloudinary","path":"/dist/cloudinary.js?fromRte=true","signed":true,"enabled":true,"description":"Using the JSON RTE plugin, you can view and access your Cloudinary images within your CMS.","required":false}]},{"type":"cs.cm.stack.custom_field","meta":[{"uid":"628b5d4949314928ff3f2ae7","multiple":false,"name":"Cloudinary","path":"/field-extension","signed":true,"enabled":true,"data_type":"json","description":"Using the Custom Field, you can view and access your Cloudinary images within your CMS.","required":false}]}]},"visibility":"public","type":"app","target_type":"stack","group":"user","organization_uid":"blt90f399a6ce838a5a","framework_version":"1.0","version":8,"created_by":{"uid":"bltfcfdbd62e8ce50a9","first_name":"surabhi","last_name":"sharma"},"updated_by":{"uid":"bltcc72ccaf01e3d185","first_name":"namrata","last_name":"sane"},"created_at":"2021-12-20T09:33:12.451Z","updated_at":"2024-07-10T12:02:25.776Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"updated_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2024-11-25T18:47:44.346Z","updated_at":"2024-11-25T18:49:33.288Z","ui_location":{"locations":[{"type":"cs.cm.stack.config","meta":[{"uid":"628b5d4949314928ff3f2ae5","extension_uid":"bltbfe5cbe69d452ac1","enabled":true,"name":"Cloudinary","path":"/config"}]},{"type":"cs.cm.stack.rte","meta":[{"uid":"628b5d4949314928ff3f2ae6","extension_uid":"blt6572d3b203769789","enabled":true,"name":"Cloudinary","path":"/dist/cloudinary.js?fromRte=true"}]},{"type":"cs.cm.stack.custom_field","meta":[{"uid":"628b5d4949314928ff3f2ae7","extension_uid":"bltbd2820fe058ff2fa","enabled":true,"name":"Cloudinary","path":"/field-extension","data_type":"json"}]}]},"uid":"6744c6502a3325ce579957b6","installation_uid":"6744c6502a3325ce579957b6","urlPath":"/installations/6744c6502a3325ce579957b6","configuration":"6552ec8b3d98b5dbab4c56474c7977923ef7c7162e6b89cfbeb3508e3b46ade59a9349ec6af16dd2a94857a4c84e415c689478f8ed0f95063440f154e0177b2c14b5520c76a15bbb6146f07e114df6f309177059b75214d94a1129a764193965af4aa2e712c6b3eac885b2a54d38e45ed893fb1a1291b9ac9f982fab190e62419f1e6921f4c805a948841b70172de5ef4a3e92149bbd43f670ce4c8fd808d2fcf27bf672506245740d4298b05dac960b3dc0f337bbd75968de12b8dfb9a49da85e704fd11698a339a40dd810c27c15357c60c52ee89c9561b143710014a03d60ac1913e6851f0403efd5cc0be0a0b58c7a8153594783ead9297b954588f47176516f10e2e3b8e3a24458cc21b740c07e5a8c7e4517debb6be0280b0215b37aa2a90269e509173979b5d8791b85eee525d08269640ca00862266644fb5c5ca05a0fd34f0fc01af087f4352ccd2f17e159b99402d40a3113430ccf280f18de6818f18248adc3708d1b7a4220599c97eef505a391ce1ad1db122326cd1fc674e68ef8b01c603dd148395be635739d58c10c43273e2e3ea73950a327099cd852d4bbf3ca2e2c5d36a5d93f39deaf5bd57b59b02422fa07deb3f7da495d89abfa47f12d962311a85331578739f9c8d72d635de6525aa1ff1e5d73dceca6f716d14f0085428ab8ab7d99e095165cb990e5418280ccad7971f594cf30a0cf597d97321b|445b9fe4735635909485c6fde1d9db6d","server_configuration":"b00b42cb48fe22cd33da8a0b299037896e46ebf0b8a23f2db297a1adab3b7f12792fa2ffeed809be87f10f7577cacd0f5c82efffb0248ecd15394208830ad721|f65c504b93e88bd5d0ac19beb6f918bc"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"61ddc1b51ecff10018907c4d","name":"Bynder","description":"<p>Contentstack's Marketplace apps offer a variety of ways to integrate third-party applications, such as Bynder, directly into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>. With this, you can streamline the process of managing and sharing digital assets across multiple platforms.</p><p>Using a Contentstack <a href=\"https://www.contentstack.com/docs/developers/create-custom-fields/about-custom-fields\" target=\"_blank\">Custom Field</a>, you can integrate Bynder with Contentstack directly. You can create an entry in Contentstack, the app will ensure that you are able to view the digital assets within your CMS.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blteb81b84adb512d31/6242e9070466d7630dd3a706/Bynder.svg","ui_location":{"locations":[{"type":"cs.cm.stack.custom_field","meta":[{"uid":"628b5d4949314928ff3f2af3","path":"/#/field-extension","signed":true,"enabled":true,"data_type":"json"}]},{"type":"cs.cm.stack.config","meta":[{"uid":"628b5d4949314928ff3f2af4","path":"/#/config","signed":true,"enabled":true}]},{"type":"cs.cm.stack.rte","meta":[{"uid":"62d956e39221bb11f849a026","path":"/dist/bynder.js","signed":false,"enabled":true}]}]},"visibility":"public","type":"app","target_type":"stack","group":"user","organization_uid":"bltfc33bb69af496456","framework_version":"1.0","version":6,"created_by":{"uid":"blt3d7ca982747a9999","first_name":"bliss","last_name":"dcunha"},"updated_by":{"uid":"blt65a8329e72183ade","first_name":"Rijil","last_name":"T R"},"created_at":"2022-01-11T17:43:16.560Z","updated_at":"2022-09-16T10:35:33.514Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"updated_by":{"uid":"bltb317ebe35429ebe6","first_name":"sayali","last_name":"joshi"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2024-11-25T18:56:26.390Z","updated_at":"2026-04-20T09:55:31.662Z","ui_location":{"locations":[{"type":"cs.cm.stack.custom_field","meta":[{"uid":"628b5d4949314928ff3f2af3","extension_uid":"blt743831051c984f25","enabled":true,"name":"Bynder","path":"/#/field-extension","data_type":"json"}]},{"type":"cs.cm.stack.config","meta":[{"uid":"628b5d4949314928ff3f2af4","extension_uid":"blt0f816b359244bb4c","enabled":true,"name":"Bynder","path":"/#/config"}]},{"type":"cs.cm.stack.rte","meta":[{"uid":"62d956e39221bb11f849a026","extension_uid":"blt8b2f26b10ebce683","enabled":true,"name":"Bynder","path":"/dist/bynder.js"}]}]},"uid":"6744c85a19fff6135cdf63dd","installation_uid":"6744c85a19fff6135cdf63dd","urlPath":"/installations/6744c85a19fff6135cdf63dd","configuration":"36209776f8c838d4eb8a5395c563563b90bb19ee8d2ecfd12a6d3d57efd8ee752947ff56b4d1cac170db9a0e84b898acf14b8a8623f179d824ac293b897bc06e691d52fe9f07af447679f281ff6c87cb8c33742551f7e5a42df4aa3da144aa60fe871b15359add13db99a155a2f4c8b9d63b59e541beba0c1214a3d56c6d89d9a1fc72f7cacc9606ebf5fe09e76218025f13feb342b9490b184e4f513db9b216388c17cb0d0389d1ce49470000cf341cc5cf65ea13c7b0819e354a385fa2857986548ae47ca6d65519ea9bdcd32c8b39700469548cd85dbe1e7034868b998ee79921a73d5722ef1ffc990082d265940aa9d413e14ceee5fe8c0ebcdc6adae025ca5e366e9007f2872eb14146931fc89638fdd2045eca0d4655f06b1c306f6ef5fa58a6833a0501caa39542788adfc7068c9f38fcb557029e34ecbbeff8cc4cc09967e9e8891cb10a9d56c7cde49704d4d88f75b6f733bf83288056c03c5e558aacd6361a008116a8c09049c58b8022fc4d225c691358fe3f4261f5aac215d2eb9c9e6ae5081ce65fc37eca362722118c58807a3c556f42cb5424f5fe89448e059747c26944c66f2d4fdc3b16155091982bf8144ee9f266f389504c1880ac408d0458c76560acd0b2da2053c5012bd35a4827c09db329c8878f0559399157ae5e42e986b68b8da36d4d559c53030c302f320589064920b52566fbcf2b0a34b1164d75d539e4d3262aa78b522fd9277924d66578ec9c21e8f5c1d076468252ce64a610f1b76b80c137414f73547347f0696f2ce19c121a43edcfca74fd041465c8a007624ad50c244cf258937c28ce0052ea6a1da10ff95f0e4def77456925af4cc1da0407fd64269be6ed06e35c3ee9ea69a4483613f5c6305cd38967ea4966c892370bc384c7ef50e8ef017ca5106f9e9addc5bb42a87c629d8b061c8c0249280b947497aa246b07038541a6709f6ce46a3f1269918701b81a5512173110c0e5405eaf83bf27f6e5e2cc13198df6f88a9d4ba6f2e4cf28d1a3adf31eacdfdc19|213773f18535fa28b0b589f65679ecd7","server_configuration":"fad386173c7af5bff46b5ce7cf2745928084f0519ccf0a1a49dc7c1c6a346765d014f5b0fc957578bf214976226cd4e592256c835e9d14db0a6b798ffad3dc348013e28dd8821cc7858c5a56535b4b96b85b0a50ca04c9a445b8861d7601290608789a4a2671cd3e9b4eaecb189fdd5ecf400f51196ee2fc74fb4fc9d77e86c5|e3f4ffa556bc54fe1a9b2c9883480bb8"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"61f398fd1ecff10018907c80","name":"Color Picker","description":"<p>To further enhance the business user experience, Contentstack provides prebuilt custom field extensions that let you extend the functionality of your custom fields to serve your unique business needs while providing a native Contentstack look and feel.</p><p>With Contentstack Custom Fields, you can now select a color as an input. With the Color Picker custom field, you can select and adjust color values.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/bltecb2d14343451f47/6242e94aaeff370de94d90c2/color-picker.svg","ui_location":{"locations":[{"type":"cs.cm.stack.custom_field","meta":[{"uid":"628b5d4949314928ff3f2afa","multiple":false,"name":"Color Picker","path":"/custom-field","signed":true,"enabled":true,"data_type":"json","description":"While creating entries, you can select a color as an input."}]}]},"visibility":"public","type":"app","target_type":"stack","group":"user","organization_uid":"bltfc33bb69af496456","framework_version":"1.0","version":5,"created_by":{"uid":"blt1953533304988583","first_name":"Hanoak","last_name":"Suchethan"},"updated_by":{"uid":"blt3505f2536be88457","first_name":"ankita","last_name":"dodamani"},"created_at":"2022-01-28T07:19:24.564Z","updated_at":"2023-07-27T13:41:08.998Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"updated_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2024-11-23T01:04:45.462Z","updated_at":"2024-11-23T01:04:46.014Z","ui_location":{"locations":[{"type":"cs.cm.stack.custom_field","meta":[{"uid":"628b5d4949314928ff3f2afa","extension_uid":"bltc320693af956a37c","enabled":true,"name":"Color Picker","path":"/custom-field","data_type":"json"}]}]},"uid":"67412a2d2a3325ce5798ea1b","installation_uid":"67412a2d2a3325ce5798ea1b","urlPath":"/installations/67412a2d2a3325ce5798ea1b"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"621640ff4671880018efec74","name":"Image Preset Builder","description":"<p style=\"text-align: left;\">The Image Preset Builder app is a collection of formatting tools that help transform and optimize assets in the stack. You can build customized presets for any image file to tailor your assets as per your business requirements.</p><p style=\"text-align: left;\">Image Preset Builder allows you to use varied preset versions of assets across your entries. With the help of this app, you can add image presets to fields such as Custom Field extensions or the JSON Rich Text Editor.<span style=\"color: rgb(0, 0, 0);font-family: undefined;\"></span><span style=\"color: rgb(0, 0, 255);\"><strong></strong></span></p><h4>Developer Documentation:</h4><p>To render the image presets built from the Image Preset Builder app in your project using the <a href=\"https://github.com/contentstack/app-utils/\" target=\"_blank\">App Utils</a> functions, please refer to the <a href=\"https://www.contentstack.com/docs/developers/marketplace-apps/image-preset-builder/#render-images-using-image-preset-builder\" target=\"_blank\">Render Images using Image Preset Builder</a> section of the installation guide.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/bltfe85fe6163c6371e/6242e8d081b559640a7f7475/preset.svg","ui_location":{"locations":[{"type":"cs.cm.stack.config","meta":[{"uid":"628b5d4949314928ff3f2b28","signed":false,"path":"/config/index.html"}]},{"type":"cs.cm.stack.rte","meta":[{"uid":"628b5d4949314928ff3f2b29","name":"Image Preset Picker","path":"/rte/plugin.system.js","signed":false,"enabled":true}]},{"type":"cs.cm.stack.custom_field","meta":[{"uid":"628b5d4949314928ff3f2b2a","name":"Image Preset Picker","path":"/custom-field/index.html","signed":false,"enabled":true,"data_type":"asset"}]},{"type":"cs.cm.stack.asset_sidebar","meta":[{"uid":"628b5d4949314928ff3f2b2b","name":"Image Preset Builder","path":"/preset-builder/index.html","signed":false,"enabled":true,"width":1024,"blur":true}]}]},"visibility":"public","type":"app","target_type":"stack","group":"user","organization_uid":"bltfc33bb69af496456","framework_version":"1.0","version":1,"created_by":{"uid":"blt5d77259b211435ff","first_name":"Sankaranandh","last_name":"TN"},"updated_by":{"uid":"blt773ff263ca3598a0","first_name":"Deepak","last_name":"Kharah"},"created_at":"2022-02-23T14:13:19.062Z","updated_at":"2025-01-28T10:55:15.683Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"bltbe96af92bb2f78ae","first_name":"Andrew","last_name":"Seatter"},"updated_by":{"uid":"bltbe96af92bb2f78ae","first_name":"Andrew","last_name":"Seatter"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2025-03-18T21:13:53.398Z","updated_at":"2025-03-18T21:14:11.864Z","ui_location":{"locations":[{"type":"cs.cm.stack.config","meta":[{"uid":"628b5d4949314928ff3f2b28","extension_uid":"blt0c551c2b6ef8db17","enabled":true,"name":"Image Preset Builder","path":"/config/index.html"}]},{"type":"cs.cm.stack.rte","meta":[{"uid":"628b5d4949314928ff3f2b29","extension_uid":"blt83e92302a2d7082e","enabled":true,"name":"Image Preset Picker","path":"/rte/plugin.system.js"}]},{"type":"cs.cm.stack.custom_field","meta":[{"uid":"628b5d4949314928ff3f2b2a","extension_uid":"bltb7737eace31cfb76","enabled":true,"name":"Image Preset Picker","path":"/custom-field/index.html","data_type":"asset"}]},{"type":"cs.cm.stack.asset_sidebar","meta":[{"uid":"628b5d4949314928ff3f2b2b","extension_uid":"bltdf3297c231e91bd2","enabled":true,"name":"Image Preset Builder","path":"/preset-builder/index.html"}]}]},"uid":"67d9e21185082a5453261bda","installation_uid":"67d9e21185082a5453261bda","urlPath":"/installations/67d9e21185082a5453261bda","configuration":"8f6d66b625f9b2f7cc1344ac387da9b6f5211ccde5e858eda4fcaa5bc11af9a6743763ca5e18d02769fa8248aa906c2c91c1f66cfe942eb5e410c8fa280d2a81|27f55fccbaac7e2a6b61990b5a272b8f"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"627cad8f615b520018fe004e","name":"Developer Tools","description":"<p>The Developer Tools app enhances the developer experience within the CMS by offering code snippets and automated schema generation.</p><p>By leveraging Developer Tools, developers can quickly access the required code snippets, reducing manual effort and improving efficiency when integrating content into their applications</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt8141683c1670df03/627d036d170c712e886640a8/developertools.svg","ui_location":{"locations":[{"type":"cs.cm.stack.sidebar","meta":[{"uid":"628b5d4a49314928ff3f2c4b","path":"/field-extension","signed":false,"enabled":true}]},{"type":"cs.cm.stack.content_type_sidebar","meta":[{"uid":"67a5f84aec55b10f26179c2d","path":"/types-generator","signed":false,"enabled":true,"required":false}]}]},"visibility":"public","type":"app","target_type":"stack","group":"user","organization_uid":"blt90f399a6ce838a5a","framework_version":"1.0","version":8,"created_by":{"uid":"bltf01cfddcefa2394d","first_name":"Amit","last_name":"Kanswal"},"updated_by":{"uid":"blt65a8329e72183ade","first_name":"Rijil","last_name":"T R"},"created_at":"2022-05-12T06:47:43.384Z","updated_at":"2025-03-18T10:15:32.867Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"updated_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2025-06-05T17:30:26.131Z","updated_at":"2025-06-05T17:30:26.695Z","ui_location":{"locations":[{"type":"cs.cm.stack.sidebar","meta":[{"uid":"628b5d4a49314928ff3f2c4b","extension_uid":"blt18aa224550a677f2","enabled":true,"name":"Developer Tools","path":"/field-extension"}]},{"type":"cs.cm.stack.content_type_sidebar","meta":[{"uid":"67a5f84aec55b10f26179c2d","extension_uid":"blt90aaae1b1c82f50d","enabled":true,"name":"Developer Tools","path":"/types-generator"}]}]},"uid":"6841d4324b9c4f047d4c6cfa","installation_uid":"6841d4324b9c4f047d4c6cfa","urlPath":"/installations/6841d4324b9c4f047d4c6cfa"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"6307403f08132800192fe615","name":"Aprimo","description":"<p>With the Contentstack Marketplace Aprimo integration, into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>, you can easily manage and share digital assets across multiple platforms.</p><p>Using the <a href=\"https://www.contentstack.com/docs/developers/create-custom-fields/about-custom-fields\" target=\"_blank\">Custom Field</a> and <a href=\"https://www.contentstack.com/docs/developers/json-rich-text-editor/about-json-rich-text-editor/\" target=\"_blank\">JSON RTE</a> plugin, you can integrate Aprimo with Contentstack. You can create an entry in Contentstack and, with the integration, view all the digital assets in Contentstack.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/bltf38c093728e6118d/6321d700acc2b02a2d2beb76/Aprimo.svg","ui_location":{"locations":[{"type":"cs.cm.stack.config","meta":[{"uid":"63074067a1b5927e4b43811c","name":"Aprimo App","path":"/#/config","signed":false,"enabled":true}]},{"type":"cs.cm.stack.custom_field","meta":[{"uid":"6307407c75375dbb57e03551","multiple":false,"name":"Aprimo","path":"/#/custom-field","signed":false,"enabled":true,"data_type":"json","description":"Custom field allows you to select multiple images to add them to your entry from your Aprimo account."}]},{"type":"cs.cm.stack.rte","meta":[{"uid":"63074094cc11ca31585a56ee","name":"Aprimo","path":"/dist/aprimo.js","signed":false,"enabled":true,"description":"You can add images from the Aprimo app to your JSON Rich Text Editor field using the Aprimo JSON RTE Plugin."}]}]},"visibility":"public","type":"app","target_type":"stack","group":"user","organization_uid":"bltfc33bb69af496456","framework_version":"1.0","version":25,"created_by":{"uid":"bltd3e314b8626ecf71","first_name":"pawan","last_name":"sharma"},"updated_by":{"uid":"blt75a769b11df04045","first_name":"Vikrant","last_name":"Raut"},"created_at":"2022-08-25T09:26:22.770Z","updated_at":"2023-05-04T10:24:02.777Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"updated_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2024-11-25T19:02:51.055Z","updated_at":"2024-11-25T19:03:29.095Z","ui_location":{"locations":[{"type":"cs.cm.stack.config","meta":[{"uid":"63074067a1b5927e4b43811c","extension_uid":"blt84cf01a64a7a1477","enabled":true,"name":"Aprimo App","path":"/#/config"}]},{"type":"cs.cm.stack.custom_field","meta":[{"uid":"6307407c75375dbb57e03551","extension_uid":"blta1339d28eab51721","enabled":true,"name":"Aprimo","path":"/#/custom-field","data_type":"json"}]},{"type":"cs.cm.stack.rte","meta":[{"uid":"63074094cc11ca31585a56ee","extension_uid":"bltfb5b59857b0290e6","enabled":true,"name":"Aprimo","path":"/dist/aprimo.js"}]}]},"uid":"6744c9db2a3325ce57995905","installation_uid":"6744c9db2a3325ce57995905","urlPath":"/installations/6744c9db2a3325ce57995905","configuration":"d28c52b36e17b11fb54c7316e8678f0d1b3e74268334474a1b022335461d1521b14585fcb3ec6fb80f47725d97d29264df2fcdc76dfbcb1014d11c4d87818109|5915fe3af8a6d27b3504bf524a80f4f0"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"6438f4bc3ff41c00184b6b78","name":"AI Assistant","description":"<p>Contentstack Marketplace lets you integrate the AI Assistant app to quickly and easily create summaries, outlines, metadata tags and descriptions, headlines, even full-length keyword-optimized blogs all with just a few clicks.</p><p>You can choose to generate, regenerate and replace content for the current field. Also, generate content for an entry field based on another field. You can also provide a custom command to manipulate the data based on your instructions.</p><p>With the Contentstack Entry Field UI location, you can access the AI Assistant app in different entry field types such as Title, Single Line Textbox, Multi-Line Textbox, HTML-based Rich Text Editor, JSON Rich Text Editor and Markdown.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt76b8f8e813f5c61f/64395e27ee6de97ed7d65bc5/AI-Assistant.svg","ui_location":{"locations":[{"type":"cs.cm.stack.config","meta":[{"uid":"64394fb77587664755d9b0ad","path":"/#/app-configuration","signed":true,"enabled":true,"required":true}]},{"type":"cs.cm.stack.rte","meta":[{"uid":"65029c5233e260b4b5489607","name":"AI Assistant","path":"/json-rte.js","signed":true,"enabled":true,"description":"The JsonRTE Field plugin location allows you to use AI Assistant on selected content."}]},{"type":"cs.cm.stack.field_modifier","meta":[{"uid":"64394fce3ff9fd5bb4e72a3e","name":"AI Assistant","path":"/#/field-modifier","signed":true,"enabled":true,"allowed_types":["text","tags","json"],"description":"Entry Field UI location allows you to enable the AI Assistant app in different field types. "}]}]},"visibility":"public","type":"app","target_type":"stack","group":"user","organization_uid":"blt5462aeba66f96f3b","framework_version":"1.0","version":10,"created_by":{"uid":"blt96247f2c2802e6f4","first_name":"kirtesh","last_name":"suthar"},"updated_by":{"uid":"blt52bb13c8d02b30cf","first_name":"akash","last_name":"kanojia"},"created_at":"2023-04-14T06:37:48.170Z","updated_at":"2024-10-09T13:44:12.512Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"updated_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2024-11-01T14:47:42.983Z","updated_at":"2024-11-01T14:48:05.925Z","ui_location":{"locations":[{"type":"cs.cm.stack.config","meta":[{"uid":"64394fb77587664755d9b0ad","extension_uid":"blt02cd59ca765aa1ac","enabled":true,"name":"AI Assistant","path":"/#/app-configuration"}]},{"type":"cs.cm.stack.rte","meta":[{"uid":"65029c5233e260b4b5489607","extension_uid":"blt0b1934e79963b48b","enabled":true,"name":"AI Assistant","path":"/json-rte.js"}]},{"type":"cs.cm.stack.field_modifier","meta":[{"uid":"64394fce3ff9fd5bb4e72a3e","extension_uid":"blt63033d867f270fba","enabled":true,"name":"AI Assistant","path":"/#/field-modifier"}]}]},"uid":"6724ea0ea2068836a21a7fb6","installation_uid":"6724ea0ea2068836a21a7fb6","urlPath":"/installations/6724ea0ea2068836a21a7fb6","configuration":"e51285bf2d40e2a303427bbe3449250bfc385f3305c2fc552705c432631b49c7ad201fe66d92c6fefef29f98a2518f1fa6bc7f15acdefd32501d019b56eac2ded00800738dc8cf5d2c863af95771dbcd61fafacf05be723803b1b223a956bb6a5c6971a20b1a9aa97e4554ba55fc7d99c0b7e2cc28b749bef155224e677879efbd396f4ad38d5b1674526bbb70ddb80e1be19832be2c657e4803d855d218e01fe4b49d9325d0ae6a186ebc99dbbd6b3d5d8b374089791a9e6698a11805f3ceb62f144f42bd8007f2f8172ac1e547a4e36dbf7bf5c86c973369e1dd3d1a03a9436e5995902915d642d2d6175b321e6fac0c716627970e19de1768277298c7499e8471d21439778d63305f50e005b83ac4065eb51f304bf7e445bebf6d40feac8e|aa87f990afdc1c78e001c078d3e76b01"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"644a04f482556300190b1772","name":"Workflow Board","description":"<p>Contentstack Marketplace lets you integrate the Workflow Board app directly into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>. You can easily use this app to view and manage the <a href=\"https://www.contentstack.com/docs/developers/set-up-workflows-and-publish-rules/about-workflow-stages/\" target=\"_blank\">Workflow Stages</a> in a Kanban format.</p><p>Using Contentstack, you can now add a Workflow Board app in your stack and view the list of <a href=\"https://www.contentstack.com/docs/developers/set-up-workflows-and-publish-rules/about-workflows/\" target=\"_blank\">Workflows</a> along with the <a href=\"https://www.contentstack.com/docs/developers/set-up-workflows-and-publish-rules/about-workflow-stages/\" target=\"_blank\">Workflow Stages</a> and <a href=\"https://www.contentstack.com/docs/developers/set-up-workflows-and-publish-rules/about-workflow-tasks/\" target=\"_blank\">Workflow Tasks</a> for <a href=\"https://www.contentstack.com/docs/developers/create-content-types/about-content-types/\" target=\"_blank\">Content Types</a> within your Contentstack environment. Also, the app lets you search for workflows and entries in the Workflow Board app.</p><p>The app displays the workflow tasks in different workflow stages. You can drag and drop the workflow tasks from one workflow stage to another and update them with the required details directly. You can edit the Workflow stage of an entry only if you have the required permissions.</p><p>You can also view the total number of workflow task assignees in the User(s) and Role(s) categories in the Workflow Board app.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blta96bfb06ebae3d1e/6454e5d634deb722a6c94560/Workflow_Board.svg","ui_location":{"locations":[{"type":"cs.cm.stack.full_page","meta":[{"uid":"644a067b3113ec3d6bdaba07","name":"Workflow Board","path":"/stack-dashboard","signed":true,"enabled":true,"icon":"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik02NCAxMDcuNUM2NCA4My40NzU2IDgzLjQ3NTYgNjQgMTA3LjUgNjRINDA0LjVDNDI4LjUyNCA2NCA0NDggODMuNDc1NiA0NDggMTA3LjVWNDA0LjVDNDQ4IDQyOC41MjQgNDI4LjUyNCA0NDggNDA0LjUgNDQ4SDEwNy41QzgzLjQ3NTYgNDQ4IDY0IDQyOC41MjQgNjQgNDA0LjVWMTA3LjVaIiBzdHJva2U9IiM0NzUxNjEiIHN0cm9rZS13aWR0aD0iMjQiLz4KPHJlY3QgeD0iMjIyIiB5PSIxMTQiIHdpZHRoPSI2OCIgaGVpZ2h0PSIxMDQiIHJ4PSIxNSIgZmlsbD0iIzQ3NTE2MSIvPgo8cmVjdCB4PSIxMDQiIHk9IjExNSIgd2lkdGg9IjY4IiBoZWlnaHQ9IjE4OSIgcng9IjE1IiBmaWxsPSIjNDc1MTYxIi8+CjxyZWN0IHg9IjM0MCIgeT0iMTE0IiB3aWR0aD0iNjgiIGhlaWdodD0iMjg0IiByeD0iMTUiIGZpbGw9IiM0NzUxNjEiLz4KPC9zdmc+Cg==","description":"It previews the Workflow stages and Workflow tasks for the selected content types within the stack."}]}]},"visibility":"public","type":"app","target_type":"stack","group":"user","organization_uid":"blt90f399a6ce838a5a","framework_version":"1.0","version":14,"created_by":{"uid":"blt029d7360547e64ad","first_name":"Maitri","last_name":"Gurey"},"updated_by":{"uid":"bltf01cfddcefa2394d","first_name":"Amit","last_name":"Kanswal"},"created_at":"2023-04-27T05:15:31.832Z","updated_at":"2025-01-28T10:55:15.356Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"bltbe96af92bb2f78ae","first_name":"Andrew","last_name":"Seatter"},"updated_by":{"uid":"bltbe96af92bb2f78ae","first_name":"Andrew","last_name":"Seatter"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2025-02-06T19:08:47.019Z","updated_at":"2025-02-06T19:08:54.170Z","ui_location":{"locations":[{"type":"cs.cm.stack.full_page","meta":[{"uid":"644a067b3113ec3d6bdaba07","extension_uid":"bltf596be381cdd85f9","enabled":true,"name":"Workflow Board","path":"/stack-dashboard"}]}]},"uid":"67a508bfa500efd4ff17ca40","installation_uid":"67a508bfa500efd4ff17ca40","urlPath":"/installations/67a508bfa500efd4ff17ca40"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"648c029eff5db6001969146b","name":"Calendar","description":"<p>Contentstack Marketplace lets you integrate the Calendar app directly into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>. You can easily use this app to display the assigned <a href=\"https://www.contentstack.com/docs/developers/set-up-workflows-and-publish-rules/about-workflows/\" target=\"_blank\">Workflow</a> tasks and scheduled events, such as publish entries and releases on a calendar board.</p><p>Using Contentstack, you can add a Calendar app to your stack and view the events on the scheduled dates within your Contentstack environments. The app uses color codes and icons to differentiate the task, publish, and release events. Also, you can view the event details in the right-hand side of the board. The app also provides month, timeline, and week view options of the events.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/bltcf4154e17d8b44a5/64b667d5fe186a39e1a45756/Calendar.svg","ui_location":{"locations":[{"type":"cs.cm.stack.full_page","meta":[{"uid":"648c02c72fc2f44fb593f2d0","name":"Calendar ","path":"/full-page","signed":true,"enabled":true,"icon":"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTU2IDQ4QzE1NiA0MS4zNzI2IDE1MC42MjcgMzYgMTQ0IDM2QzEzNy4zNzMgMzYgMTMyIDQxLjM3MjYgMTMyIDQ4Vjg0SDk2QzcxLjY5OTUgODQgNTIgMTAzLjY5OSA1MiAxMjhWNDE2QzUyIDQ0MC4zMDEgNzEuNjk5NSA0NjAgOTYgNDYwSDQxNkM0NDAuMzAxIDQ2MCA0NjAgNDQwLjMwMSA0NjAgNDE2VjEyOEM0NjAgMTAzLjY5OSA0NDAuMzAxIDg0IDQxNiA4NEgzODBWNDhDMzgwIDQxLjM3MjYgMzc0LjYyNyAzNiAzNjggMzZDMzYxLjM3MyAzNiAzNTYgNDEuMzcyNiAzNTYgNDhWODRIMTU2VjQ4Wk00MzYgMTgwVjEyOEM0MzYgMTE2Ljk1NCA0MjcuMDQ2IDEwOCA0MTYgMTA4SDk2Qzg0Ljk1NDMgMTA4IDc2IDExNi45NTQgNzYgMTI4VjE4MEg0MzZaTTc2IDIwNEg0MzZWNDE2QzQzNiA0MjcuMDQ2IDQyNy4wNDYgNDM2IDQxNiA0MzZIOTZDODQuOTU0MyA0MzYgNzYgNDI3LjA0NiA3NiA0MTZWMjA0WiIgZmlsbD0iIzQ3NTE2MSIvPgo8cGF0aCBkPSJNMTc2IDI2NEMxNzYgMjc3LjI1NSAxNjUuMjU1IDI4OCAxNTIgMjg4QzEzOC43NDUgMjg4IDEyOCAyNzcuMjU1IDEyOCAyNjRDMTI4IDI1MC43NDUgMTM4Ljc0NSAyNDAgMTUyIDI0MEMxNjUuMjU1IDI0MCAxNzYgMjUwLjc0NSAxNzYgMjY0WiIgZmlsbD0iIzQ3NTE2MSIvPgo8cGF0aCBkPSJNMjcyIDI2NEMyNzIgMjc3LjI1NSAyNjEuMjU1IDI4OCAyNDggMjg4QzIzNC43NDUgMjg4IDIyNCAyNzcuMjU1IDIyNCAyNjRDMjI0IDI1MC43NDUgMjM0Ljc0NSAyNDAgMjQ4IDI0MEMyNjEuMjU1IDI0MCAyNzIgMjUwLjc0NSAyNzIgMjY0WiIgZmlsbD0iIzQ3NTE2MSIvPgo8cGF0aCBkPSJNMzY4IDI2NEMzNjggMjc3LjI1NSAzNTcuMjU1IDI4OCAzNDQgMjg4QzMzMC43NDUgMjg4IDMyMCAyNzcuMjU1IDMyMCAyNjRDMzIwIDI1MC43NDUgMzMwLjc0NSAyNDAgMzQ0IDI0MEMzNTcuMjU1IDI0MCAzNjggMjUwLjc0NSAzNjggMjY0WiIgZmlsbD0iIzQ3NTE2MSIvPgo8cGF0aCBkPSJNMTc2IDM2MEMxNzYgMzczLjI1NSAxNjUuMjU1IDM4NCAxNTIgMzg0QzEzOC43NDUgMzg0IDEyOCAzNzMuMjU1IDEyOCAzNjBDMTI4IDM0Ni43NDUgMTM4Ljc0NSAzMzYgMTUyIDMzNkMxNjUuMjU1IDMzNiAxNzYgMzQ2Ljc0NSAxNzYgMzYwWiIgZmlsbD0iIzQ3NTE2MSIvPgo8cGF0aCBkPSJNMjcyIDM2MEMyNzIgMzczLjI1NSAyNjEuMjU1IDM4NCAyNDggMzg0QzIzNC43NDUgMzg0IDIyNCAzNzMuMjU1IDIyNCAzNjBDMjI0IDM0Ni43NDUgMjM0Ljc0NSAzMzYgMjQ4IDMzNkMyNjEuMjU1IDMzNiAyNzIgMzQ2Ljc0NSAyNzIgMzYwWiIgZmlsbD0iIzQ3NTE2MSIvPgo8L3N2Zz4K","description":"It shows a calendar for assigned tasks, scheduled entries, and releases and a sidebar showing the detailed content."}]}]},"visibility":"public","type":"app","target_type":"stack","group":"user","organization_uid":"blt90f399a6ce838a5a","framework_version":"1.0","version":17,"created_by":{"uid":"blt029d7360547e64ad","first_name":"Maitri","last_name":"Gurey"},"updated_by":{"uid":"blt029d7360547e64ad","first_name":"Maitri","last_name":"Gurey"},"created_at":"2023-06-16T06:35:10.124Z","updated_at":"2025-01-28T10:55:15.626Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"bltbe96af92bb2f78ae","first_name":"Andrew","last_name":"Seatter"},"updated_by":{"uid":"bltbe96af92bb2f78ae","first_name":"Andrew","last_name":"Seatter"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2025-02-06T17:40:36.828Z","updated_at":"2025-02-06T17:40:46.183Z","ui_location":{"locations":[{"type":"cs.cm.stack.full_page","meta":[{"uid":"648c02c72fc2f44fb593f2d0","extension_uid":"bltcf385d37f60e5b24","enabled":true,"name":"Calendar ","path":"/full-page"}]}]},"uid":"67a4f414a500efd4ff17be91","installation_uid":"67a4f414a500efd4ff17be91","urlPath":"/installations/67a4f414a500efd4ff17be91"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"664aedc8a7eb3b00138f34e4","name":"Automate","description":"<p>By integrating the Automate app into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>, you can effortlessly manage and execute automations created in Contentstack’s Automate.</p><p>You can view the Automate app in the Entry Sidebar UI location and bring all the capabilities of Automate within your entry editor in the CMS. You can see a list of all the active automations ready for execution, simply click the Execute icon to run an automation.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt5871b2603c70f5ab/628b5541445f645df4fcefe5/Automations.svg","ui_location":{"locations":[{"type":"cs.cm.stack.entry_sidebar_rail","meta":[{"uid":"664b2cfdb1cd071f054d7010","name":"Automate","path":"?location=EditEntrySidebar","signed":false,"enabled":true,"icon":"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNi42NDUyIDcuMDU5NjhDMTYuNzk0OCA2LjgwMTIzIDE2LjkyMDUgNi41MzU1NiAxNy4wMjI5IDYuMjY1MjFDMTcuMTYyOCA1Ljg5NTg5IDE3LjI3OTggNS4zNzY3NiAxNy4zMjkyIDQuODAwOTZMMTUuODE1NCAyLjE4NjkxQzE1LjAwNzEgMC43OTEwMzcgMTMuNTQzMyAwLjAwNzY0Nzg3IDEyLjAzNTQgNS40NTA4OWUtMDVDMTMuNTQzMyAwLjAwNzYzMzIzIDE1LjAwNzEgMC43OTEwMjQgMTUuODE1NSAyLjE4NjkxTDIyLjkxMTcgMTQuNDQwN0MyNC4xMjI4IDE2LjUzMiAyMy40MDQxIDE5LjIwNjEgMjEuMzA2NCAyMC40MTM1QzE5LjIwODggMjEuNjIwOSAxNi41MjY2IDIwLjkwNDQgMTUuMzE1NSAxOC44MTMxTDEyLjU3NzEgMTQuMDg0NEwxNi42NDUyIDcuMDU5NjhaTTEyIDEzLjA4NzhMOC42ODQ0NiAxOC44MTMxQzcuNDczNCAyMC45MDQ0IDQuNzkxMTggMjEuNjIwOSAyLjY5MzU1IDIwLjQxMzVDMC41OTU5MzMgMTkuMjA2MSAtMC4xMjI3NjUgMTYuNTMyIDEuMDg4MyAxNC40NDA3TDYuNzExNjggNC43MzAyNEM2Ljc1OTExIDUuMzQ3NDkgNi44NzExNyA1Ljg5OTMzIDYuOTc3MDMgNi4yNjUyMUM3LjA3OTQxIDYuNTM1NTYgNy4yMDUwOSA2LjgwMTI0IDcuMzU0NzYgNy4wNTk2OUwxMS40MjI4IDE0LjA4NDRMMTIgMTMuMDg3OEwxMiAxMy4wODc4Wk0xMS45ODY0IDkuMzY1NzRlLTA5QzExLjk5MDkgLTIuMzc2ODdlLTA3IDExLjk5NTMgNi4yNjMyM2UtMDYgMTEuOTk5OCAxLjk1MTYzZS0wNUMxMS45OTk4IDEuOTQ5NTdlLTA1IDExLjk5OTggMS45NTQzZS0wNSAxMS45OTk4IDEuOTUyMjRlLTA1QzExLjk5NTMgNi4yMjY2OGUtMDYgMTEuOTkwOSAtMi44MjAzOGUtMDcgMTEuOTg2NCA5LjM2NTc0ZS0wOVpNMTAuMzIyOSAxLjQ1MjAzQzEwLjg1MjMgMS4xNDczNCAxMS40Mjk3IDEuMDAxMjcgMTEuOTk5OCAwLjk5ODg2OUMxMi41NyAxLjAwMTIyIDEzLjE0NzUgMS4xNDcyOSAxMy42NzY5IDEuNDUyMDNDMTUuMjk2OCAyLjM4NDQxIDE1Ljg0OTYgNC40NDY5IDE0LjkxNjEgNi4wNTg4N0wxMS45OTk5IDExLjA5NDVMOS4wODM3NyA2LjA1ODg3QzguMTUwMjcgNC40NDY5MSA4LjcwMzEyIDIuMzg0NDEgMTAuMzIyOSAxLjQ1MjAzWiIgZmlsbD0iIzZDNUNFNyIvPgo8L3N2Zz4K","required":false}]},{"type":"cs.cm.stack.asset_sidebar_rail","meta":[{"uid":"6687bbaea22ea70da3b43df5","blur":false,"name":"Automate","path":"?location=EditAssetSidebar","signed":false,"enabled":true,"icon":"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNi42NDUyIDcuMDU5NjhDMTYuNzk0OCA2LjgwMTIzIDE2LjkyMDUgNi41MzU1NiAxNy4wMjI5IDYuMjY1MjFDMTcuMTYyOCA1Ljg5NTg5IDE3LjI3OTggNS4zNzY3NiAxNy4zMjkyIDQuODAwOTZMMTUuODE1NCAyLjE4NjkxQzE1LjAwNzEgMC43OTEwMzcgMTMuNTQzMyAwLjAwNzY0Nzg3IDEyLjAzNTQgNS40NTA4OWUtMDVDMTMuNTQzMyAwLjAwNzYzMzIzIDE1LjAwNzEgMC43OTEwMjQgMTUuODE1NSAyLjE4NjkxTDIyLjkxMTcgMTQuNDQwN0MyNC4xMjI4IDE2LjUzMiAyMy40MDQxIDE5LjIwNjEgMjEuMzA2NCAyMC40MTM1QzE5LjIwODggMjEuNjIwOSAxNi41MjY2IDIwLjkwNDQgMTUuMzE1NSAxOC44MTMxTDEyLjU3NzEgMTQuMDg0NEwxNi42NDUyIDcuMDU5NjhaTTEyIDEzLjA4NzhMOC42ODQ0NiAxOC44MTMxQzcuNDczNCAyMC45MDQ0IDQuNzkxMTggMjEuNjIwOSAyLjY5MzU1IDIwLjQxMzVDMC41OTU5MzMgMTkuMjA2MSAtMC4xMjI3NjUgMTYuNTMyIDEuMDg4MyAxNC40NDA3TDYuNzExNjggNC43MzAyNEM2Ljc1OTExIDUuMzQ3NDkgNi44NzExNyA1Ljg5OTMzIDYuOTc3MDMgNi4yNjUyMUM3LjA3OTQxIDYuNTM1NTYgNy4yMDUwOSA2LjgwMTI0IDcuMzU0NzYgNy4wNTk2OUwxMS40MjI4IDE0LjA4NDRMMTIgMTMuMDg3OEwxMiAxMy4wODc4Wk0xMS45ODY0IDkuMzY1NzRlLTA5QzExLjk5MDkgLTIuMzc2ODdlLTA3IDExLjk5NTMgNi4yNjMyM2UtMDYgMTEuOTk5OCAxLjk1MTYzZS0wNUMxMS45OTk4IDEuOTQ5NTdlLTA1IDExLjk5OTggMS45NTQzZS0wNSAxMS45OTk4IDEuOTUyMjRlLTA1QzExLjk5NTMgNi4yMjY2OGUtMDYgMTEuOTkwOSAtMi44MjAzOGUtMDcgMTEuOTg2NCA5LjM2NTc0ZS0wOVpNMTAuMzIyOSAxLjQ1MjAzQzEwLjg1MjMgMS4xNDczNCAxMS40Mjk3IDEuMDAxMjcgMTEuOTk5OCAwLjk5ODg2OUMxMi41NyAxLjAwMTIyIDEzLjE0NzUgMS4xNDcyOSAxMy42NzY5IDEuNDUyMDNDMTUuMjk2OCAyLjM4NDQxIDE1Ljg0OTYgNC40NDY5IDE0LjkxNjEgNi4wNTg4N0wxMS45OTk5IDExLjA5NDVMOS4wODM3NyA2LjA1ODg3QzguMTUwMjcgNC40NDY5MSA4LjcwMzEyIDIuMzg0NDEgMTAuMzIyOSAxLjQ1MjAzWiIgZmlsbD0iIzZDNUNFNyIvPgo8L3N2Zz4K","required":false}]}]},"visibility":"public","type":"app","target_type":"stack","group":"system","organization_uid":"blt3ef845281f2ff619","framework_version":"1.0","version":13,"created_by":{"uid":"bltc0001b43eb8e2768","first_name":"Automation","last_name":"OAuth"},"updated_by":{"uid":"bltc0001b43eb8e2768","first_name":"Automation","last_name":"OAuth"},"created_at":"2024-05-20T06:29:28.533Z","updated_at":"2025-01-28T10:56:58.658Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"bltbe96af92bb2f78ae","first_name":"Andrew","last_name":"Seatter"},"updated_by":{"uid":"bltbe96af92bb2f78ae","first_name":"Andrew","last_name":"Seatter"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2025-02-06T17:38:22.735Z","updated_at":"2025-02-06T17:42:33.248Z","ui_location":{"locations":[{"type":"cs.cm.stack.entry_sidebar_rail","meta":[{"uid":"664b2cfdb1cd071f054d7010","extension_uid":"blta25bfdc41216b0a9","enabled":true,"name":"Automate","path":"?location=EditEntrySidebar"}]},{"type":"cs.cm.stack.asset_sidebar_rail","meta":[{"uid":"6687bbaea22ea70da3b43df5","extension_uid":"blt0ab56688bac483f9","enabled":true,"name":"Automate","path":"?location=EditAssetSidebar"}]}]},"uid":"67a4f38ea500efd4ff17be3b","installation_uid":"67a4f38ea500efd4ff17be3b","urlPath":"/installations/67a4f38ea500efd4ff17be3b"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"urlPath":"/manifests/67195591b2e0b100121eeeb2","params":{"organization_uid":"bltd615cd84d1b59067"},"group":"user","framework_version":"1.0","version":2,"icon":"","description":"","target_type":"stack","name":"People Picker","ui_location":{"signed":false,"base_url":"https://people-picker.contentstackapps.com/","locations":[{"type":"cs.cm.stack.custom_field","meta":[{"uid":"66451cb41d0ec13b8554c55a","multiple":false,"name":"People Picker◈2","path":"#/custom-field","signed":false,"enabled":true,"data_type":"json","required":false}]}]},"visibility":"private","created_by":{"uid":"blt4aabe76cbc5c8676","first_name":"Muhammed","last_name":"Constantino"},"updated_by":{"uid":"bltd8c8c6268e338ba5","first_name":"kulsum","last_name":"ansari"},"organization_uid":"bltd615cd84d1b59067","created_at":"2024-10-23T19:59:13.462Z","updated_at":"2026-01-28T08:11:52.916Z","type":"app","advanced_settings":{"variables":{},"mappings":{},"rewrites":[]},"uid":"67195591b2e0b100121eeeb2"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"blt4aabe76cbc5c8676","first_name":"Muhammed","last_name":"Constantino"},"updated_by":{"uid":"blt4aabe76cbc5c8676","first_name":"Muhammed","last_name":"Constantino"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2024-10-23T19:59:35.901Z","updated_at":"2026-01-28T08:12:52.911Z","ui_location":{"locations":[{"type":"cs.cm.stack.custom_field","meta":[{"uid":"66451cb41d0ec13b8554c55a","extension_uid":"blt8e991a4eca965544","enabled":true,"name":"People Picker◈2","path":"#/custom-field","data_type":"json"}]}]},"uid":"671955a7654f221b0760be81","installation_uid":"671955a7654f221b0760be81","urlPath":"/installations/671955a7654f221b0760be81"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"uid":"6836be3b60b35b0012711330","name":"Audience Insights","description":"<p></p><p>Supercharge your content strategy with the Audience Insights app from Contentstack Marketplace! Seamlessly integrate your Lytics Customer Data Platform and gain precise audience data analysis directly within your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\">headless CMS</a>.</p><p></p><p>The app understands how well your content resonates with target audiences by leveraging behavioral and demographic data. Deliver your messaging to the right audience segments and make strategic content decisions that drive engagement. Whether you are analyzing individual entries or exploring trends across pages, the Audience Insights app provides powerful insights to boost your content performance.</p><p></p><p>Once installed, you can effortlessly analyze audience data and enhance your personalization strategies.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt52c9a686a3ba9ed3/68382027c2c2459356aef65d/Audience_Insights.svg","ui_location":{"locations":[{"type":"cs.cm.stack.entry_sidebar_rail","meta":[{"uid":"6838177064dba75641963ff9","name":"Audience Insights","path":"/entry-sidebar","signed":false,"enabled":true,"icon":"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDMiIGhlaWdodD0iNDciIHZpZXdCb3g9IjAgMCA0MyA0NyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE5Ljg0OTYgMi4xMzM3OUMyMS4xMzc0IDIuMTMzNzkgMjIuMzk3NyAyLjI1NjMxIDIzLjYxOTEgMi40OTEyMUwyNC4xNDA2IDIuNTk4NjNMMjQuMjczNCAyLjYzNDc3QzI0LjkyMzQgMi44NDg3NSAyNS4zMTg0IDMuNTI1MzUgMjUuMTY4IDQuMjA4MDFDMjUuMDE3MyA0Ljg5MDM4IDI0LjM3NDkgNS4zMzY4NCAyMy42OTUzIDUuMjU3ODFMMjMuNTU4NiA1LjIzNTM1TDIzLjEwOTQgNS4xNDI1OEMyMi4wNTUgNC45Mzk3OSAyMC45NjUzIDQuODMzMDEgMTkuODQ5NiA0LjgzMzAxQzEwLjM3NzkgNC44MzMwMSAyLjY5OTIyIDEyLjUxMTcgMi42OTkyMiAyMS45ODM0QzIuNjk5MjIgMjUuMzc3MiAzLjY4NTc2IDI4LjU0MDQgNS4zODY3MiAzMS4yMDMxQzcuNzYyOTMgMjkuODU1IDExLjE3NzcgMjkuMDc1MyAxNC44NDQ3IDI5LjA3NTJDMTcuOTY2OCAyOS4wNzUyIDIwLjg2ODggMjkuNjM4MSAyMy4xMDk0IDMwLjYxMDRDMjMuNjQ0MiAzMC4wMTQgMjQuMzYzNSAyOS41NDcyIDI1LjEyOTkgMjkuMjA1MUMyNi4zNzA4IDI4LjY1MTEgMjcuOTEyNCAyOC4zMzc5IDI5LjU1MzcgMjguMzM3OUMzMC45OTkgMjguMzM3OSAzMi4zNjM2IDI4LjU4MDUgMzMuNTEyNyAyOS4wMTM3QzM0LjA4MzkgMjkuMjI5IDM0LjYyNTcgMjkuNTAwNyAzNS4xMDI1IDI5LjgzMDFDMzYuMzE0NyAyNy40Nzg2IDM3IDI0LjgxMTEgMzcgMjEuOTgzNEMzNyAyMC42MTIzIDM2LjgzOSAxOS4yODAzIDM2LjUzNjEgMTguMDA0OUMzNi4zNjQgMTcuMjc5NSAzNi44MTI3IDE2LjU1MjEgMzcuNTM4MSAxNi4zNzk5QzM4LjI2MzIgMTYuMjA3OSAzOC45OTA3IDE2LjY1NTggMzkuMTYzMSAxNy4zODA5QzM5LjUxNDEgMTguODU5MiAzOS42OTkyIDIwLjQwMDcgMzkuNjk5MiAyMS45ODM0QzM5LjY5OTIgMjkuMDE3OCAzNi4wNCAzNS4xOTcxIDMwLjUyMTUgMzguNzIyN0wzMy44MDM3IDQzLjk2NDhMMzMuODkwNiA0NC4xMjIxQzM0LjI4MjkgNDQuOTE3NSAzNC4wMTY4IDQ1Ljg5NyAzMy4yNDkgNDYuMzc3OUMzMi40ODEgNDYuODU4NSAzMS40ODM2IDQ2LjY3MDEgMzAuOTM5NSA0NS45Njk3TDMwLjgzNjkgNDUuODIzMkwyNy40MDUzIDQwLjM0MjhDMjUuMDc2MiA0MS4zMDIzIDIyLjUyNSA0MS44MzMgMTkuODQ5NiA0MS44MzNDOC44ODY3NiA0MS44MzMgMCAzMi45NDYzIDAgMjEuOTgzNEMwIDExLjAyMDUgOC44ODY3NiAyLjEzMzc5IDE5Ljg0OTYgMi4xMzM3OVpNMTQuODQ0NyAzMS43MDIxQzExLjYxNzggMzEuNzAyMiA4LjgzNDg1IDMyLjM2ODMgNi45ODYzMyAzMy4zMjUyQzEwLjEyOSAzNi44ODY3IDE0LjcyNjYgMzkuMTMzOCAxOS44NDk2IDM5LjEzMzhDMjAuMjUyMSAzOS4xMzM4IDIwLjY1MTMgMzkuMTE4MSAyMS4wNDY5IDM5LjA5MDhDMjIuMzkxNyAzOC42Mzg5IDIzLjQyNzEgMzguMDcwMSAyNC4xMDU1IDM3LjQ2OTdDMjQuODAwOCAzNi44NTQyIDI1LjAyNzMgMzYuMzAyMiAyNS4wMjczIDM1Ljg2MzNDMjUuMDI3MiAzNS4xNTEyIDI0LjM3NDggMzQuMTE0NyAyMi40MDkyIDMzLjE3ODdDMjAuNTQxMyAzMi4yODkzIDE3Ljg2ODEgMzEuNzAyMiAxNC44NDQ3IDMxLjcwMjFaTTI5LjU1MzcgMzAuNjI4OUMyOC4xODcgMzAuNjI5IDI2Ljk3MDQgMzAuODkyIDI2LjA2MzUgMzEuMjk2OUMyNS43MTMzIDMxLjQ1MzIgMjUuNDMyNiAzMS42MjEzIDI1LjIxIDMxLjc4NzFDMjYuNjIzNSAzMi44MDcyIDI3LjY1NTIgMzQuMTcwOCAyNy42NTUzIDM1Ljg2MzNDMjcuNjU1MiAzNi40MTM2IDI3LjU0MiAzNi45MzA3IDI3LjM0NDcgMzcuNDEyMUMyOS45ODQ0IDM2LjEyNzQgMzIuMjQ0MyAzNC4xODU0IDMzLjkxMzEgMzEuNzk4OEMzMy42MTI2IDMxLjU3MjYgMzMuMjEyMiAzMS4zNDg4IDMyLjcwNDEgMzEuMTU3MkMzMS44Mzk5IDMwLjgzMTUgMzAuNzUyNiAzMC42Mjg5IDI5LjU1MzcgMzAuNjI4OVpNMTQuODQyOCAxMy43NDcxQzE4Ljg5NDEgMTMuNzQ3MSAyMi4xNzg1IDE3LjAzMDggMjIuMTc4NyAyMS4wODJDMjIuMTc4NyAyNS4xMzM0IDE4Ljg5NDIgMjguNDE4IDE0Ljg0MjggMjguNDE4QzEwLjc5MTUgMjguNDE3OCA3LjUwNzgxIDI1LjEzMzMgNy41MDc4MSAyMS4wODJDNy41MDgwMiAxNy4wMzA5IDEwLjc5MTcgMTMuNzQ3MyAxNC44NDI4IDEzLjc0NzFaTTI5LjU0NDkgMTkuMDEwN0MzMi4wMjI2IDE5LjAxMDcgMzQuMDMxMiAyMS4wMTk0IDM0LjAzMTIgMjMuNDk3MUMzNC4wMzEyIDI1Ljk3NDcgMzIuMDIyNiAyNy45ODM0IDI5LjU0NDkgMjcuOTgzNEMyNy4wNjczIDI3Ljk4MzQgMjUuMDU4NyAyNS45NzQ3IDI1LjA1ODYgMjMuNDk3MUMyNS4wNTg2IDIxLjAxOTQgMjcuMDY3MiAxOS4wMTA4IDI5LjU0NDkgMTkuMDEwN1pNMTQuODQyOCAxNi4zNzRDMTIuMjQyOSAxNi4zNzQyIDEwLjEzNSAxOC40ODIyIDEwLjEzNDggMjEuMDgyQzEwLjEzNDggMjMuNjgyMSAxMi4yNDI4IDI1Ljc4OTggMTQuODQyOCAyNS43OUMxNy40NDI5IDI1Ljc5IDE5LjU1MDggMjMuNjgyMiAxOS41NTA4IDIxLjA4MkMxOS41NTA2IDE4LjQ4MiAxNy40NDI4IDE2LjM3NCAxNC44NDI4IDE2LjM3NFpNMjkuNTQ0OSAyMS4zMDE4QzI4LjMzMjUgMjEuMzAxOCAyNy4zNDk2IDIyLjI4NDYgMjcuMzQ5NiAyMy40OTcxQzI3LjM0OTcgMjQuNzA5NSAyOC4zMzI1IDI1LjY5MjMgMjkuNTQ0OSAyNS42OTI0QzMwLjc1NzQgMjUuNjkyNCAzMS43NDAyIDI0LjcwOTUgMzEuNzQwMiAyMy40OTcxQzMxLjc0MDIgMjIuMjg0NiAzMC43NTc0IDIxLjMwMTggMjkuNTQ0OSAyMS4zMDE4Wk0zNS45Njc4IDkuNzVDMzYuNjc0MiA5Ljc1MDIgMzcuMjQ2OCAxMC4zMjI5IDM3LjI0NzEgMTEuMDI5M0MzNy4yNDcxIDExLjczNTkgMzYuNjc0NCAxMi4zMDk0IDM1Ljk2NzggMTIuMzA5NkgyOS42Mjk5QzI4LjkyMzEgMTIuMzA5NiAyOC4zNTA2IDExLjczNjEgMjguMzUwNiAxMS4wMjkzQzI4LjM1MDggMTAuMzIyOCAyOC45MjMzIDkuNzUgMjkuNjI5OSA5Ljc1SDM1Ljk2NzhaTTM4Ljg5MjYgNC44NzVDMzkuNTk5IDQuODc1MTkgNDAuMTcxNyA1LjQ0Nzg0IDQwLjE3MTkgNi4xNTQzQzQwLjE3MTkgNi44NjA5NCAzOS41OTkyIDcuNDM0MzggMzguODkyNiA3LjQzNDU3SDI5LjYyOTlDMjguOTIzMSA3LjQzNDU3IDI4LjM0OTYgNi44NjEwNSAyOC4zNDk2IDYuMTU0M0MyOC4zNDk4IDUuNDQ3NzMgMjguOTIzMyA0Ljg3NSAyOS42Mjk5IDQuODc1SDM4Ljg5MjZaTTQwLjg0MTggMEM0MS41NDgzIDAuMDAwMjE1NTg5IDQyLjEyMDkgMC41NzI4MzQgNDIuMTIxMSAxLjI3OTNDNDIuMTIxMSAxLjk4NTkyIDQxLjU0ODQgMi41NTkzNSA0MC44NDE4IDIuNTU5NTdIMjkuNjI4OUMyOC45MjIxIDIuNTU5NTcgMjguMzQ5NiAxLjk4NjA1IDI4LjM0OTYgMS4yNzkzQzI4LjM0OTggMC41NzI3MDEgMjguOTIyMyAtMy4wODg4MmUtMDggMjkuNjI4OSAwSDQwLjg0MThaIiBmaWxsPSJ1cmwoI3BhaW50MF9saW5lYXJfMTQ2NF8yMTMyKSIvPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDBfbGluZWFyXzE0NjRfMjEzMiIgeDE9IjExLjk1NzMiIHkxPSIxMi42Mzk4IiB4Mj0iNDcuOTQ5OCIgeTI9IjM1LjAyOTYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agb2Zmc2V0PSIwLjA5IiBzdG9wLWNvbG9yPSIjN0M0REZGIi8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzE3ODNGRiIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+Cjwvc3ZnPgo=","required":false}]},{"type":"cs.cm.stack.full_page","meta":[{"uid":"6838178b39cfa41df99f840c","name":"Audience Insights","path":"/full-page","signed":false,"enabled":true,"icon":"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDMiIGhlaWdodD0iNDciIHZpZXdCb3g9IjAgMCA0MyA0NyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE5Ljg0OTYgMi4xMzM3OUMyMS4xMzc0IDIuMTMzNzkgMjIuMzk3NyAyLjI1NjMxIDIzLjYxOTEgMi40OTEyMUwyNC4xNDA2IDIuNTk4NjNMMjQuMjczNCAyLjYzNDc3QzI0LjkyMzQgMi44NDg3NSAyNS4zMTg0IDMuNTI1MzUgMjUuMTY4IDQuMjA4MDFDMjUuMDE3MyA0Ljg5MDM4IDI0LjM3NDkgNS4zMzY4NCAyMy42OTUzIDUuMjU3ODFMMjMuNTU4NiA1LjIzNTM1TDIzLjEwOTQgNS4xNDI1OEMyMi4wNTUgNC45Mzk3OSAyMC45NjUzIDQuODMzMDEgMTkuODQ5NiA0LjgzMzAxQzEwLjM3NzkgNC44MzMwMSAyLjY5OTIyIDEyLjUxMTcgMi42OTkyMiAyMS45ODM0QzIuNjk5MjIgMjUuMzc3MiAzLjY4NTc2IDI4LjU0MDQgNS4zODY3MiAzMS4yMDMxQzcuNzYyOTMgMjkuODU1IDExLjE3NzcgMjkuMDc1MyAxNC44NDQ3IDI5LjA3NTJDMTcuOTY2OCAyOS4wNzUyIDIwLjg2ODggMjkuNjM4MSAyMy4xMDk0IDMwLjYxMDRDMjMuNjQ0MiAzMC4wMTQgMjQuMzYzNSAyOS41NDcyIDI1LjEyOTkgMjkuMjA1MUMyNi4zNzA4IDI4LjY1MTEgMjcuOTEyNCAyOC4zMzc5IDI5LjU1MzcgMjguMzM3OUMzMC45OTkgMjguMzM3OSAzMi4zNjM2IDI4LjU4MDUgMzMuNTEyNyAyOS4wMTM3QzM0LjA4MzkgMjkuMjI5IDM0LjYyNTcgMjkuNTAwNyAzNS4xMDI1IDI5LjgzMDFDMzYuMzE0NyAyNy40Nzg2IDM3IDI0LjgxMTEgMzcgMjEuOTgzNEMzNyAyMC42MTIzIDM2LjgzOSAxOS4yODAzIDM2LjUzNjEgMTguMDA0OUMzNi4zNjQgMTcuMjc5NSAzNi44MTI3IDE2LjU1MjEgMzcuNTM4MSAxNi4zNzk5QzM4LjI2MzIgMTYuMjA3OSAzOC45OTA3IDE2LjY1NTggMzkuMTYzMSAxNy4zODA5QzM5LjUxNDEgMTguODU5MiAzOS42OTkyIDIwLjQwMDcgMzkuNjk5MiAyMS45ODM0QzM5LjY5OTIgMjkuMDE3OCAzNi4wNCAzNS4xOTcxIDMwLjUyMTUgMzguNzIyN0wzMy44MDM3IDQzLjk2NDhMMzMuODkwNiA0NC4xMjIxQzM0LjI4MjkgNDQuOTE3NSAzNC4wMTY4IDQ1Ljg5NyAzMy4yNDkgNDYuMzc3OUMzMi40ODEgNDYuODU4NSAzMS40ODM2IDQ2LjY3MDEgMzAuOTM5NSA0NS45Njk3TDMwLjgzNjkgNDUuODIzMkwyNy40MDUzIDQwLjM0MjhDMjUuMDc2MiA0MS4zMDIzIDIyLjUyNSA0MS44MzMgMTkuODQ5NiA0MS44MzNDOC44ODY3NiA0MS44MzMgMCAzMi45NDYzIDAgMjEuOTgzNEMwIDExLjAyMDUgOC44ODY3NiAyLjEzMzc5IDE5Ljg0OTYgMi4xMzM3OVpNMTQuODQ0NyAzMS43MDIxQzExLjYxNzggMzEuNzAyMiA4LjgzNDg1IDMyLjM2ODMgNi45ODYzMyAzMy4zMjUyQzEwLjEyOSAzNi44ODY3IDE0LjcyNjYgMzkuMTMzOCAxOS44NDk2IDM5LjEzMzhDMjAuMjUyMSAzOS4xMzM4IDIwLjY1MTMgMzkuMTE4MSAyMS4wNDY5IDM5LjA5MDhDMjIuMzkxNyAzOC42Mzg5IDIzLjQyNzEgMzguMDcwMSAyNC4xMDU1IDM3LjQ2OTdDMjQuODAwOCAzNi44NTQyIDI1LjAyNzMgMzYuMzAyMiAyNS4wMjczIDM1Ljg2MzNDMjUuMDI3MiAzNS4xNTEyIDI0LjM3NDggMzQuMTE0NyAyMi40MDkyIDMzLjE3ODdDMjAuNTQxMyAzMi4yODkzIDE3Ljg2ODEgMzEuNzAyMiAxNC44NDQ3IDMxLjcwMjFaTTI5LjU1MzcgMzAuNjI4OUMyOC4xODcgMzAuNjI5IDI2Ljk3MDQgMzAuODkyIDI2LjA2MzUgMzEuMjk2OUMyNS43MTMzIDMxLjQ1MzIgMjUuNDMyNiAzMS42MjEzIDI1LjIxIDMxLjc4NzFDMjYuNjIzNSAzMi44MDcyIDI3LjY1NTIgMzQuMTcwOCAyNy42NTUzIDM1Ljg2MzNDMjcuNjU1MiAzNi40MTM2IDI3LjU0MiAzNi45MzA3IDI3LjM0NDcgMzcuNDEyMUMyOS45ODQ0IDM2LjEyNzQgMzIuMjQ0MyAzNC4xODU0IDMzLjkxMzEgMzEuNzk4OEMzMy42MTI2IDMxLjU3MjYgMzMuMjEyMiAzMS4zNDg4IDMyLjcwNDEgMzEuMTU3MkMzMS44Mzk5IDMwLjgzMTUgMzAuNzUyNiAzMC42Mjg5IDI5LjU1MzcgMzAuNjI4OVpNMTQuODQyOCAxMy43NDcxQzE4Ljg5NDEgMTMuNzQ3MSAyMi4xNzg1IDE3LjAzMDggMjIuMTc4NyAyMS4wODJDMjIuMTc4NyAyNS4xMzM0IDE4Ljg5NDIgMjguNDE4IDE0Ljg0MjggMjguNDE4QzEwLjc5MTUgMjguNDE3OCA3LjUwNzgxIDI1LjEzMzMgNy41MDc4MSAyMS4wODJDNy41MDgwMiAxNy4wMzA5IDEwLjc5MTcgMTMuNzQ3MyAxNC44NDI4IDEzLjc0NzFaTTI5LjU0NDkgMTkuMDEwN0MzMi4wMjI2IDE5LjAxMDcgMzQuMDMxMiAyMS4wMTk0IDM0LjAzMTIgMjMuNDk3MUMzNC4wMzEyIDI1Ljk3NDcgMzIuMDIyNiAyNy45ODM0IDI5LjU0NDkgMjcuOTgzNEMyNy4wNjczIDI3Ljk4MzQgMjUuMDU4NyAyNS45NzQ3IDI1LjA1ODYgMjMuNDk3MUMyNS4wNTg2IDIxLjAxOTQgMjcuMDY3MiAxOS4wMTA4IDI5LjU0NDkgMTkuMDEwN1pNMTQuODQyOCAxNi4zNzRDMTIuMjQyOSAxNi4zNzQyIDEwLjEzNSAxOC40ODIyIDEwLjEzNDggMjEuMDgyQzEwLjEzNDggMjMuNjgyMSAxMi4yNDI4IDI1Ljc4OTggMTQuODQyOCAyNS43OUMxNy40NDI5IDI1Ljc5IDE5LjU1MDggMjMuNjgyMiAxOS41NTA4IDIxLjA4MkMxOS41NTA2IDE4LjQ4MiAxNy40NDI4IDE2LjM3NCAxNC44NDI4IDE2LjM3NFpNMjkuNTQ0OSAyMS4zMDE4QzI4LjMzMjUgMjEuMzAxOCAyNy4zNDk2IDIyLjI4NDYgMjcuMzQ5NiAyMy40OTcxQzI3LjM0OTcgMjQuNzA5NSAyOC4zMzI1IDI1LjY5MjMgMjkuNTQ0OSAyNS42OTI0QzMwLjc1NzQgMjUuNjkyNCAzMS43NDAyIDI0LjcwOTUgMzEuNzQwMiAyMy40OTcxQzMxLjc0MDIgMjIuMjg0NiAzMC43NTc0IDIxLjMwMTggMjkuNTQ0OSAyMS4zMDE4Wk0zNS45Njc4IDkuNzVDMzYuNjc0MiA5Ljc1MDIgMzcuMjQ2OCAxMC4zMjI5IDM3LjI0NzEgMTEuMDI5M0MzNy4yNDcxIDExLjczNTkgMzYuNjc0NCAxMi4zMDk0IDM1Ljk2NzggMTIuMzA5NkgyOS42Mjk5QzI4LjkyMzEgMTIuMzA5NiAyOC4zNTA2IDExLjczNjEgMjguMzUwNiAxMS4wMjkzQzI4LjM1MDggMTAuMzIyOCAyOC45MjMzIDkuNzUgMjkuNjI5OSA5Ljc1SDM1Ljk2NzhaTTM4Ljg5MjYgNC44NzVDMzkuNTk5IDQuODc1MTkgNDAuMTcxNyA1LjQ0Nzg0IDQwLjE3MTkgNi4xNTQzQzQwLjE3MTkgNi44NjA5NCAzOS41OTkyIDcuNDM0MzggMzguODkyNiA3LjQzNDU3SDI5LjYyOTlDMjguOTIzMSA3LjQzNDU3IDI4LjM0OTYgNi44NjEwNSAyOC4zNDk2IDYuMTU0M0MyOC4zNDk4IDUuNDQ3NzMgMjguOTIzMyA0Ljg3NSAyOS42Mjk5IDQuODc1SDM4Ljg5MjZaTTQwLjg0MTggMEM0MS41NDgzIDAuMDAwMjE1NTg5IDQyLjEyMDkgMC41NzI4MzQgNDIuMTIxMSAxLjI3OTNDNDIuMTIxMSAxLjk4NTkyIDQxLjU0ODQgMi41NTkzNSA0MC44NDE4IDIuNTU5NTdIMjkuNjI4OUMyOC45MjIxIDIuNTU5NTcgMjguMzQ5NiAxLjk4NjA1IDI4LjM0OTYgMS4yNzkzQzI4LjM0OTggMC41NzI3MDEgMjguOTIyMyAtMy4wODg4MmUtMDggMjkuNjI4OSAwSDQwLjg0MThaIiBmaWxsPSJ1cmwoI3BhaW50MF9saW5lYXJfMTQ2NF8yMTMyKSIvPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDBfbGluZWFyXzE0NjRfMjEzMiIgeDE9IjExLjk1NzMiIHkxPSIxMi42Mzk4IiB4Mj0iNDcuOTQ5OCIgeTI9IjM1LjAyOTYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agb2Zmc2V0PSIwLjA5IiBzdG9wLWNvbG9yPSIjN0M0REZGIi8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzE3ODNGRiIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+Cjwvc3ZnPgo=","required":false}]}]},"visibility":"public_unlisted","type":"app","target_type":"stack","group":"system","organization_uid":"blt18ca3799a1c334ef","framework_version":"1.0","version":6,"created_by":{"uid":"blt84c7dbee95981303","first_name":"hitesh","last_name":"shetty"},"updated_by":{"uid":"blt84c7dbee95981303","first_name":"hitesh","last_name":"shetty"},"created_at":"2025-05-28T07:41:47.398Z","updated_at":"2025-05-30T17:44:13.262Z"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"bltbe96af92bb2f78ae","first_name":"Andrew","last_name":"Seatter"},"updated_by":{"uid":"bltbe96af92bb2f78ae","first_name":"Andrew","last_name":"Seatter"},"organization_uid":"bltd615cd84d1b59067","status":"installed","internal":{"digital_property_uid":"blt80ac881758c4bd49","lytics_account_id":"d06986d2182d7207a2ba98bd75ea267a","job_id":"70a61914-81f8-429e-b569-e997c8e5b4c3"},"created_at":"2026-01-27T22:00:35.087Z","updated_at":"2026-01-27T22:00:35.545Z","ui_location":{"locations":[{"type":"cs.cm.stack.entry_sidebar_rail","meta":[{"uid":"6838177064dba75641963ff9","extension_uid":"blt94da692c5674b085","enabled":true,"name":"Audience Insights","path":"/entry-sidebar"}]},{"type":"cs.cm.stack.full_page","meta":[{"uid":"6838178b39cfa41df99f840c","extension_uid":"blt4b59f4f223fcbed9","enabled":true,"name":"Audience Insights","path":"/full-page"}]}]},"uid":"697935830f7f245171c7c7f1","installation_uid":"697935830f7f245171c7c7f1","urlPath":"/installations/697935830f7f245171c7c7f1"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"urlPath":"/manifests/68877fae35bec100127b051b","params":{"organization_uid":"bltd615cd84d1b59067"},"group":"user","framework_version":"1.0","version":3,"icon":"","description":"","target_type":"stack","name":"Component-Agent","visibility":"private","created_by":{"uid":"blt7e582426ca855a48","first_name":"Tushar","last_name":"Mittal"},"updated_by":{"uid":"blt7e582426ca855a48","first_name":"Tushar","last_name":"Mittal"},"organization_uid":"bltd615cd84d1b59067","created_at":"2025-07-28T13:48:29.950Z","updated_at":"2025-07-28T13:49:41.484Z","ui_location":{"signed":false,"base_url":"https://ai-comp-generator.contentstackapps.com","locations":[{"type":"cs.cm.stack.custom_field","meta":[{"uid":"68877fe32567f7adcd86255f","multiple":false,"name":"Component-Agent","path":"/","signed":true,"enabled":true,"data_type":"json","required":true}]}]},"type":"app","uid":"68877fae35bec100127b051b"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"blt7e582426ca855a48","first_name":"Tushar","last_name":"Mittal"},"updated_by":{"uid":"blt7e582426ca855a48","first_name":"Tushar","last_name":"Mittal"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2025-07-28T13:50:01.580Z","updated_at":"2025-07-28T13:50:02.007Z","ui_location":{"locations":[{"type":"cs.cm.stack.custom_field","meta":[{"uid":"68877fe32567f7adcd86255f","extension_uid":"blt89d7b6003e55331d","enabled":true,"name":"Component-Agent","path":"/","data_type":"json"}]}]},"uid":"688780092567f7adcd862588","installation_uid":"688780092567f7adcd862588","urlPath":"/installations/688780092567f7adcd862588"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"urlPath":"/manifests/694436f658e346566e1a2b77","params":{"organization_uid":"bltd615cd84d1b59067"},"group":"user","type":"app","framework_version":"1.0","version":15,"icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt0fea2fb3a42c4fd9/6a44b32b3ad9ace38b08e2c1/red-panda-ecommerce.png","description":"<p>The Commerce app brings your products and categories directly into Contentstack, giving content editors a seamless way to enrich entries with real catalog data.</p><p>With the Commerce app, editors can browse, search, and filter products and categories, and select them without ever leaving the entry editor. Selected products and categories are saved directly to your content entries, which can then be used on websites powered by Contentstack.</p>","target_type":"stack","name":"Red Panda Commerce","visibility":"public_unlisted","created_by":{"uid":"blt7e582426ca855a48","first_name":"Tushar","last_name":"Mittal"},"updated_by":{"uid":"blt7e582426ca855a48","first_name":"Tushar","last_name":"Mittal"},"organization_uid":"bltd615cd84d1b59067","advanced_settings":{"variables":{},"mappings":{},"rewrites":[]},"created_at":"2025-12-18T17:16:38.070Z","updated_at":"2026-07-01T08:30:23.183Z","ui_location":{"signed":false,"base_url":"https://red-panda-commerce-marketplace-app.contentstackapps.com","locations":[{"type":"cs.cm.stack.config","meta":[{"uid":"69443732a4f90fc825172a60","path":"/app-configuration","signed":true,"enabled":true,"required":true}]},{"type":"cs.cm.stack.custom_field","meta":[{"uid":"6944376684f75049ac1c1b95","multiple":false,"name":"RP Commerce Products","path":"/products-custom-field","signed":true,"enabled":true,"data_type":"json","required":false},{"uid":"6944376684f75049ac1c1b96","multiple":false,"name":"RP Commerce Category","path":"/categories-custom-field","signed":true,"enabled":true,"data_type":"json","required":false}]}]},"public_app_meta_data":{"stack_entry_uid":"bltf81724011849ed51","name":"Red Panda Commerce","description":"<p>The Commerce app brings your products and categories directly into Contentstack, giving content editors a seamless way to enrich entries with real catalog data.</p><p>With the Commerce app, editors can browse, search, and filter products and categories, and select them without ever leaving the entry editor. Selected products and categories are saved directly to your content entries, which can then be used on websites powered by Contentstack.</p>","icon":"https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt0fea2fb3a42c4fd9/6a44b32b3ad9ace38b08e2c1/red-panda-ecommerce.png"},"uid":"694436f658e346566e1a2b77"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"blt7e582426ca855a48","first_name":"Tushar","last_name":"Mittal"},"updated_by":{"uid":"bltd8c8c6268e338ba5","first_name":"kulsum","last_name":"ansari"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2025-12-18T17:25:26.037Z","updated_at":"2026-06-25T11:57:44.749Z","ui_location":{"locations":[{"type":"cs.cm.stack.config","meta":[{"uid":"69443732a4f90fc825172a60","extension_uid":"blt559b2b02de2ed953","enabled":true,"name":"RedPanda Commerce","path":"/app-configuration"}]},{"type":"cs.cm.stack.custom_field","meta":[{"uid":"6944376684f75049ac1c1b95","extension_uid":"blt1ea47bcbfba1ba9b","enabled":true,"name":"RP Commerce Products","path":"/products-custom-field","data_type":"json"},{"uid":"6944376684f75049ac1c1b96","extension_uid":"blta9a2368437be1fd7","enabled":true,"name":"RP Commerce Category","path":"/categories-custom-field","data_type":"json"}]}]},"uid":"69443906a4f90fc825172c56","installation_uid":"69443906a4f90fc825172c56","urlPath":"/installations/69443906a4f90fc825172c56","configuration":"63ccdfb49972637f54daf44e33294ffd22ae4baf194f73785504c0a1ed91a91d190bfeaf0b3000800ab84f38fc68029d1d8891df415e64d1a0015c5197d44f8c0bad42629ba0c290e2d23305dff018df249c068e4c736241d6a98be01037552dfa23464a4a72372818574e1c505b1b3d331355b8bc9c7637ca29b4ba2cc575d886a8bf54a02cad1a8692b0f2d984404c95485361e57b6b60839857502aae2cca16ad0848f00d2e009934700a8418839b37fe833f2c3d34fbbc5d25fbaebef71b67a386d70a8680623fb0791b51e89ed013b12e570a7d44226253083df068ae6fb6096ec0ec906c7cc0072980e70fea7ff55ea85422e1463f21458bf032ad2df4dba022dd959c9d25c0c872e5c6a07717631c3472399d11c85468e73b2f32076c23778ca1762a6e55998b53b298a331d1a4682a448b970f04ba830181b5dac61116457b658f895ca464a5427bb71e611e94519f44002a8617d4608cb47158a4f18371cdd618ddb90fe64baca5c363522e1f8f204735f4af97f1d438739bc9ab695e9e422f928fe50c4058f643da73ac3de2f9529343ae80e066a99b7d088fb398bdccab9b1f168e595175387d1e6e89f9a2231984a2470777dfc5dfe137b12ec1b88bad5e16f7a5c8c70d95984fdbc71c09f7b94567fec6e473a290f4a35e3e48|1795afb0e1a6ea2a7faa2843669f6a80"},{"params":{"organization_uid":"bltd615cd84d1b59067"},"manifest":{"urlPath":"/manifests/69611e8fa59b2ed2197f5821","params":{"organization_uid":"bltd615cd84d1b59067"},"group":"user","type":"app","framework_version":"1.0","version":12,"icon":"","description":"","target_type":"stack","name":"Red Panda Apps","visibility":"private","created_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"updated_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"organization_uid":"bltd615cd84d1b59067","advanced_settings":{"variables":{},"mappings":{},"rewrites":[]},"created_at":"2026-01-09T15:28:15.817Z","updated_at":"2026-01-13T14:45:03.092Z","ui_location":{"signed":false,"base_url":"https://red-panda-apps.contentstackapps.com","locations":[{"type":"cs.cm.stack.full_page","meta":[{"uid":"69611ee00af450a5c51a34db","name":"Translation Key Manager","path":"/translation-key-manager","signed":false,"enabled":true,"required":false}]},{"type":"cs.cm.stack.custom_field","meta":[{"uid":"69659bca9c3a722ddc1f2da3","multiple":false,"name":"Sitemap","path":"/site-map-dashboard","signed":false,"enabled":true,"data_type":"json","required":false}]},{"type":"cs.cm.stack.dashboard","meta":[{"uid":"6965a11b12ce94f7511fcf50","name":"Site Map","path":"/site-map-dashboard","signed":false,"enabled":true,"default_width":"full","required":false}]}],"permissions":["cm.entries.management:read","cm.entries.management:write","cm.content-types.management:read","cm.environments.management:read","cm.entry:publish","cm.entry:write"]},"uid":"69611e8fa59b2ed2197f5821"},"target":{"type":"stack","uid":"bltc991c0dda4197336"},"created_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"updated_by":{"uid":"csde9b4898ad8ee8c6","first_name":"Eric","last_name":"Crump"},"organization_uid":"bltd615cd84d1b59067","status":"installed","created_at":"2026-01-09T15:44:13.990Z","updated_at":"2026-01-13T14:45:16.159Z","ui_location":{"locations":[{"type":"cs.cm.stack.full_page","meta":[{"uid":"69611ee00af450a5c51a34db","extension_uid":"blt02257760ecfb77f1","enabled":true,"name":"Translation Key Manager","path":"/translation-key-manager"}]},{"type":"cs.cm.stack.custom_field","meta":[{"uid":"69659bca9c3a722ddc1f2da3","extension_uid":"blt1dfeb13eceac5eae","enabled":true,"name":"Sitemap","path":"/site-map-dashboard","data_type":"json"}]},{"type":"cs.cm.stack.dashboard","meta":[{"uid":"6965a11b12ce94f7511fcf50","extension_uid":"bltaeaecacac6386aaa","enabled":true,"name":"Site Map","path":"/site-map-dashboard"}]}]},"uid":"6961224d8e3ad82e330bb280","installation_uid":"6961224d8e3ad82e330bb280","urlPath":"/installations/6961224d8e3ad82e330bb280"}]
+[
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "61c04dd81ecff10018907bed",
+            "name": "Cloudinary",
+            "description": "<p>Contentstack' Marketplace Apps offers a variety of ways to integrate third-party applications, such as Cloudinary, directly into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>. With the Cloudinary app, you can streamline the process of managing and sharing images across multiple platforms.</p><p><a href=\"https://www.contentstack.com/docs/developers/create-custom-fields/about-custom-fields\" target=\"_blank\">Custom Field</a> or <a href=\"https://www.contentstack.com/docs/developers/json-rich-text-editor/about-json-rich-text-editor/\" target=\"_blank\">JSON RTE</a>, you can integrate Cloudinary with Contentstack directly. You can create content in Contentstack, and Cloudinary will ensure that you are able to view and access your Cloudinary images within your CMS.</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt5492471633f54c05/6242e90f6aee76195cd5a511/cloudinary_cloud_glyph_512x512.png",
+            "webhook": {
+                "enabled": true,
+                "channels": [
+                    "cs.apps.installations.install",
+                    "cs.apps.installations.update",
+                    "cs.apps.installations.uninstall"
+                ],
+                "branch_scope": "main"
+            },
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.config",
+                        "meta": [
+                            {
+                                "uid": "628b5d4949314928ff3f2ae5",
+                                "path": "/config",
+                                "signed": true,
+                                "enabled": true,
+                                "required": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.rte",
+                        "meta": [
+                            {
+                                "uid": "628b5d4949314928ff3f2ae6",
+                                "name": "Cloudinary",
+                                "path": "/dist/cloudinary.js?fromRte=true",
+                                "signed": true,
+                                "enabled": true,
+                                "description": "Using the JSON RTE plugin, you can view and access your Cloudinary images within your CMS.",
+                                "required": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.custom_field",
+                        "meta": [
+                            {
+                                "uid": "628b5d4949314928ff3f2ae7",
+                                "multiple": false,
+                                "name": "Cloudinary",
+                                "path": "/field-extension",
+                                "signed": true,
+                                "enabled": true,
+                                "data_type": "json",
+                                "description": "Using the Custom Field, you can view and access your Cloudinary images within your CMS.",
+                                "required": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public",
+            "type": "app",
+            "target_type": "stack",
+            "group": "user",
+            "organization_uid": "blt90f399a6ce838a5a",
+            "framework_version": "1.0",
+            "version": 8,
+            "created_by": {
+                "uid": "bltfcfdbd62e8ce50a9",
+                "first_name": "surabhi",
+                "last_name": "sharma"
+            },
+            "updated_by": {
+                "uid": "bltcc72ccaf01e3d185",
+                "first_name": "namrata",
+                "last_name": "sane"
+            },
+            "created_at": "2021-12-20T09:33:12.451Z",
+            "updated_at": "2024-07-10T12:02:25.776Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "updated_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2024-11-25T18:47:44.346Z",
+        "updated_at": "2024-11-25T18:49:33.288Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.config",
+                    "meta": [
+                        {
+                            "uid": "628b5d4949314928ff3f2ae5",
+                            "extension_uid": "bltbfe5cbe69d452ac1",
+                            "enabled": true,
+                            "name": "Cloudinary",
+                            "path": "/config"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.rte",
+                    "meta": [
+                        {
+                            "uid": "628b5d4949314928ff3f2ae6",
+                            "extension_uid": "blt6572d3b203769789",
+                            "enabled": true,
+                            "name": "Cloudinary",
+                            "path": "/dist/cloudinary.js?fromRte=true"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.custom_field",
+                    "meta": [
+                        {
+                            "uid": "628b5d4949314928ff3f2ae7",
+                            "extension_uid": "bltbd2820fe058ff2fa",
+                            "enabled": true,
+                            "name": "Cloudinary",
+                            "path": "/field-extension",
+                            "data_type": "json"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "6744c6502a3325ce579957b6",
+        "installation_uid": "6744c6502a3325ce579957b6",
+        "urlPath": "/installations/6744c6502a3325ce579957b6",
+        "configuration": "6552ec8b3d98b5dbab4c56474c7977923ef7c7162e6b89cfbeb3508e3b46ade59a9349ec6af16dd2a94857a4c84e415c689478f8ed0f95063440f154e0177b2c14b5520c76a15bbb6146f07e114df6f309177059b75214d94a1129a764193965af4aa2e712c6b3eac885b2a54d38e45ed893fb1a1291b9ac9f982fab190e62419f1e6921f4c805a948841b70172de5ef4a3e92149bbd43f670ce4c8fd808d2fcf27bf672506245740d4298b05dac960b3dc0f337bbd75968de12b8dfb9a49da85e704fd11698a339a40dd810c27c15357c60c52ee89c9561b143710014a03d60ac1913e6851f0403efd5cc0be0a0b58c7a8153594783ead9297b954588f47176516f10e2e3b8e3a24458cc21b740c07e5a8c7e4517debb6be0280b0215b37aa2a90269e509173979b5d8791b85eee525d08269640ca00862266644fb5c5ca05a0fd34f0fc01af087f4352ccd2f17e159b99402d40a3113430ccf280f18de6818f18248adc3708d1b7a4220599c97eef505a391ce1ad1db122326cd1fc674e68ef8b01c603dd148395be635739d58c10c43273e2e3ea73950a327099cd852d4bbf3ca2e2c5d36a5d93f39deaf5bd57b59b02422fa07deb3f7da495d89abfa47f12d962311a85331578739f9c8d72d635de6525aa1ff1e5d73dceca6f716d14f0085428ab8ab7d99e095165cb990e5418280ccad7971f594cf30a0cf597d97321b|445b9fe4735635909485c6fde1d9db6d",
+        "server_configuration": "b00b42cb48fe22cd33da8a0b299037896e46ebf0b8a23f2db297a1adab3b7f12792fa2ffeed809be87f10f7577cacd0f5c82efffb0248ecd15394208830ad721|f65c504b93e88bd5d0ac19beb6f918bc"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "61ddc1b51ecff10018907c4d",
+            "name": "Bynder",
+            "description": "<p>Contentstack's Marketplace apps offer a variety of ways to integrate third-party applications, such as Bynder, directly into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>. With this, you can streamline the process of managing and sharing digital assets across multiple platforms.</p><p>Using a Contentstack <a href=\"https://www.contentstack.com/docs/developers/create-custom-fields/about-custom-fields\" target=\"_blank\">Custom Field</a>, you can integrate Bynder with Contentstack directly. You can create an entry in Contentstack, the app will ensure that you are able to view the digital assets within your CMS.</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blteb81b84adb512d31/6242e9070466d7630dd3a706/Bynder.svg",
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.custom_field",
+                        "meta": [
+                            {
+                                "uid": "628b5d4949314928ff3f2af3",
+                                "path": "/#/field-extension",
+                                "signed": true,
+                                "enabled": true,
+                                "data_type": "json"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.config",
+                        "meta": [
+                            {
+                                "uid": "628b5d4949314928ff3f2af4",
+                                "path": "/#/config",
+                                "signed": true,
+                                "enabled": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.rte",
+                        "meta": [
+                            {
+                                "uid": "62d956e39221bb11f849a026",
+                                "path": "/dist/bynder.js",
+                                "signed": false,
+                                "enabled": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public",
+            "type": "app",
+            "target_type": "stack",
+            "group": "user",
+            "organization_uid": "bltfc33bb69af496456",
+            "framework_version": "1.0",
+            "version": 6,
+            "created_by": {
+                "uid": "blt3d7ca982747a9999",
+                "first_name": "bliss",
+                "last_name": "dcunha"
+            },
+            "updated_by": {
+                "uid": "blt65a8329e72183ade",
+                "first_name": "Rijil",
+                "last_name": "T R"
+            },
+            "created_at": "2022-01-11T17:43:16.560Z",
+            "updated_at": "2022-09-16T10:35:33.514Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "updated_by": {
+            "uid": "bltb317ebe35429ebe6",
+            "first_name": "sayali",
+            "last_name": "joshi"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2024-11-25T18:56:26.390Z",
+        "updated_at": "2026-04-20T09:55:31.662Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.custom_field",
+                    "meta": [
+                        {
+                            "uid": "628b5d4949314928ff3f2af3",
+                            "extension_uid": "blt743831051c984f25",
+                            "enabled": true,
+                            "name": "Bynder",
+                            "path": "/#/field-extension",
+                            "data_type": "json"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.config",
+                    "meta": [
+                        {
+                            "uid": "628b5d4949314928ff3f2af4",
+                            "extension_uid": "blt0f816b359244bb4c",
+                            "enabled": true,
+                            "name": "Bynder",
+                            "path": "/#/config"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.rte",
+                    "meta": [
+                        {
+                            "uid": "62d956e39221bb11f849a026",
+                            "extension_uid": "blt8b2f26b10ebce683",
+                            "enabled": true,
+                            "name": "Bynder",
+                            "path": "/dist/bynder.js"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "6744c85a19fff6135cdf63dd",
+        "installation_uid": "6744c85a19fff6135cdf63dd",
+        "urlPath": "/installations/6744c85a19fff6135cdf63dd",
+        "configuration": "36209776f8c838d4eb8a5395c563563b90bb19ee8d2ecfd12a6d3d57efd8ee752947ff56b4d1cac170db9a0e84b898acf14b8a8623f179d824ac293b897bc06e691d52fe9f07af447679f281ff6c87cb8c33742551f7e5a42df4aa3da144aa60fe871b15359add13db99a155a2f4c8b9d63b59e541beba0c1214a3d56c6d89d9a1fc72f7cacc9606ebf5fe09e76218025f13feb342b9490b184e4f513db9b216388c17cb0d0389d1ce49470000cf341cc5cf65ea13c7b0819e354a385fa2857986548ae47ca6d65519ea9bdcd32c8b39700469548cd85dbe1e7034868b998ee79921a73d5722ef1ffc990082d265940aa9d413e14ceee5fe8c0ebcdc6adae025ca5e366e9007f2872eb14146931fc89638fdd2045eca0d4655f06b1c306f6ef5fa58a6833a0501caa39542788adfc7068c9f38fcb557029e34ecbbeff8cc4cc09967e9e8891cb10a9d56c7cde49704d4d88f75b6f733bf83288056c03c5e558aacd6361a008116a8c09049c58b8022fc4d225c691358fe3f4261f5aac215d2eb9c9e6ae5081ce65fc37eca362722118c58807a3c556f42cb5424f5fe89448e059747c26944c66f2d4fdc3b16155091982bf8144ee9f266f389504c1880ac408d0458c76560acd0b2da2053c5012bd35a4827c09db329c8878f0559399157ae5e42e986b68b8da36d4d559c53030c302f320589064920b52566fbcf2b0a34b1164d75d539e4d3262aa78b522fd9277924d66578ec9c21e8f5c1d076468252ce64a610f1b76b80c137414f73547347f0696f2ce19c121a43edcfca74fd041465c8a007624ad50c244cf258937c28ce0052ea6a1da10ff95f0e4def77456925af4cc1da0407fd64269be6ed06e35c3ee9ea69a4483613f5c6305cd38967ea4966c892370bc384c7ef50e8ef017ca5106f9e9addc5bb42a87c629d8b061c8c0249280b947497aa246b07038541a6709f6ce46a3f1269918701b81a5512173110c0e5405eaf83bf27f6e5e2cc13198df6f88a9d4ba6f2e4cf28d1a3adf31eacdfdc19|213773f18535fa28b0b589f65679ecd7",
+        "server_configuration": "fad386173c7af5bff46b5ce7cf2745928084f0519ccf0a1a49dc7c1c6a346765d014f5b0fc957578bf214976226cd4e592256c835e9d14db0a6b798ffad3dc348013e28dd8821cc7858c5a56535b4b96b85b0a50ca04c9a445b8861d7601290608789a4a2671cd3e9b4eaecb189fdd5ecf400f51196ee2fc74fb4fc9d77e86c5|e3f4ffa556bc54fe1a9b2c9883480bb8"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "61f398fd1ecff10018907c80",
+            "name": "Color Picker",
+            "description": "<p>To further enhance the business user experience, Contentstack provides prebuilt custom field extensions that let you extend the functionality of your custom fields to serve your unique business needs while providing a native Contentstack look and feel.</p><p>With Contentstack Custom Fields, you can now select a color as an input. With the Color Picker custom field, you can select and adjust color values.</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/bltecb2d14343451f47/6242e94aaeff370de94d90c2/color-picker.svg",
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.custom_field",
+                        "meta": [
+                            {
+                                "uid": "628b5d4949314928ff3f2afa",
+                                "multiple": false,
+                                "name": "Color Picker",
+                                "path": "/custom-field",
+                                "signed": true,
+                                "enabled": true,
+                                "data_type": "json",
+                                "description": "While creating entries, you can select a color as an input."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public",
+            "type": "app",
+            "target_type": "stack",
+            "group": "user",
+            "organization_uid": "bltfc33bb69af496456",
+            "framework_version": "1.0",
+            "version": 5,
+            "created_by": {
+                "uid": "blt1953533304988583",
+                "first_name": "Hanoak",
+                "last_name": "Suchethan"
+            },
+            "updated_by": {
+                "uid": "blt3505f2536be88457",
+                "first_name": "ankita",
+                "last_name": "dodamani"
+            },
+            "created_at": "2022-01-28T07:19:24.564Z",
+            "updated_at": "2023-07-27T13:41:08.998Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "updated_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2024-11-23T01:04:45.462Z",
+        "updated_at": "2024-11-23T01:04:46.014Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.custom_field",
+                    "meta": [
+                        {
+                            "uid": "628b5d4949314928ff3f2afa",
+                            "extension_uid": "bltc320693af956a37c",
+                            "enabled": true,
+                            "name": "Color Picker",
+                            "path": "/custom-field",
+                            "data_type": "json"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "67412a2d2a3325ce5798ea1b",
+        "installation_uid": "67412a2d2a3325ce5798ea1b",
+        "urlPath": "/installations/67412a2d2a3325ce5798ea1b"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "621640ff4671880018efec74",
+            "name": "Image Preset Builder",
+            "description": "<p style=\"text-align: left;\">The Image Preset Builder app is a collection of formatting tools that help transform and optimize assets in the stack. You can build customized presets for any image file to tailor your assets as per your business requirements.</p><p style=\"text-align: left;\">Image Preset Builder allows you to use varied preset versions of assets across your entries. With the help of this app, you can add image presets to fields such as Custom Field extensions or the JSON Rich Text Editor.<span style=\"color: rgb(0, 0, 0);font-family: undefined;\"></span><span style=\"color: rgb(0, 0, 255);\"><strong></strong></span></p><h4>Developer Documentation:</h4><p>To render the image presets built from the Image Preset Builder app in your project using the <a href=\"https://github.com/contentstack/app-utils/\" target=\"_blank\">App Utils</a> functions, please refer to the <a href=\"https://www.contentstack.com/docs/developers/marketplace-apps/image-preset-builder/#render-images-using-image-preset-builder\" target=\"_blank\">Render Images using Image Preset Builder</a> section of the installation guide.</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/bltfe85fe6163c6371e/6242e8d081b559640a7f7475/preset.svg",
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.config",
+                        "meta": [
+                            {
+                                "uid": "628b5d4949314928ff3f2b28",
+                                "signed": false,
+                                "path": "/config/index.html"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.rte",
+                        "meta": [
+                            {
+                                "uid": "628b5d4949314928ff3f2b29",
+                                "name": "Image Preset Picker",
+                                "path": "/rte/plugin.system.js",
+                                "signed": false,
+                                "enabled": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.custom_field",
+                        "meta": [
+                            {
+                                "uid": "628b5d4949314928ff3f2b2a",
+                                "name": "Image Preset Picker",
+                                "path": "/custom-field/index.html",
+                                "signed": false,
+                                "enabled": true,
+                                "data_type": "asset"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.asset_sidebar",
+                        "meta": [
+                            {
+                                "uid": "628b5d4949314928ff3f2b2b",
+                                "name": "Image Preset Builder",
+                                "path": "/preset-builder/index.html",
+                                "signed": false,
+                                "enabled": true,
+                                "width": 1024,
+                                "blur": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public",
+            "type": "app",
+            "target_type": "stack",
+            "group": "user",
+            "organization_uid": "bltfc33bb69af496456",
+            "framework_version": "1.0",
+            "version": 1,
+            "created_by": {
+                "uid": "blt5d77259b211435ff",
+                "first_name": "Sankaranandh",
+                "last_name": "TN"
+            },
+            "updated_by": {
+                "uid": "blt773ff263ca3598a0",
+                "first_name": "Deepak",
+                "last_name": "Kharah"
+            },
+            "created_at": "2022-02-23T14:13:19.062Z",
+            "updated_at": "2025-01-28T10:55:15.683Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "bltbe96af92bb2f78ae",
+            "first_name": "Andrew",
+            "last_name": "Seatter"
+        },
+        "updated_by": {
+            "uid": "bltbe96af92bb2f78ae",
+            "first_name": "Andrew",
+            "last_name": "Seatter"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2025-03-18T21:13:53.398Z",
+        "updated_at": "2025-03-18T21:14:11.864Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.config",
+                    "meta": [
+                        {
+                            "uid": "628b5d4949314928ff3f2b28",
+                            "extension_uid": "blt0c551c2b6ef8db17",
+                            "enabled": true,
+                            "name": "Image Preset Builder",
+                            "path": "/config/index.html"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.rte",
+                    "meta": [
+                        {
+                            "uid": "628b5d4949314928ff3f2b29",
+                            "extension_uid": "blt83e92302a2d7082e",
+                            "enabled": true,
+                            "name": "Image Preset Picker",
+                            "path": "/rte/plugin.system.js"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.custom_field",
+                    "meta": [
+                        {
+                            "uid": "628b5d4949314928ff3f2b2a",
+                            "extension_uid": "bltb7737eace31cfb76",
+                            "enabled": true,
+                            "name": "Image Preset Picker",
+                            "path": "/custom-field/index.html",
+                            "data_type": "asset"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.asset_sidebar",
+                    "meta": [
+                        {
+                            "uid": "628b5d4949314928ff3f2b2b",
+                            "extension_uid": "bltdf3297c231e91bd2",
+                            "enabled": true,
+                            "name": "Image Preset Builder",
+                            "path": "/preset-builder/index.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "67d9e21185082a5453261bda",
+        "installation_uid": "67d9e21185082a5453261bda",
+        "urlPath": "/installations/67d9e21185082a5453261bda",
+        "configuration": "8f6d66b625f9b2f7cc1344ac387da9b6f5211ccde5e858eda4fcaa5bc11af9a6743763ca5e18d02769fa8248aa906c2c91c1f66cfe942eb5e410c8fa280d2a81|27f55fccbaac7e2a6b61990b5a272b8f"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "627cad8f615b520018fe004e",
+            "name": "Developer Tools",
+            "description": "<p>The Developer Tools app enhances the developer experience within the CMS by offering code snippets and automated schema generation.</p><p>By leveraging Developer Tools, developers can quickly access the required code snippets, reducing manual effort and improving efficiency when integrating content into their applications</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt8141683c1670df03/627d036d170c712e886640a8/developertools.svg",
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.sidebar",
+                        "meta": [
+                            {
+                                "uid": "628b5d4a49314928ff3f2c4b",
+                                "path": "/field-extension",
+                                "signed": false,
+                                "enabled": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.content_type_sidebar",
+                        "meta": [
+                            {
+                                "uid": "67a5f84aec55b10f26179c2d",
+                                "path": "/types-generator",
+                                "signed": false,
+                                "enabled": true,
+                                "required": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public",
+            "type": "app",
+            "target_type": "stack",
+            "group": "user",
+            "organization_uid": "blt90f399a6ce838a5a",
+            "framework_version": "1.0",
+            "version": 8,
+            "created_by": {
+                "uid": "bltf01cfddcefa2394d",
+                "first_name": "Amit",
+                "last_name": "Kanswal"
+            },
+            "updated_by": {
+                "uid": "blt65a8329e72183ade",
+                "first_name": "Rijil",
+                "last_name": "T R"
+            },
+            "created_at": "2022-05-12T06:47:43.384Z",
+            "updated_at": "2025-03-18T10:15:32.867Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "updated_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2025-06-05T17:30:26.131Z",
+        "updated_at": "2025-06-05T17:30:26.695Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.sidebar",
+                    "meta": [
+                        {
+                            "uid": "628b5d4a49314928ff3f2c4b",
+                            "extension_uid": "blt18aa224550a677f2",
+                            "enabled": true,
+                            "name": "Developer Tools",
+                            "path": "/field-extension"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.content_type_sidebar",
+                    "meta": [
+                        {
+                            "uid": "67a5f84aec55b10f26179c2d",
+                            "extension_uid": "blt90aaae1b1c82f50d",
+                            "enabled": true,
+                            "name": "Developer Tools",
+                            "path": "/types-generator"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "6841d4324b9c4f047d4c6cfa",
+        "installation_uid": "6841d4324b9c4f047d4c6cfa",
+        "urlPath": "/installations/6841d4324b9c4f047d4c6cfa"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "6307403f08132800192fe615",
+            "name": "Aprimo",
+            "description": "<p>With the Contentstack Marketplace Aprimo integration, into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>, you can easily manage and share digital assets across multiple platforms.</p><p>Using the <a href=\"https://www.contentstack.com/docs/developers/create-custom-fields/about-custom-fields\" target=\"_blank\">Custom Field</a> and <a href=\"https://www.contentstack.com/docs/developers/json-rich-text-editor/about-json-rich-text-editor/\" target=\"_blank\">JSON RTE</a> plugin, you can integrate Aprimo with Contentstack. You can create an entry in Contentstack and, with the integration, view all the digital assets in Contentstack.</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/bltf38c093728e6118d/6321d700acc2b02a2d2beb76/Aprimo.svg",
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.config",
+                        "meta": [
+                            {
+                                "uid": "63074067a1b5927e4b43811c",
+                                "name": "Aprimo App",
+                                "path": "/#/config",
+                                "signed": false,
+                                "enabled": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.custom_field",
+                        "meta": [
+                            {
+                                "uid": "6307407c75375dbb57e03551",
+                                "multiple": false,
+                                "name": "Aprimo",
+                                "path": "/#/custom-field",
+                                "signed": false,
+                                "enabled": true,
+                                "data_type": "json",
+                                "description": "Custom field allows you to select multiple images to add them to your entry from your Aprimo account."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.rte",
+                        "meta": [
+                            {
+                                "uid": "63074094cc11ca31585a56ee",
+                                "name": "Aprimo",
+                                "path": "/dist/aprimo.js",
+                                "signed": false,
+                                "enabled": true,
+                                "description": "You can add images from the Aprimo app to your JSON Rich Text Editor field using the Aprimo JSON RTE Plugin."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public",
+            "type": "app",
+            "target_type": "stack",
+            "group": "user",
+            "organization_uid": "bltfc33bb69af496456",
+            "framework_version": "1.0",
+            "version": 25,
+            "created_by": {
+                "uid": "bltd3e314b8626ecf71",
+                "first_name": "pawan",
+                "last_name": "sharma"
+            },
+            "updated_by": {
+                "uid": "blt75a769b11df04045",
+                "first_name": "Vikrant",
+                "last_name": "Raut"
+            },
+            "created_at": "2022-08-25T09:26:22.770Z",
+            "updated_at": "2023-05-04T10:24:02.777Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "updated_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2024-11-25T19:02:51.055Z",
+        "updated_at": "2024-11-25T19:03:29.095Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.config",
+                    "meta": [
+                        {
+                            "uid": "63074067a1b5927e4b43811c",
+                            "extension_uid": "blt84cf01a64a7a1477",
+                            "enabled": true,
+                            "name": "Aprimo App",
+                            "path": "/#/config"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.custom_field",
+                    "meta": [
+                        {
+                            "uid": "6307407c75375dbb57e03551",
+                            "extension_uid": "blta1339d28eab51721",
+                            "enabled": true,
+                            "name": "Aprimo",
+                            "path": "/#/custom-field",
+                            "data_type": "json"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.rte",
+                    "meta": [
+                        {
+                            "uid": "63074094cc11ca31585a56ee",
+                            "extension_uid": "bltfb5b59857b0290e6",
+                            "enabled": true,
+                            "name": "Aprimo",
+                            "path": "/dist/aprimo.js"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "6744c9db2a3325ce57995905",
+        "installation_uid": "6744c9db2a3325ce57995905",
+        "urlPath": "/installations/6744c9db2a3325ce57995905",
+        "configuration": "d28c52b36e17b11fb54c7316e8678f0d1b3e74268334474a1b022335461d1521b14585fcb3ec6fb80f47725d97d29264df2fcdc76dfbcb1014d11c4d87818109|5915fe3af8a6d27b3504bf524a80f4f0"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "6438f4bc3ff41c00184b6b78",
+            "name": "AI Assistant",
+            "description": "<p>Contentstack Marketplace lets you integrate the AI Assistant app to quickly and easily create summaries, outlines, metadata tags and descriptions, headlines, even full-length keyword-optimized blogs all with just a few clicks.</p><p>You can choose to generate, regenerate and replace content for the current field. Also, generate content for an entry field based on another field. You can also provide a custom command to manipulate the data based on your instructions.</p><p>With the Contentstack Entry Field UI location, you can access the AI Assistant app in different entry field types such as Title, Single Line Textbox, Multi-Line Textbox, HTML-based Rich Text Editor, JSON Rich Text Editor and Markdown.</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt76b8f8e813f5c61f/64395e27ee6de97ed7d65bc5/AI-Assistant.svg",
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.config",
+                        "meta": [
+                            {
+                                "uid": "64394fb77587664755d9b0ad",
+                                "path": "/#/app-configuration",
+                                "signed": true,
+                                "enabled": true,
+                                "required": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.rte",
+                        "meta": [
+                            {
+                                "uid": "65029c5233e260b4b5489607",
+                                "name": "AI Assistant",
+                                "path": "/json-rte.js",
+                                "signed": true,
+                                "enabled": true,
+                                "description": "The JsonRTE Field plugin location allows you to use AI Assistant on selected content."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.field_modifier",
+                        "meta": [
+                            {
+                                "uid": "64394fce3ff9fd5bb4e72a3e",
+                                "name": "AI Assistant",
+                                "path": "/#/field-modifier",
+                                "signed": true,
+                                "enabled": true,
+                                "allowed_types": [
+                                    "text",
+                                    "tags",
+                                    "json"
+                                ],
+                                "description": "Entry Field UI location allows you to enable the AI Assistant app in different field types. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public",
+            "type": "app",
+            "target_type": "stack",
+            "group": "user",
+            "organization_uid": "blt5462aeba66f96f3b",
+            "framework_version": "1.0",
+            "version": 10,
+            "created_by": {
+                "uid": "blt96247f2c2802e6f4",
+                "first_name": "kirtesh",
+                "last_name": "suthar"
+            },
+            "updated_by": {
+                "uid": "blt52bb13c8d02b30cf",
+                "first_name": "akash",
+                "last_name": "kanojia"
+            },
+            "created_at": "2023-04-14T06:37:48.170Z",
+            "updated_at": "2024-10-09T13:44:12.512Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "updated_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2024-11-01T14:47:42.983Z",
+        "updated_at": "2024-11-01T14:48:05.925Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.config",
+                    "meta": [
+                        {
+                            "uid": "64394fb77587664755d9b0ad",
+                            "extension_uid": "blt02cd59ca765aa1ac",
+                            "enabled": true,
+                            "name": "AI Assistant",
+                            "path": "/#/app-configuration"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.rte",
+                    "meta": [
+                        {
+                            "uid": "65029c5233e260b4b5489607",
+                            "extension_uid": "blt0b1934e79963b48b",
+                            "enabled": true,
+                            "name": "AI Assistant",
+                            "path": "/json-rte.js"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.field_modifier",
+                    "meta": [
+                        {
+                            "uid": "64394fce3ff9fd5bb4e72a3e",
+                            "extension_uid": "blt63033d867f270fba",
+                            "enabled": true,
+                            "name": "AI Assistant",
+                            "path": "/#/field-modifier"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "6724ea0ea2068836a21a7fb6",
+        "installation_uid": "6724ea0ea2068836a21a7fb6",
+        "urlPath": "/installations/6724ea0ea2068836a21a7fb6",
+        "configuration": "e51285bf2d40e2a303427bbe3449250bfc385f3305c2fc552705c432631b49c7ad201fe66d92c6fefef29f98a2518f1fa6bc7f15acdefd32501d019b56eac2ded00800738dc8cf5d2c863af95771dbcd61fafacf05be723803b1b223a956bb6a5c6971a20b1a9aa97e4554ba55fc7d99c0b7e2cc28b749bef155224e677879efbd396f4ad38d5b1674526bbb70ddb80e1be19832be2c657e4803d855d218e01fe4b49d9325d0ae6a186ebc99dbbd6b3d5d8b374089791a9e6698a11805f3ceb62f144f42bd8007f2f8172ac1e547a4e36dbf7bf5c86c973369e1dd3d1a03a9436e5995902915d642d2d6175b321e6fac0c716627970e19de1768277298c7499e8471d21439778d63305f50e005b83ac4065eb51f304bf7e445bebf6d40feac8e|aa87f990afdc1c78e001c078d3e76b01"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "644a04f482556300190b1772",
+            "name": "Workflow Board",
+            "description": "<p>Contentstack Marketplace lets you integrate the Workflow Board app directly into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>. You can easily use this app to view and manage the <a href=\"https://www.contentstack.com/docs/developers/set-up-workflows-and-publish-rules/about-workflow-stages/\" target=\"_blank\">Workflow Stages</a> in a Kanban format.</p><p>Using Contentstack, you can now add a Workflow Board app in your stack and view the list of <a href=\"https://www.contentstack.com/docs/developers/set-up-workflows-and-publish-rules/about-workflows/\" target=\"_blank\">Workflows</a> along with the <a href=\"https://www.contentstack.com/docs/developers/set-up-workflows-and-publish-rules/about-workflow-stages/\" target=\"_blank\">Workflow Stages</a> and <a href=\"https://www.contentstack.com/docs/developers/set-up-workflows-and-publish-rules/about-workflow-tasks/\" target=\"_blank\">Workflow Tasks</a> for <a href=\"https://www.contentstack.com/docs/developers/create-content-types/about-content-types/\" target=\"_blank\">Content Types</a> within your Contentstack environment. Also, the app lets you search for workflows and entries in the Workflow Board app.</p><p>The app displays the workflow tasks in different workflow stages. You can drag and drop the workflow tasks from one workflow stage to another and update them with the required details directly. You can edit the Workflow stage of an entry only if you have the required permissions.</p><p>You can also view the total number of workflow task assignees in the User(s) and Role(s) categories in the Workflow Board app.</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blta96bfb06ebae3d1e/6454e5d634deb722a6c94560/Workflow_Board.svg",
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.full_page",
+                        "meta": [
+                            {
+                                "uid": "644a067b3113ec3d6bdaba07",
+                                "name": "Workflow Board",
+                                "path": "/stack-dashboard",
+                                "signed": true,
+                                "enabled": true,
+                                "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik02NCAxMDcuNUM2NCA4My40NzU2IDgzLjQ3NTYgNjQgMTA3LjUgNjRINDA0LjVDNDI4LjUyNCA2NCA0NDggODMuNDc1NiA0NDggMTA3LjVWNDA0LjVDNDQ4IDQyOC41MjQgNDI4LjUyNCA0NDggNDA0LjUgNDQ4SDEwNy41QzgzLjQ3NTYgNDQ4IDY0IDQyOC41MjQgNjQgNDA0LjVWMTA3LjVaIiBzdHJva2U9IiM0NzUxNjEiIHN0cm9rZS13aWR0aD0iMjQiLz4KPHJlY3QgeD0iMjIyIiB5PSIxMTQiIHdpZHRoPSI2OCIgaGVpZ2h0PSIxMDQiIHJ4PSIxNSIgZmlsbD0iIzQ3NTE2MSIvPgo8cmVjdCB4PSIxMDQiIHk9IjExNSIgd2lkdGg9IjY4IiBoZWlnaHQ9IjE4OSIgcng9IjE1IiBmaWxsPSIjNDc1MTYxIi8+CjxyZWN0IHg9IjM0MCIgeT0iMTE0IiB3aWR0aD0iNjgiIGhlaWdodD0iMjg0IiByeD0iMTUiIGZpbGw9IiM0NzUxNjEiLz4KPC9zdmc+Cg==",
+                                "description": "It previews the Workflow stages and Workflow tasks for the selected content types within the stack."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public",
+            "type": "app",
+            "target_type": "stack",
+            "group": "user",
+            "organization_uid": "blt90f399a6ce838a5a",
+            "framework_version": "1.0",
+            "version": 14,
+            "created_by": {
+                "uid": "blt029d7360547e64ad",
+                "first_name": "Maitri",
+                "last_name": "Gurey"
+            },
+            "updated_by": {
+                "uid": "bltf01cfddcefa2394d",
+                "first_name": "Amit",
+                "last_name": "Kanswal"
+            },
+            "created_at": "2023-04-27T05:15:31.832Z",
+            "updated_at": "2025-01-28T10:55:15.356Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "bltbe96af92bb2f78ae",
+            "first_name": "Andrew",
+            "last_name": "Seatter"
+        },
+        "updated_by": {
+            "uid": "bltbe96af92bb2f78ae",
+            "first_name": "Andrew",
+            "last_name": "Seatter"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2025-02-06T19:08:47.019Z",
+        "updated_at": "2025-02-06T19:08:54.170Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.full_page",
+                    "meta": [
+                        {
+                            "uid": "644a067b3113ec3d6bdaba07",
+                            "extension_uid": "bltf596be381cdd85f9",
+                            "enabled": true,
+                            "name": "Workflow Board",
+                            "path": "/stack-dashboard"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "67a508bfa500efd4ff17ca40",
+        "installation_uid": "67a508bfa500efd4ff17ca40",
+        "urlPath": "/installations/67a508bfa500efd4ff17ca40"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "648c029eff5db6001969146b",
+            "name": "Calendar",
+            "description": "<p>Contentstack Marketplace lets you integrate the Calendar app directly into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>. You can easily use this app to display the assigned <a href=\"https://www.contentstack.com/docs/developers/set-up-workflows-and-publish-rules/about-workflows/\" target=\"_blank\">Workflow</a> tasks and scheduled events, such as publish entries and releases on a calendar board.</p><p>Using Contentstack, you can add a Calendar app to your stack and view the events on the scheduled dates within your Contentstack environments. The app uses color codes and icons to differentiate the task, publish, and release events. Also, you can view the event details in the right-hand side of the board. The app also provides month, timeline, and week view options of the events.</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/bltcf4154e17d8b44a5/64b667d5fe186a39e1a45756/Calendar.svg",
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.full_page",
+                        "meta": [
+                            {
+                                "uid": "648c02c72fc2f44fb593f2d0",
+                                "name": "Calendar ",
+                                "path": "/full-page",
+                                "signed": true,
+                                "enabled": true,
+                                "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTU2IDQ4QzE1NiA0MS4zNzI2IDE1MC42MjcgMzYgMTQ0IDM2QzEzNy4zNzMgMzYgMTMyIDQxLjM3MjYgMTMyIDQ4Vjg0SDk2QzcxLjY5OTUgODQgNTIgMTAzLjY5OSA1MiAxMjhWNDE2QzUyIDQ0MC4zMDEgNzEuNjk5NSA0NjAgOTYgNDYwSDQxNkM0NDAuMzAxIDQ2MCA0NjAgNDQwLjMwMSA0NjAgNDE2VjEyOEM0NjAgMTAzLjY5OSA0NDAuMzAxIDg0IDQxNiA4NEgzODBWNDhDMzgwIDQxLjM3MjYgMzc0LjYyNyAzNiAzNjggMzZDMzYxLjM3MyAzNiAzNTYgNDEuMzcyNiAzNTYgNDhWODRIMTU2VjQ4Wk00MzYgMTgwVjEyOEM0MzYgMTE2Ljk1NCA0MjcuMDQ2IDEwOCA0MTYgMTA4SDk2Qzg0Ljk1NDMgMTA4IDc2IDExNi45NTQgNzYgMTI4VjE4MEg0MzZaTTc2IDIwNEg0MzZWNDE2QzQzNiA0MjcuMDQ2IDQyNy4wNDYgNDM2IDQxNiA0MzZIOTZDODQuOTU0MyA0MzYgNzYgNDI3LjA0NiA3NiA0MTZWMjA0WiIgZmlsbD0iIzQ3NTE2MSIvPgo8cGF0aCBkPSJNMTc2IDI2NEMxNzYgMjc3LjI1NSAxNjUuMjU1IDI4OCAxNTIgMjg4QzEzOC43NDUgMjg4IDEyOCAyNzcuMjU1IDEyOCAyNjRDMTI4IDI1MC43NDUgMTM4Ljc0NSAyNDAgMTUyIDI0MEMxNjUuMjU1IDI0MCAxNzYgMjUwLjc0NSAxNzYgMjY0WiIgZmlsbD0iIzQ3NTE2MSIvPgo8cGF0aCBkPSJNMjcyIDI2NEMyNzIgMjc3LjI1NSAyNjEuMjU1IDI4OCAyNDggMjg4QzIzNC43NDUgMjg4IDIyNCAyNzcuMjU1IDIyNCAyNjRDMjI0IDI1MC43NDUgMjM0Ljc0NSAyNDAgMjQ4IDI0MEMyNjEuMjU1IDI0MCAyNzIgMjUwLjc0NSAyNzIgMjY0WiIgZmlsbD0iIzQ3NTE2MSIvPgo8cGF0aCBkPSJNMzY4IDI2NEMzNjggMjc3LjI1NSAzNTcuMjU1IDI4OCAzNDQgMjg4QzMzMC43NDUgMjg4IDMyMCAyNzcuMjU1IDMyMCAyNjRDMzIwIDI1MC43NDUgMzMwLjc0NSAyNDAgMzQ0IDI0MEMzNTcuMjU1IDI0MCAzNjggMjUwLjc0NSAzNjggMjY0WiIgZmlsbD0iIzQ3NTE2MSIvPgo8cGF0aCBkPSJNMTc2IDM2MEMxNzYgMzczLjI1NSAxNjUuMjU1IDM4NCAxNTIgMzg0QzEzOC43NDUgMzg0IDEyOCAzNzMuMjU1IDEyOCAzNjBDMTI4IDM0Ni43NDUgMTM4Ljc0NSAzMzYgMTUyIDMzNkMxNjUuMjU1IDMzNiAxNzYgMzQ2Ljc0NSAxNzYgMzYwWiIgZmlsbD0iIzQ3NTE2MSIvPgo8cGF0aCBkPSJNMjcyIDM2MEMyNzIgMzczLjI1NSAyNjEuMjU1IDM4NCAyNDggMzg0QzIzNC43NDUgMzg0IDIyNCAzNzMuMjU1IDIyNCAzNjBDMjI0IDM0Ni43NDUgMjM0Ljc0NSAzMzYgMjQ4IDMzNkMyNjEuMjU1IDMzNiAyNzIgMzQ2Ljc0NSAyNzIgMzYwWiIgZmlsbD0iIzQ3NTE2MSIvPgo8L3N2Zz4K",
+                                "description": "It shows a calendar for assigned tasks, scheduled entries, and releases and a sidebar showing the detailed content."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public",
+            "type": "app",
+            "target_type": "stack",
+            "group": "user",
+            "organization_uid": "blt90f399a6ce838a5a",
+            "framework_version": "1.0",
+            "version": 17,
+            "created_by": {
+                "uid": "blt029d7360547e64ad",
+                "first_name": "Maitri",
+                "last_name": "Gurey"
+            },
+            "updated_by": {
+                "uid": "blt029d7360547e64ad",
+                "first_name": "Maitri",
+                "last_name": "Gurey"
+            },
+            "created_at": "2023-06-16T06:35:10.124Z",
+            "updated_at": "2025-01-28T10:55:15.626Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "bltbe96af92bb2f78ae",
+            "first_name": "Andrew",
+            "last_name": "Seatter"
+        },
+        "updated_by": {
+            "uid": "bltbe96af92bb2f78ae",
+            "first_name": "Andrew",
+            "last_name": "Seatter"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2025-02-06T17:40:36.828Z",
+        "updated_at": "2025-02-06T17:40:46.183Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.full_page",
+                    "meta": [
+                        {
+                            "uid": "648c02c72fc2f44fb593f2d0",
+                            "extension_uid": "bltcf385d37f60e5b24",
+                            "enabled": true,
+                            "name": "Calendar ",
+                            "path": "/full-page"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "67a4f414a500efd4ff17be91",
+        "installation_uid": "67a4f414a500efd4ff17be91",
+        "urlPath": "/installations/67a4f414a500efd4ff17be91"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "664aedc8a7eb3b00138f34e4",
+            "name": "Automate",
+            "description": "<p>By integrating the Automate app into your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\" target=\"_blank\">headless CMS</a>, you can effortlessly manage and execute automations created in Contentstack’s Automate.</p><p>You can view the Automate app in the Entry Sidebar UI location and bring all the capabilities of Automate within your entry editor in the CMS. You can see a list of all the active automations ready for execution, simply click the Execute icon to run an automation.</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt5871b2603c70f5ab/628b5541445f645df4fcefe5/Automations.svg",
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.entry_sidebar_rail",
+                        "meta": [
+                            {
+                                "uid": "664b2cfdb1cd071f054d7010",
+                                "name": "Automate",
+                                "path": "?location=EditEntrySidebar",
+                                "signed": false,
+                                "enabled": true,
+                                "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNi42NDUyIDcuMDU5NjhDMTYuNzk0OCA2LjgwMTIzIDE2LjkyMDUgNi41MzU1NiAxNy4wMjI5IDYuMjY1MjFDMTcuMTYyOCA1Ljg5NTg5IDE3LjI3OTggNS4zNzY3NiAxNy4zMjkyIDQuODAwOTZMMTUuODE1NCAyLjE4NjkxQzE1LjAwNzEgMC43OTEwMzcgMTMuNTQzMyAwLjAwNzY0Nzg3IDEyLjAzNTQgNS40NTA4OWUtMDVDMTMuNTQzMyAwLjAwNzYzMzIzIDE1LjAwNzEgMC43OTEwMjQgMTUuODE1NSAyLjE4NjkxTDIyLjkxMTcgMTQuNDQwN0MyNC4xMjI4IDE2LjUzMiAyMy40MDQxIDE5LjIwNjEgMjEuMzA2NCAyMC40MTM1QzE5LjIwODggMjEuNjIwOSAxNi41MjY2IDIwLjkwNDQgMTUuMzE1NSAxOC44MTMxTDEyLjU3NzEgMTQuMDg0NEwxNi42NDUyIDcuMDU5NjhaTTEyIDEzLjA4NzhMOC42ODQ0NiAxOC44MTMxQzcuNDczNCAyMC45MDQ0IDQuNzkxMTggMjEuNjIwOSAyLjY5MzU1IDIwLjQxMzVDMC41OTU5MzMgMTkuMjA2MSAtMC4xMjI3NjUgMTYuNTMyIDEuMDg4MyAxNC40NDA3TDYuNzExNjggNC43MzAyNEM2Ljc1OTExIDUuMzQ3NDkgNi44NzExNyA1Ljg5OTMzIDYuOTc3MDMgNi4yNjUyMUM3LjA3OTQxIDYuNTM1NTYgNy4yMDUwOSA2LjgwMTI0IDcuMzU0NzYgNy4wNTk2OUwxMS40MjI4IDE0LjA4NDRMMTIgMTMuMDg3OEwxMiAxMy4wODc4Wk0xMS45ODY0IDkuMzY1NzRlLTA5QzExLjk5MDkgLTIuMzc2ODdlLTA3IDExLjk5NTMgNi4yNjMyM2UtMDYgMTEuOTk5OCAxLjk1MTYzZS0wNUMxMS45OTk4IDEuOTQ5NTdlLTA1IDExLjk5OTggMS45NTQzZS0wNSAxMS45OTk4IDEuOTUyMjRlLTA1QzExLjk5NTMgNi4yMjY2OGUtMDYgMTEuOTkwOSAtMi44MjAzOGUtMDcgMTEuOTg2NCA5LjM2NTc0ZS0wOVpNMTAuMzIyOSAxLjQ1MjAzQzEwLjg1MjMgMS4xNDczNCAxMS40Mjk3IDEuMDAxMjcgMTEuOTk5OCAwLjk5ODg2OUMxMi41NyAxLjAwMTIyIDEzLjE0NzUgMS4xNDcyOSAxMy42NzY5IDEuNDUyMDNDMTUuMjk2OCAyLjM4NDQxIDE1Ljg0OTYgNC40NDY5IDE0LjkxNjEgNi4wNTg4N0wxMS45OTk5IDExLjA5NDVMOS4wODM3NyA2LjA1ODg3QzguMTUwMjcgNC40NDY5MSA4LjcwMzEyIDIuMzg0NDEgMTAuMzIyOSAxLjQ1MjAzWiIgZmlsbD0iIzZDNUNFNyIvPgo8L3N2Zz4K",
+                                "required": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.asset_sidebar_rail",
+                        "meta": [
+                            {
+                                "uid": "6687bbaea22ea70da3b43df5",
+                                "blur": false,
+                                "name": "Automate",
+                                "path": "?location=EditAssetSidebar",
+                                "signed": false,
+                                "enabled": true,
+                                "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNi42NDUyIDcuMDU5NjhDMTYuNzk0OCA2LjgwMTIzIDE2LjkyMDUgNi41MzU1NiAxNy4wMjI5IDYuMjY1MjFDMTcuMTYyOCA1Ljg5NTg5IDE3LjI3OTggNS4zNzY3NiAxNy4zMjkyIDQuODAwOTZMMTUuODE1NCAyLjE4NjkxQzE1LjAwNzEgMC43OTEwMzcgMTMuNTQzMyAwLjAwNzY0Nzg3IDEyLjAzNTQgNS40NTA4OWUtMDVDMTMuNTQzMyAwLjAwNzYzMzIzIDE1LjAwNzEgMC43OTEwMjQgMTUuODE1NSAyLjE4NjkxTDIyLjkxMTcgMTQuNDQwN0MyNC4xMjI4IDE2LjUzMiAyMy40MDQxIDE5LjIwNjEgMjEuMzA2NCAyMC40MTM1QzE5LjIwODggMjEuNjIwOSAxNi41MjY2IDIwLjkwNDQgMTUuMzE1NSAxOC44MTMxTDEyLjU3NzEgMTQuMDg0NEwxNi42NDUyIDcuMDU5NjhaTTEyIDEzLjA4NzhMOC42ODQ0NiAxOC44MTMxQzcuNDczNCAyMC45MDQ0IDQuNzkxMTggMjEuNjIwOSAyLjY5MzU1IDIwLjQxMzVDMC41OTU5MzMgMTkuMjA2MSAtMC4xMjI3NjUgMTYuNTMyIDEuMDg4MyAxNC40NDA3TDYuNzExNjggNC43MzAyNEM2Ljc1OTExIDUuMzQ3NDkgNi44NzExNyA1Ljg5OTMzIDYuOTc3MDMgNi4yNjUyMUM3LjA3OTQxIDYuNTM1NTYgNy4yMDUwOSA2LjgwMTI0IDcuMzU0NzYgNy4wNTk2OUwxMS40MjI4IDE0LjA4NDRMMTIgMTMuMDg3OEwxMiAxMy4wODc4Wk0xMS45ODY0IDkuMzY1NzRlLTA5QzExLjk5MDkgLTIuMzc2ODdlLTA3IDExLjk5NTMgNi4yNjMyM2UtMDYgMTEuOTk5OCAxLjk1MTYzZS0wNUMxMS45OTk4IDEuOTQ5NTdlLTA1IDExLjk5OTggMS45NTQzZS0wNSAxMS45OTk4IDEuOTUyMjRlLTA1QzExLjk5NTMgNi4yMjY2OGUtMDYgMTEuOTkwOSAtMi44MjAzOGUtMDcgMTEuOTg2NCA5LjM2NTc0ZS0wOVpNMTAuMzIyOSAxLjQ1MjAzQzEwLjg1MjMgMS4xNDczNCAxMS40Mjk3IDEuMDAxMjcgMTEuOTk5OCAwLjk5ODg2OUMxMi41NyAxLjAwMTIyIDEzLjE0NzUgMS4xNDcyOSAxMy42NzY5IDEuNDUyMDNDMTUuMjk2OCAyLjM4NDQxIDE1Ljg0OTYgNC40NDY5IDE0LjkxNjEgNi4wNTg4N0wxMS45OTk5IDExLjA5NDVMOS4wODM3NyA2LjA1ODg3QzguMTUwMjcgNC40NDY5MSA4LjcwMzEyIDIuMzg0NDEgMTAuMzIyOSAxLjQ1MjAzWiIgZmlsbD0iIzZDNUNFNyIvPgo8L3N2Zz4K",
+                                "required": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public",
+            "type": "app",
+            "target_type": "stack",
+            "group": "system",
+            "organization_uid": "blt3ef845281f2ff619",
+            "framework_version": "1.0",
+            "version": 13,
+            "created_by": {
+                "uid": "bltc0001b43eb8e2768",
+                "first_name": "Automation",
+                "last_name": "OAuth"
+            },
+            "updated_by": {
+                "uid": "bltc0001b43eb8e2768",
+                "first_name": "Automation",
+                "last_name": "OAuth"
+            },
+            "created_at": "2024-05-20T06:29:28.533Z",
+            "updated_at": "2025-01-28T10:56:58.658Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "bltbe96af92bb2f78ae",
+            "first_name": "Andrew",
+            "last_name": "Seatter"
+        },
+        "updated_by": {
+            "uid": "bltbe96af92bb2f78ae",
+            "first_name": "Andrew",
+            "last_name": "Seatter"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2025-02-06T17:38:22.735Z",
+        "updated_at": "2025-02-06T17:42:33.248Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.entry_sidebar_rail",
+                    "meta": [
+                        {
+                            "uid": "664b2cfdb1cd071f054d7010",
+                            "extension_uid": "blta25bfdc41216b0a9",
+                            "enabled": true,
+                            "name": "Automate",
+                            "path": "?location=EditEntrySidebar"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.asset_sidebar_rail",
+                    "meta": [
+                        {
+                            "uid": "6687bbaea22ea70da3b43df5",
+                            "extension_uid": "blt0ab56688bac483f9",
+                            "enabled": true,
+                            "name": "Automate",
+                            "path": "?location=EditAssetSidebar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "67a4f38ea500efd4ff17be3b",
+        "installation_uid": "67a4f38ea500efd4ff17be3b",
+        "urlPath": "/installations/67a4f38ea500efd4ff17be3b"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "urlPath": "/manifests/67195591b2e0b100121eeeb2",
+            "params": {
+                "organization_uid": "bltd615cd84d1b59067"
+            },
+            "group": "user",
+            "framework_version": "1.0",
+            "version": 2,
+            "icon": "",
+            "description": "",
+            "target_type": "stack",
+            "name": "People-Picker",
+            "ui_location": {
+                "signed": false,
+                "base_url": "https://people-picker.contentstackapps.com/",
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.custom_field",
+                        "meta": [
+                            {
+                                "uid": "66451cb41d0ec13b8554c55a",
+                                "multiple": false,
+                                "name": "People Picker◈2",
+                                "path": "#/custom-field",
+                                "signed": false,
+                                "enabled": true,
+                                "data_type": "json",
+                                "required": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "private",
+            "created_by": {
+                "uid": "blt4aabe76cbc5c8676",
+                "first_name": "Muhammed",
+                "last_name": "Constantino"
+            },
+            "updated_by": {
+                "uid": "bltd8c8c6268e338ba5",
+                "first_name": "kulsum",
+                "last_name": "ansari"
+            },
+            "organization_uid": "bltd615cd84d1b59067",
+            "created_at": "2024-10-23T19:59:13.462Z",
+            "updated_at": "2026-01-28T08:11:52.916Z",
+            "type": "app",
+            "advanced_settings": {
+                "variables": {},
+                "mappings": {},
+                "rewrites": []
+            },
+            "uid": "67195591b2e0b100121eeeb2"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "blt4aabe76cbc5c8676",
+            "first_name": "Muhammed",
+            "last_name": "Constantino"
+        },
+        "updated_by": {
+            "uid": "blt4aabe76cbc5c8676",
+            "first_name": "Muhammed",
+            "last_name": "Constantino"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2024-10-23T19:59:35.901Z",
+        "updated_at": "2026-01-28T08:12:52.911Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.custom_field",
+                    "meta": [
+                        {
+                            "uid": "66451cb41d0ec13b8554c55a",
+                            "extension_uid": "blt8e991a4eca965544",
+                            "enabled": true,
+                            "name": "People Picker◈2",
+                            "path": "#/custom-field",
+                            "data_type": "json"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "671955a7654f221b0760be81",
+        "installation_uid": "671955a7654f221b0760be81",
+        "urlPath": "/installations/671955a7654f221b0760be81"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "uid": "6836be3b60b35b0012711330",
+            "name": "Audience Insights",
+            "description": "<p></p><p>Supercharge your content strategy with the Audience Insights app from Contentstack Marketplace! Seamlessly integrate your Lytics Customer Data Platform and gain precise audience data analysis directly within your <a href=\"https://www.contentstack.com/cms-guides/headless-cms\">headless CMS</a>.</p><p></p><p>The app understands how well your content resonates with target audiences by leveraging behavioral and demographic data. Deliver your messaging to the right audience segments and make strategic content decisions that drive engagement. Whether you are analyzing individual entries or exploring trends across pages, the Audience Insights app provides powerful insights to boost your content performance.</p><p></p><p>Once installed, you can effortlessly analyze audience data and enhance your personalization strategies.</p>",
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt52c9a686a3ba9ed3/68382027c2c2459356aef65d/Audience_Insights.svg",
+            "ui_location": {
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.entry_sidebar_rail",
+                        "meta": [
+                            {
+                                "uid": "6838177064dba75641963ff9",
+                                "name": "Audience Insights",
+                                "path": "/entry-sidebar",
+                                "signed": false,
+                                "enabled": true,
+                                "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDMiIGhlaWdodD0iNDciIHZpZXdCb3g9IjAgMCA0MyA0NyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE5Ljg0OTYgMi4xMzM3OUMyMS4xMzc0IDIuMTMzNzkgMjIuMzk3NyAyLjI1NjMxIDIzLjYxOTEgMi40OTEyMUwyNC4xNDA2IDIuNTk4NjNMMjQuMjczNCAyLjYzNDc3QzI0LjkyMzQgMi44NDg3NSAyNS4zMTg0IDMuNTI1MzUgMjUuMTY4IDQuMjA4MDFDMjUuMDE3MyA0Ljg5MDM4IDI0LjM3NDkgNS4zMzY4NCAyMy42OTUzIDUuMjU3ODFMMjMuNTU4NiA1LjIzNTM1TDIzLjEwOTQgNS4xNDI1OEMyMi4wNTUgNC45Mzk3OSAyMC45NjUzIDQuODMzMDEgMTkuODQ5NiA0LjgzMzAxQzEwLjM3NzkgNC44MzMwMSAyLjY5OTIyIDEyLjUxMTcgMi42OTkyMiAyMS45ODM0QzIuNjk5MjIgMjUuMzc3MiAzLjY4NTc2IDI4LjU0MDQgNS4zODY3MiAzMS4yMDMxQzcuNzYyOTMgMjkuODU1IDExLjE3NzcgMjkuMDc1MyAxNC44NDQ3IDI5LjA3NTJDMTcuOTY2OCAyOS4wNzUyIDIwLjg2ODggMjkuNjM4MSAyMy4xMDk0IDMwLjYxMDRDMjMuNjQ0MiAzMC4wMTQgMjQuMzYzNSAyOS41NDcyIDI1LjEyOTkgMjkuMjA1MUMyNi4zNzA4IDI4LjY1MTEgMjcuOTEyNCAyOC4zMzc5IDI5LjU1MzcgMjguMzM3OUMzMC45OTkgMjguMzM3OSAzMi4zNjM2IDI4LjU4MDUgMzMuNTEyNyAyOS4wMTM3QzM0LjA4MzkgMjkuMjI5IDM0LjYyNTcgMjkuNTAwNyAzNS4xMDI1IDI5LjgzMDFDMzYuMzE0NyAyNy40Nzg2IDM3IDI0LjgxMTEgMzcgMjEuOTgzNEMzNyAyMC42MTIzIDM2LjgzOSAxOS4yODAzIDM2LjUzNjEgMTguMDA0OUMzNi4zNjQgMTcuMjc5NSAzNi44MTI3IDE2LjU1MjEgMzcuNTM4MSAxNi4zNzk5QzM4LjI2MzIgMTYuMjA3OSAzOC45OTA3IDE2LjY1NTggMzkuMTYzMSAxNy4zODA5QzM5LjUxNDEgMTguODU5MiAzOS42OTkyIDIwLjQwMDcgMzkuNjk5MiAyMS45ODM0QzM5LjY5OTIgMjkuMDE3OCAzNi4wNCAzNS4xOTcxIDMwLjUyMTUgMzguNzIyN0wzMy44MDM3IDQzLjk2NDhMMzMuODkwNiA0NC4xMjIxQzM0LjI4MjkgNDQuOTE3NSAzNC4wMTY4IDQ1Ljg5NyAzMy4yNDkgNDYuMzc3OUMzMi40ODEgNDYuODU4NSAzMS40ODM2IDQ2LjY3MDEgMzAuOTM5NSA0NS45Njk3TDMwLjgzNjkgNDUuODIzMkwyNy40MDUzIDQwLjM0MjhDMjUuMDc2MiA0MS4zMDIzIDIyLjUyNSA0MS44MzMgMTkuODQ5NiA0MS44MzNDOC44ODY3NiA0MS44MzMgMCAzMi45NDYzIDAgMjEuOTgzNEMwIDExLjAyMDUgOC44ODY3NiAyLjEzMzc5IDE5Ljg0OTYgMi4xMzM3OVpNMTQuODQ0NyAzMS43MDIxQzExLjYxNzggMzEuNzAyMiA4LjgzNDg1IDMyLjM2ODMgNi45ODYzMyAzMy4zMjUyQzEwLjEyOSAzNi44ODY3IDE0LjcyNjYgMzkuMTMzOCAxOS44NDk2IDM5LjEzMzhDMjAuMjUyMSAzOS4xMzM4IDIwLjY1MTMgMzkuMTE4MSAyMS4wNDY5IDM5LjA5MDhDMjIuMzkxNyAzOC42Mzg5IDIzLjQyNzEgMzguMDcwMSAyNC4xMDU1IDM3LjQ2OTdDMjQuODAwOCAzNi44NTQyIDI1LjAyNzMgMzYuMzAyMiAyNS4wMjczIDM1Ljg2MzNDMjUuMDI3MiAzNS4xNTEyIDI0LjM3NDggMzQuMTE0NyAyMi40MDkyIDMzLjE3ODdDMjAuNTQxMyAzMi4yODkzIDE3Ljg2ODEgMzEuNzAyMiAxNC44NDQ3IDMxLjcwMjFaTTI5LjU1MzcgMzAuNjI4OUMyOC4xODcgMzAuNjI5IDI2Ljk3MDQgMzAuODkyIDI2LjA2MzUgMzEuMjk2OUMyNS43MTMzIDMxLjQ1MzIgMjUuNDMyNiAzMS42MjEzIDI1LjIxIDMxLjc4NzFDMjYuNjIzNSAzMi44MDcyIDI3LjY1NTIgMzQuMTcwOCAyNy42NTUzIDM1Ljg2MzNDMjcuNjU1MiAzNi40MTM2IDI3LjU0MiAzNi45MzA3IDI3LjM0NDcgMzcuNDEyMUMyOS45ODQ0IDM2LjEyNzQgMzIuMjQ0MyAzNC4xODU0IDMzLjkxMzEgMzEuNzk4OEMzMy42MTI2IDMxLjU3MjYgMzMuMjEyMiAzMS4zNDg4IDMyLjcwNDEgMzEuMTU3MkMzMS44Mzk5IDMwLjgzMTUgMzAuNzUyNiAzMC42Mjg5IDI5LjU1MzcgMzAuNjI4OVpNMTQuODQyOCAxMy43NDcxQzE4Ljg5NDEgMTMuNzQ3MSAyMi4xNzg1IDE3LjAzMDggMjIuMTc4NyAyMS4wODJDMjIuMTc4NyAyNS4xMzM0IDE4Ljg5NDIgMjguNDE4IDE0Ljg0MjggMjguNDE4QzEwLjc5MTUgMjguNDE3OCA3LjUwNzgxIDI1LjEzMzMgNy41MDc4MSAyMS4wODJDNy41MDgwMiAxNy4wMzA5IDEwLjc5MTcgMTMuNzQ3MyAxNC44NDI4IDEzLjc0NzFaTTI5LjU0NDkgMTkuMDEwN0MzMi4wMjI2IDE5LjAxMDcgMzQuMDMxMiAyMS4wMTk0IDM0LjAzMTIgMjMuNDk3MUMzNC4wMzEyIDI1Ljk3NDcgMzIuMDIyNiAyNy45ODM0IDI5LjU0NDkgMjcuOTgzNEMyNy4wNjczIDI3Ljk4MzQgMjUuMDU4NyAyNS45NzQ3IDI1LjA1ODYgMjMuNDk3MUMyNS4wNTg2IDIxLjAxOTQgMjcuMDY3MiAxOS4wMTA4IDI5LjU0NDkgMTkuMDEwN1pNMTQuODQyOCAxNi4zNzRDMTIuMjQyOSAxNi4zNzQyIDEwLjEzNSAxOC40ODIyIDEwLjEzNDggMjEuMDgyQzEwLjEzNDggMjMuNjgyMSAxMi4yNDI4IDI1Ljc4OTggMTQuODQyOCAyNS43OUMxNy40NDI5IDI1Ljc5IDE5LjU1MDggMjMuNjgyMiAxOS41NTA4IDIxLjA4MkMxOS41NTA2IDE4LjQ4MiAxNy40NDI4IDE2LjM3NCAxNC44NDI4IDE2LjM3NFpNMjkuNTQ0OSAyMS4zMDE4QzI4LjMzMjUgMjEuMzAxOCAyNy4zNDk2IDIyLjI4NDYgMjcuMzQ5NiAyMy40OTcxQzI3LjM0OTcgMjQuNzA5NSAyOC4zMzI1IDI1LjY5MjMgMjkuNTQ0OSAyNS42OTI0QzMwLjc1NzQgMjUuNjkyNCAzMS43NDAyIDI0LjcwOTUgMzEuNzQwMiAyMy40OTcxQzMxLjc0MDIgMjIuMjg0NiAzMC43NTc0IDIxLjMwMTggMjkuNTQ0OSAyMS4zMDE4Wk0zNS45Njc4IDkuNzVDMzYuNjc0MiA5Ljc1MDIgMzcuMjQ2OCAxMC4zMjI5IDM3LjI0NzEgMTEuMDI5M0MzNy4yNDcxIDExLjczNTkgMzYuNjc0NCAxMi4zMDk0IDM1Ljk2NzggMTIuMzA5NkgyOS42Mjk5QzI4LjkyMzEgMTIuMzA5NiAyOC4zNTA2IDExLjczNjEgMjguMzUwNiAxMS4wMjkzQzI4LjM1MDggMTAuMzIyOCAyOC45MjMzIDkuNzUgMjkuNjI5OSA5Ljc1SDM1Ljk2NzhaTTM4Ljg5MjYgNC44NzVDMzkuNTk5IDQuODc1MTkgNDAuMTcxNyA1LjQ0Nzg0IDQwLjE3MTkgNi4xNTQzQzQwLjE3MTkgNi44NjA5NCAzOS41OTkyIDcuNDM0MzggMzguODkyNiA3LjQzNDU3SDI5LjYyOTlDMjguOTIzMSA3LjQzNDU3IDI4LjM0OTYgNi44NjEwNSAyOC4zNDk2IDYuMTU0M0MyOC4zNDk4IDUuNDQ3NzMgMjguOTIzMyA0Ljg3NSAyOS42Mjk5IDQuODc1SDM4Ljg5MjZaTTQwLjg0MTggMEM0MS41NDgzIDAuMDAwMjE1NTg5IDQyLjEyMDkgMC41NzI4MzQgNDIuMTIxMSAxLjI3OTNDNDIuMTIxMSAxLjk4NTkyIDQxLjU0ODQgMi41NTkzNSA0MC44NDE4IDIuNTU5NTdIMjkuNjI4OUMyOC45MjIxIDIuNTU5NTcgMjguMzQ5NiAxLjk4NjA1IDI4LjM0OTYgMS4yNzkzQzI4LjM0OTggMC41NzI3MDEgMjguOTIyMyAtMy4wODg4MmUtMDggMjkuNjI4OSAwSDQwLjg0MThaIiBmaWxsPSJ1cmwoI3BhaW50MF9saW5lYXJfMTQ2NF8yMTMyKSIvPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDBfbGluZWFyXzE0NjRfMjEzMiIgeDE9IjExLjk1NzMiIHkxPSIxMi42Mzk4IiB4Mj0iNDcuOTQ5OCIgeTI9IjM1LjAyOTYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agb2Zmc2V0PSIwLjA5IiBzdG9wLWNvbG9yPSIjN0M0REZGIi8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzE3ODNGRiIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+Cjwvc3ZnPgo=",
+                                "required": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.full_page",
+                        "meta": [
+                            {
+                                "uid": "6838178b39cfa41df99f840c",
+                                "name": "Audience Insights",
+                                "path": "/full-page",
+                                "signed": false,
+                                "enabled": true,
+                                "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDMiIGhlaWdodD0iNDciIHZpZXdCb3g9IjAgMCA0MyA0NyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE5Ljg0OTYgMi4xMzM3OUMyMS4xMzc0IDIuMTMzNzkgMjIuMzk3NyAyLjI1NjMxIDIzLjYxOTEgMi40OTEyMUwyNC4xNDA2IDIuNTk4NjNMMjQuMjczNCAyLjYzNDc3QzI0LjkyMzQgMi44NDg3NSAyNS4zMTg0IDMuNTI1MzUgMjUuMTY4IDQuMjA4MDFDMjUuMDE3MyA0Ljg5MDM4IDI0LjM3NDkgNS4zMzY4NCAyMy42OTUzIDUuMjU3ODFMMjMuNTU4NiA1LjIzNTM1TDIzLjEwOTQgNS4xNDI1OEMyMi4wNTUgNC45Mzk3OSAyMC45NjUzIDQuODMzMDEgMTkuODQ5NiA0LjgzMzAxQzEwLjM3NzkgNC44MzMwMSAyLjY5OTIyIDEyLjUxMTcgMi42OTkyMiAyMS45ODM0QzIuNjk5MjIgMjUuMzc3MiAzLjY4NTc2IDI4LjU0MDQgNS4zODY3MiAzMS4yMDMxQzcuNzYyOTMgMjkuODU1IDExLjE3NzcgMjkuMDc1MyAxNC44NDQ3IDI5LjA3NTJDMTcuOTY2OCAyOS4wNzUyIDIwLjg2ODggMjkuNjM4MSAyMy4xMDk0IDMwLjYxMDRDMjMuNjQ0MiAzMC4wMTQgMjQuMzYzNSAyOS41NDcyIDI1LjEyOTkgMjkuMjA1MUMyNi4zNzA4IDI4LjY1MTEgMjcuOTEyNCAyOC4zMzc5IDI5LjU1MzcgMjguMzM3OUMzMC45OTkgMjguMzM3OSAzMi4zNjM2IDI4LjU4MDUgMzMuNTEyNyAyOS4wMTM3QzM0LjA4MzkgMjkuMjI5IDM0LjYyNTcgMjkuNTAwNyAzNS4xMDI1IDI5LjgzMDFDMzYuMzE0NyAyNy40Nzg2IDM3IDI0LjgxMTEgMzcgMjEuOTgzNEMzNyAyMC42MTIzIDM2LjgzOSAxOS4yODAzIDM2LjUzNjEgMTguMDA0OUMzNi4zNjQgMTcuMjc5NSAzNi44MTI3IDE2LjU1MjEgMzcuNTM4MSAxNi4zNzk5QzM4LjI2MzIgMTYuMjA3OSAzOC45OTA3IDE2LjY1NTggMzkuMTYzMSAxNy4zODA5QzM5LjUxNDEgMTguODU5MiAzOS42OTkyIDIwLjQwMDcgMzkuNjk5MiAyMS45ODM0QzM5LjY5OTIgMjkuMDE3OCAzNi4wNCAzNS4xOTcxIDMwLjUyMTUgMzguNzIyN0wzMy44MDM3IDQzLjk2NDhMMzMuODkwNiA0NC4xMjIxQzM0LjI4MjkgNDQuOTE3NSAzNC4wMTY4IDQ1Ljg5NyAzMy4yNDkgNDYuMzc3OUMzMi40ODEgNDYuODU4NSAzMS40ODM2IDQ2LjY3MDEgMzAuOTM5NSA0NS45Njk3TDMwLjgzNjkgNDUuODIzMkwyNy40MDUzIDQwLjM0MjhDMjUuMDc2MiA0MS4zMDIzIDIyLjUyNSA0MS44MzMgMTkuODQ5NiA0MS44MzNDOC44ODY3NiA0MS44MzMgMCAzMi45NDYzIDAgMjEuOTgzNEMwIDExLjAyMDUgOC44ODY3NiAyLjEzMzc5IDE5Ljg0OTYgMi4xMzM3OVpNMTQuODQ0NyAzMS43MDIxQzExLjYxNzggMzEuNzAyMiA4LjgzNDg1IDMyLjM2ODMgNi45ODYzMyAzMy4zMjUyQzEwLjEyOSAzNi44ODY3IDE0LjcyNjYgMzkuMTMzOCAxOS44NDk2IDM5LjEzMzhDMjAuMjUyMSAzOS4xMzM4IDIwLjY1MTMgMzkuMTE4MSAyMS4wNDY5IDM5LjA5MDhDMjIuMzkxNyAzOC42Mzg5IDIzLjQyNzEgMzguMDcwMSAyNC4xMDU1IDM3LjQ2OTdDMjQuODAwOCAzNi44NTQyIDI1LjAyNzMgMzYuMzAyMiAyNS4wMjczIDM1Ljg2MzNDMjUuMDI3MiAzNS4xNTEyIDI0LjM3NDggMzQuMTE0NyAyMi40MDkyIDMzLjE3ODdDMjAuNTQxMyAzMi4yODkzIDE3Ljg2ODEgMzEuNzAyMiAxNC44NDQ3IDMxLjcwMjFaTTI5LjU1MzcgMzAuNjI4OUMyOC4xODcgMzAuNjI5IDI2Ljk3MDQgMzAuODkyIDI2LjA2MzUgMzEuMjk2OUMyNS43MTMzIDMxLjQ1MzIgMjUuNDMyNiAzMS42MjEzIDI1LjIxIDMxLjc4NzFDMjYuNjIzNSAzMi44MDcyIDI3LjY1NTIgMzQuMTcwOCAyNy42NTUzIDM1Ljg2MzNDMjcuNjU1MiAzNi40MTM2IDI3LjU0MiAzNi45MzA3IDI3LjM0NDcgMzcuNDEyMUMyOS45ODQ0IDM2LjEyNzQgMzIuMjQ0MyAzNC4xODU0IDMzLjkxMzEgMzEuNzk4OEMzMy42MTI2IDMxLjU3MjYgMzMuMjEyMiAzMS4zNDg4IDMyLjcwNDEgMzEuMTU3MkMzMS44Mzk5IDMwLjgzMTUgMzAuNzUyNiAzMC42Mjg5IDI5LjU1MzcgMzAuNjI4OVpNMTQuODQyOCAxMy43NDcxQzE4Ljg5NDEgMTMuNzQ3MSAyMi4xNzg1IDE3LjAzMDggMjIuMTc4NyAyMS4wODJDMjIuMTc4NyAyNS4xMzM0IDE4Ljg5NDIgMjguNDE4IDE0Ljg0MjggMjguNDE4QzEwLjc5MTUgMjguNDE3OCA3LjUwNzgxIDI1LjEzMzMgNy41MDc4MSAyMS4wODJDNy41MDgwMiAxNy4wMzA5IDEwLjc5MTcgMTMuNzQ3MyAxNC44NDI4IDEzLjc0NzFaTTI5LjU0NDkgMTkuMDEwN0MzMi4wMjI2IDE5LjAxMDcgMzQuMDMxMiAyMS4wMTk0IDM0LjAzMTIgMjMuNDk3MUMzNC4wMzEyIDI1Ljk3NDcgMzIuMDIyNiAyNy45ODM0IDI5LjU0NDkgMjcuOTgzNEMyNy4wNjczIDI3Ljk4MzQgMjUuMDU4NyAyNS45NzQ3IDI1LjA1ODYgMjMuNDk3MUMyNS4wNTg2IDIxLjAxOTQgMjcuMDY3MiAxOS4wMTA4IDI5LjU0NDkgMTkuMDEwN1pNMTQuODQyOCAxNi4zNzRDMTIuMjQyOSAxNi4zNzQyIDEwLjEzNSAxOC40ODIyIDEwLjEzNDggMjEuMDgyQzEwLjEzNDggMjMuNjgyMSAxMi4yNDI4IDI1Ljc4OTggMTQuODQyOCAyNS43OUMxNy40NDI5IDI1Ljc5IDE5LjU1MDggMjMuNjgyMiAxOS41NTA4IDIxLjA4MkMxOS41NTA2IDE4LjQ4MiAxNy40NDI4IDE2LjM3NCAxNC44NDI4IDE2LjM3NFpNMjkuNTQ0OSAyMS4zMDE4QzI4LjMzMjUgMjEuMzAxOCAyNy4zNDk2IDIyLjI4NDYgMjcuMzQ5NiAyMy40OTcxQzI3LjM0OTcgMjQuNzA5NSAyOC4zMzI1IDI1LjY5MjMgMjkuNTQ0OSAyNS42OTI0QzMwLjc1NzQgMjUuNjkyNCAzMS43NDAyIDI0LjcwOTUgMzEuNzQwMiAyMy40OTcxQzMxLjc0MDIgMjIuMjg0NiAzMC43NTc0IDIxLjMwMTggMjkuNTQ0OSAyMS4zMDE4Wk0zNS45Njc4IDkuNzVDMzYuNjc0MiA5Ljc1MDIgMzcuMjQ2OCAxMC4zMjI5IDM3LjI0NzEgMTEuMDI5M0MzNy4yNDcxIDExLjczNTkgMzYuNjc0NCAxMi4zMDk0IDM1Ljk2NzggMTIuMzA5NkgyOS42Mjk5QzI4LjkyMzEgMTIuMzA5NiAyOC4zNTA2IDExLjczNjEgMjguMzUwNiAxMS4wMjkzQzI4LjM1MDggMTAuMzIyOCAyOC45MjMzIDkuNzUgMjkuNjI5OSA5Ljc1SDM1Ljk2NzhaTTM4Ljg5MjYgNC44NzVDMzkuNTk5IDQuODc1MTkgNDAuMTcxNyA1LjQ0Nzg0IDQwLjE3MTkgNi4xNTQzQzQwLjE3MTkgNi44NjA5NCAzOS41OTkyIDcuNDM0MzggMzguODkyNiA3LjQzNDU3SDI5LjYyOTlDMjguOTIzMSA3LjQzNDU3IDI4LjM0OTYgNi44NjEwNSAyOC4zNDk2IDYuMTU0M0MyOC4zNDk4IDUuNDQ3NzMgMjguOTIzMyA0Ljg3NSAyOS42Mjk5IDQuODc1SDM4Ljg5MjZaTTQwLjg0MTggMEM0MS41NDgzIDAuMDAwMjE1NTg5IDQyLjEyMDkgMC41NzI4MzQgNDIuMTIxMSAxLjI3OTNDNDIuMTIxMSAxLjk4NTkyIDQxLjU0ODQgMi41NTkzNSA0MC44NDE4IDIuNTU5NTdIMjkuNjI4OUMyOC45MjIxIDIuNTU5NTcgMjguMzQ5NiAxLjk4NjA1IDI4LjM0OTYgMS4yNzkzQzI4LjM0OTggMC41NzI3MDEgMjguOTIyMyAtMy4wODg4MmUtMDggMjkuNjI4OSAwSDQwLjg0MThaIiBmaWxsPSJ1cmwoI3BhaW50MF9saW5lYXJfMTQ2NF8yMTMyKSIvPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDBfbGluZWFyXzE0NjRfMjEzMiIgeDE9IjExLjk1NzMiIHkxPSIxMi42Mzk4IiB4Mj0iNDcuOTQ5OCIgeTI9IjM1LjAyOTYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agb2Zmc2V0PSIwLjA5IiBzdG9wLWNvbG9yPSIjN0M0REZGIi8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzE3ODNGRiIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+Cjwvc3ZnPgo=",
+                                "required": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            "visibility": "public_unlisted",
+            "type": "app",
+            "target_type": "stack",
+            "group": "system",
+            "organization_uid": "blt18ca3799a1c334ef",
+            "framework_version": "1.0",
+            "version": 6,
+            "created_by": {
+                "uid": "blt84c7dbee95981303",
+                "first_name": "hitesh",
+                "last_name": "shetty"
+            },
+            "updated_by": {
+                "uid": "blt84c7dbee95981303",
+                "first_name": "hitesh",
+                "last_name": "shetty"
+            },
+            "created_at": "2025-05-28T07:41:47.398Z",
+            "updated_at": "2025-05-30T17:44:13.262Z"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "bltbe96af92bb2f78ae",
+            "first_name": "Andrew",
+            "last_name": "Seatter"
+        },
+        "updated_by": {
+            "uid": "bltbe96af92bb2f78ae",
+            "first_name": "Andrew",
+            "last_name": "Seatter"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "internal": {
+            "digital_property_uid": "blt80ac881758c4bd49",
+            "lytics_account_id": "d06986d2182d7207a2ba98bd75ea267a",
+            "job_id": "70a61914-81f8-429e-b569-e997c8e5b4c3"
+        },
+        "created_at": "2026-01-27T22:00:35.087Z",
+        "updated_at": "2026-01-27T22:00:35.545Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.entry_sidebar_rail",
+                    "meta": [
+                        {
+                            "uid": "6838177064dba75641963ff9",
+                            "extension_uid": "blt94da692c5674b085",
+                            "enabled": true,
+                            "name": "Audience Insights",
+                            "path": "/entry-sidebar"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.full_page",
+                    "meta": [
+                        {
+                            "uid": "6838178b39cfa41df99f840c",
+                            "extension_uid": "blt4b59f4f223fcbed9",
+                            "enabled": true,
+                            "name": "Audience Insights",
+                            "path": "/full-page"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "697935830f7f245171c7c7f1",
+        "installation_uid": "697935830f7f245171c7c7f1",
+        "urlPath": "/installations/697935830f7f245171c7c7f1"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "urlPath": "/manifests/68877fae35bec100127b051b",
+            "params": {
+                "organization_uid": "bltd615cd84d1b59067"
+            },
+            "group": "user",
+            "framework_version": "1.0",
+            "version": 3,
+            "icon": "",
+            "description": "",
+            "target_type": "stack",
+            "name": "Component Agent",
+            "visibility": "private",
+            "created_by": {
+                "uid": "blt7e582426ca855a48",
+                "first_name": "Tushar",
+                "last_name": "Mittal"
+            },
+            "updated_by": {
+                "uid": "blt7e582426ca855a48",
+                "first_name": "Tushar",
+                "last_name": "Mittal"
+            },
+            "organization_uid": "bltd615cd84d1b59067",
+            "created_at": "2025-07-28T13:48:29.950Z",
+            "updated_at": "2025-07-28T13:49:41.484Z",
+            "ui_location": {
+                "signed": false,
+                "base_url": "https://ai-comp-generator.contentstackapps.com",
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.custom_field",
+                        "meta": [
+                            {
+                                "uid": "68877fe32567f7adcd86255f",
+                                "multiple": false,
+                                "name": "Component-Agent",
+                                "path": "/",
+                                "signed": true,
+                                "enabled": true,
+                                "data_type": "json",
+                                "required": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            "type": "app",
+            "uid": "68877fae35bec100127b051b"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "blt7e582426ca855a48",
+            "first_name": "Tushar",
+            "last_name": "Mittal"
+        },
+        "updated_by": {
+            "uid": "blt7e582426ca855a48",
+            "first_name": "Tushar",
+            "last_name": "Mittal"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2025-07-28T13:50:01.580Z",
+        "updated_at": "2025-07-28T13:50:02.007Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.custom_field",
+                    "meta": [
+                        {
+                            "uid": "68877fe32567f7adcd86255f",
+                            "extension_uid": "blt89d7b6003e55331d",
+                            "enabled": true,
+                            "name": "Component-Agent",
+                            "path": "/",
+                            "data_type": "json"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "688780092567f7adcd862588",
+        "installation_uid": "688780092567f7adcd862588",
+        "urlPath": "/installations/688780092567f7adcd862588"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "urlPath": "/manifests/694436f658e346566e1a2b77",
+            "params": {
+                "organization_uid": "bltd615cd84d1b59067"
+            },
+            "group": "user",
+            "type": "app",
+            "framework_version": "1.0",
+            "version": 15,
+            "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt0fea2fb3a42c4fd9/6a44b32b3ad9ace38b08e2c1/red-panda-ecommerce.png",
+            "description": "<p>The Commerce app brings your products and categories directly into Contentstack, giving content editors a seamless way to enrich entries with real catalog data.</p><p>With the Commerce app, editors can browse, search, and filter products and categories, and select them without ever leaving the entry editor. Selected products and categories are saved directly to your content entries, which can then be used on websites powered by Contentstack.</p>",
+            "target_type": "stack",
+            "name": "Red Panda Commerce",
+            "visibility": "public_unlisted",
+            "created_by": {
+                "uid": "blt7e582426ca855a48",
+                "first_name": "Tushar",
+                "last_name": "Mittal"
+            },
+            "updated_by": {
+                "uid": "blt7e582426ca855a48",
+                "first_name": "Tushar",
+                "last_name": "Mittal"
+            },
+            "organization_uid": "bltd615cd84d1b59067",
+            "advanced_settings": {
+                "variables": {},
+                "mappings": {},
+                "rewrites": []
+            },
+            "created_at": "2025-12-18T17:16:38.070Z",
+            "updated_at": "2026-07-01T08:30:23.183Z",
+            "ui_location": {
+                "signed": false,
+                "base_url": "https://red-panda-commerce-marketplace-app.contentstackapps.com",
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.config",
+                        "meta": [
+                            {
+                                "uid": "69443732a4f90fc825172a60",
+                                "path": "/app-configuration",
+                                "signed": true,
+                                "enabled": true,
+                                "required": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.custom_field",
+                        "meta": [
+                            {
+                                "uid": "6944376684f75049ac1c1b95",
+                                "multiple": false,
+                                "name": "RP Commerce Products",
+                                "path": "/products-custom-field",
+                                "signed": true,
+                                "enabled": true,
+                                "data_type": "json",
+                                "required": false
+                            },
+                            {
+                                "uid": "6944376684f75049ac1c1b96",
+                                "multiple": false,
+                                "name": "RP Commerce Category",
+                                "path": "/categories-custom-field",
+                                "signed": true,
+                                "enabled": true,
+                                "data_type": "json",
+                                "required": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            "public_app_meta_data": {
+                "stack_entry_uid": "bltf81724011849ed51",
+                "name": "Red Panda Commerce",
+                "description": "<p>The Commerce app brings your products and categories directly into Contentstack, giving content editors a seamless way to enrich entries with real catalog data.</p><p>With the Commerce app, editors can browse, search, and filter products and categories, and select them without ever leaving the entry editor. Selected products and categories are saved directly to your content entries, which can then be used on websites powered by Contentstack.</p>",
+                "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt0fea2fb3a42c4fd9/6a44b32b3ad9ace38b08e2c1/red-panda-ecommerce.png"
+            },
+            "uid": "694436f658e346566e1a2b77"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "blt7e582426ca855a48",
+            "first_name": "Tushar",
+            "last_name": "Mittal"
+        },
+        "updated_by": {
+            "uid": "bltd8c8c6268e338ba5",
+            "first_name": "kulsum",
+            "last_name": "ansari"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2025-12-18T17:25:26.037Z",
+        "updated_at": "2026-06-25T11:57:44.749Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.config",
+                    "meta": [
+                        {
+                            "uid": "69443732a4f90fc825172a60",
+                            "extension_uid": "blt559b2b02de2ed953",
+                            "enabled": true,
+                            "name": "RedPanda Commerce",
+                            "path": "/app-configuration"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.custom_field",
+                    "meta": [
+                        {
+                            "uid": "6944376684f75049ac1c1b95",
+                            "extension_uid": "blt1ea47bcbfba1ba9b",
+                            "enabled": true,
+                            "name": "RP Commerce Products",
+                            "path": "/products-custom-field",
+                            "data_type": "json"
+                        },
+                        {
+                            "uid": "6944376684f75049ac1c1b96",
+                            "extension_uid": "blta9a2368437be1fd7",
+                            "enabled": true,
+                            "name": "RP Commerce Category",
+                            "path": "/categories-custom-field",
+                            "data_type": "json"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "69443906a4f90fc825172c56",
+        "installation_uid": "69443906a4f90fc825172c56",
+        "urlPath": "/installations/69443906a4f90fc825172c56",
+        "configuration": "63ccdfb49972637f54daf44e33294ffd22ae4baf194f73785504c0a1ed91a91d190bfeaf0b3000800ab84f38fc68029d1d8891df415e64d1a0015c5197d44f8c0bad42629ba0c290e2d23305dff018df249c068e4c736241d6a98be01037552dfa23464a4a72372818574e1c505b1b3d331355b8bc9c7637ca29b4ba2cc575d886a8bf54a02cad1a8692b0f2d984404c95485361e57b6b60839857502aae2cca16ad0848f00d2e009934700a8418839b37fe833f2c3d34fbbc5d25fbaebef71b67a386d70a8680623fb0791b51e89ed013b12e570a7d44226253083df068ae6fb6096ec0ec906c7cc0072980e70fea7ff55ea85422e1463f21458bf032ad2df4dba022dd959c9d25c0c872e5c6a07717631c3472399d11c85468e73b2f32076c23778ca1762a6e55998b53b298a331d1a4682a448b970f04ba830181b5dac61116457b658f895ca464a5427bb71e611e94519f44002a8617d4608cb47158a4f18371cdd618ddb90fe64baca5c363522e1f8f204735f4af97f1d438739bc9ab695e9e422f928fe50c4058f643da73ac3de2f9529343ae80e066a99b7d088fb398bdccab9b1f168e595175387d1e6e89f9a2231984a2470777dfc5dfe137b12ec1b88bad5e16f7a5c8c70d95984fdbc71c09f7b94567fec6e473a290f4a35e3e48|1795afb0e1a6ea2a7faa2843669f6a80"
+    },
+    {
+        "params": {
+            "organization_uid": "bltd615cd84d1b59067"
+        },
+        "manifest": {
+            "urlPath": "/manifests/69611e8fa59b2ed2197f5821",
+            "params": {
+                "organization_uid": "bltd615cd84d1b59067"
+            },
+            "group": "user",
+            "type": "app",
+            "framework_version": "1.0",
+            "version": 12,
+            "icon": "",
+            "description": "",
+            "target_type": "stack",
+            "name": "RedPanda Apps",
+            "visibility": "private",
+            "created_by": {
+                "uid": "csde9b4898ad8ee8c6",
+                "first_name": "Eric",
+                "last_name": "Crump"
+            },
+            "updated_by": {
+                "uid": "csde9b4898ad8ee8c6",
+                "first_name": "Eric",
+                "last_name": "Crump"
+            },
+            "organization_uid": "bltd615cd84d1b59067",
+            "advanced_settings": {
+                "variables": {},
+                "mappings": {},
+                "rewrites": []
+            },
+            "created_at": "2026-01-09T15:28:15.817Z",
+            "updated_at": "2026-01-13T14:45:03.092Z",
+            "ui_location": {
+                "signed": false,
+                "base_url": "https://red-panda-apps.contentstackapps.com",
+                "locations": [
+                    {
+                        "type": "cs.cm.stack.full_page",
+                        "meta": [
+                            {
+                                "uid": "69611ee00af450a5c51a34db",
+                                "name": "Translation Key Manager",
+                                "path": "/translation-key-manager",
+                                "signed": false,
+                                "enabled": true,
+                                "required": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.custom_field",
+                        "meta": [
+                            {
+                                "uid": "69659bca9c3a722ddc1f2da3",
+                                "multiple": false,
+                                "name": "Sitemap",
+                                "path": "/site-map-dashboard",
+                                "signed": false,
+                                "enabled": true,
+                                "data_type": "json",
+                                "required": false
+                            }
+                        ]
+                    },
+                    {
+                        "type": "cs.cm.stack.dashboard",
+                        "meta": [
+                            {
+                                "uid": "6965a11b12ce94f7511fcf50",
+                                "name": "Site Map",
+                                "path": "/site-map-dashboard",
+                                "signed": false,
+                                "enabled": true,
+                                "default_width": "full",
+                                "required": false
+                            }
+                        ]
+                    }
+                ],
+                "permissions": [
+                    "cm.entries.management:read",
+                    "cm.entries.management:write",
+                    "cm.content-types.management:read",
+                    "cm.environments.management:read",
+                    "cm.entry:publish",
+                    "cm.entry:write"
+                ]
+            },
+            "uid": "69611e8fa59b2ed2197f5821"
+        },
+        "target": {
+            "type": "stack",
+            "uid": "bltc991c0dda4197336"
+        },
+        "created_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "updated_by": {
+            "uid": "csde9b4898ad8ee8c6",
+            "first_name": "Eric",
+            "last_name": "Crump"
+        },
+        "organization_uid": "bltd615cd84d1b59067",
+        "status": "installed",
+        "created_at": "2026-01-09T15:44:13.990Z",
+        "updated_at": "2026-01-13T14:45:16.159Z",
+        "ui_location": {
+            "locations": [
+                {
+                    "type": "cs.cm.stack.full_page",
+                    "meta": [
+                        {
+                            "uid": "69611ee00af450a5c51a34db",
+                            "extension_uid": "blt02257760ecfb77f1",
+                            "enabled": true,
+                            "name": "Translation Key Manager",
+                            "path": "/translation-key-manager"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.custom_field",
+                    "meta": [
+                        {
+                            "uid": "69659bca9c3a722ddc1f2da3",
+                            "extension_uid": "blt1dfeb13eceac5eae",
+                            "enabled": true,
+                            "name": "Sitemap",
+                            "path": "/site-map-dashboard",
+                            "data_type": "json"
+                        }
+                    ]
+                },
+                {
+                    "type": "cs.cm.stack.dashboard",
+                    "meta": [
+                        {
+                            "uid": "6965a11b12ce94f7511fcf50",
+                            "extension_uid": "bltaeaecacac6386aaa",
+                            "enabled": true,
+                            "name": "Site Map",
+                            "path": "/site-map-dashboard"
+                        }
+                    ]
+                }
+            ]
+        },
+        "uid": "6961224d8e3ad82e330bb280",
+        "installation_uid": "6961224d8e3ad82e330bb280",
+        "urlPath": "/installations/6961224d8e3ad82e330bb280"
+    }
+]
