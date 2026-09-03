@@ -1449,8 +1449,8 @@
         },
         {
             "data_type": "global_field",
-            "display_name": "SEO/GEO",
-            "reference_to": "seo_geo",
+            "display_name": "SEO and Search",
+            "reference_to": "seo",
             "field_metadata": {
                 "description": ""
             },
