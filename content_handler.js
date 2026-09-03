@@ -26,7 +26,7 @@ async function updateContentDirectory() {
         console.log('📥 Starting fresh content export...');
         
         // Run the Contentstack export command
-        const exportCommand = `csdx cm:stacks:export -k ${RP_STACK_API_KEY} -d content`;
+        const exportCommand = `csdx cm:stacks:export -k ${RP_STACK_API_KEY} --data-dir content`;
         
         console.log(`Running: ${exportCommand}`);
         execSync(exportCommand, { 
@@ -105,7 +105,7 @@ if (require.main === module) {
         Usage:
         npm run content:update         - Delete content directory and export fresh content
 
-        Export Command Used: csdx cm:export -k ${RP_STACK_API_KEY} -d content
+        Export Command Used: csdx cm:export -k ${RP_STACK_API_KEY} --data-dir content
         - Export stack used: Red Panda Main Stack
             `);
     }
