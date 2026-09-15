@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: content/main/environments/environments.json
+  checksum: d4a79d78da2bdc50215ca83b6b824aeb4dfc0d2e08f3cfa06076be18ed9445b0
+- filename: content/main/assets/metadata.json
+  checksum: fbbaa3bacd6f7d239bf13f7cd16a7732b261e1f383cb98c8d96098b76f0c836a
+- filename: content/main/assets/395c94b8-8f90-4f97-b017-7d37093e05ce-assets.json
+  checksum: 110acf4a2a392e3aba1e0ac9edd89124163eab57e32aee9177a63221295b6471
+- filename: content/main/marketplace_apps/marketplace_apps.json
+  checksum: 618da0b12abccde1c41e2b329773c6c88fc8626af3f8c0708cfbc7af0300e4d2
+- filename: content/main/content_types/schema.json
+  checksum: 673e890dd2763063a75bba8ed44e21cd7bbfce0d2c43719ca585f052cf002579
+version: "1.0"
