@@ -1,1 +1,102 @@
-{"bltd10f7057bcb8bdd5":{"uid":"bltd10f7057bcb8bdd5","locale":"de","ACL":{},"_in_progress":false,"_version":2,"body":"unserer Gäste sagen, dass sie wieder buchen würden","headline":"97%","ratings":[{"star_rating":"4.5","category":"Service","_metadata":{"uid":"csc3bf77e72f21b526"}},{"star_rating":"4.5","category":"Sauberkeit","_metadata":{"uid":"cs71b0935b3f78426a"}},{"star_rating":"5","category":"Standort","_metadata":{"uid":"cs7c536ed180b145df"}},{"star_rating":"4.5","category":"Wert","_metadata":{"uid":"csc46c4db9f1ceceb4"}}],"review_title":"WAS SAGEN DIE LEUTE","reviews":[{"review":[{"uid":"blt95726ac8a589de6a","_content_type_uid":"review"}],"_metadata":{"uid":"cs07e6b417d8fff4f0"}},{"review":[{"uid":"bltd624c003db493890","_content_type_uid":"review"}],"_metadata":{"uid":"csb17f18f554797df4"}},{"review":[{"uid":"blt6ab038383607334f","_content_type_uid":"review"}],"_metadata":{"uid":"cs4e19f4b5a76d600a"}}],"tags":[],"title":"Resort Testimonials","publish_details":[{"environment":"blt981d8215e326a76c","locale":"de","time":"2026-09-15T09:29:11.458Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltc0c2e83d3b733728","locale":"de","time":"2026-09-15T09:29:11.442Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"de","time":"2026-09-15T09:29:11.419Z","user":"blt07c2db602bb1f752","version":2}]}}
+{
+    "bltd10f7057bcb8bdd5": {
+        "uid": "bltd10f7057bcb8bdd5",
+        "locale": "de",
+        "ACL": {},
+        "_in_progress": false,
+        "_version": 2,
+        "body": "unserer Gäste sagen, dass sie wieder buchen würden",
+        "headline": "97%",
+        "ratings": [
+            {
+                "star_rating": "4.5",
+                "category": "Service",
+                "_metadata": {
+                    "uid": "csc3bf77e72f21b526"
+                }
+            },
+            {
+                "star_rating": "4.5",
+                "category": "Sauberkeit",
+                "_metadata": {
+                    "uid": "cs71b0935b3f78426a"
+                }
+            },
+            {
+                "star_rating": "5",
+                "category": "Standort",
+                "_metadata": {
+                    "uid": "cs7c536ed180b145df"
+                }
+            },
+            {
+                "star_rating": "4.5",
+                "category": "Wert",
+                "_metadata": {
+                    "uid": "csc46c4db9f1ceceb4"
+                }
+            }
+        ],
+        "review_title": "WAS SAGEN DIE LEUTE",
+        "reviews": [
+            {
+                "review": [
+                    {
+                        "uid": "blt95726ac8a589de6a",
+                        "_content_type_uid": "review"
+                    }
+                ],
+                "_metadata": {
+                    "uid": "cs07e6b417d8fff4f0"
+                }
+            },
+            {
+                "review": [
+                    {
+                        "uid": "bltd624c003db493890",
+                        "_content_type_uid": "review"
+                    }
+                ],
+                "_metadata": {
+                    "uid": "csb17f18f554797df4"
+                }
+            },
+            {
+                "review": [
+                    {
+                        "uid": "blt6ab038383607334f",
+                        "_content_type_uid": "review"
+                    }
+                ],
+                "_metadata": {
+                    "uid": "cs4e19f4b5a76d600a"
+                }
+            }
+        ],
+        "tags": [],
+        "title": "Resort Testimonials",
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "de",
+                "time": "2026-09-15T09:29:11.458Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "de",
+                "time": "2026-09-15T09:29:11.442Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "de",
+                "time": "2026-09-15T09:29:11.419Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    }
+}

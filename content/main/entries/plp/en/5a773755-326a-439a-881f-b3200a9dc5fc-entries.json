@@ -1,1 +1,250 @@
-{"blt2b9505e1d54d0340":{"title":"Apparel","url":"/plp/apparel","modular_blocks_top":[],"headline":"Apparel","image":null,"video":null,"product_category":[{"selectedIds":["7d6cbc5d-e3d8-4586-94b8-2f8809bccf96"],"items":[{"id":"7d6cbc5d-e3d8-4586-94b8-2f8809bccf96","name":"Apparel","image":"https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Apparel.png","url":"/apparel","description":"<p>This apparel store offers a curated selection of high-quality clothing and accessories designed to blend contemporary trends with timeless style. Focused on versatile pieces for every occasion, the shop features a mix of comfortable everyday essentials, sophisticated professional attire, and unique seasonal highlights. With a commitment to quality craftsmanship and a welcoming atmosphere, it provides a seamless shopping experience for those looking to elevate their personal wardrobe with ease.</p>","children":[{"id":"ea227c6b-e98c-4dde-8b19-67de29dea823","name":"Sweater","url":"/sweater","locale":"en"},{"id":"78d0e041-f2ef-4101-9348-ad84b550d743","name":"Swimwear","url":"/swimwear","locale":"en"}],"locale":"en"}]}],"modular_blocks_bottom":[],"tags":[],"locale":"en","ACL":{},"show_category_hero":true,"description":{"type":"doc","uid":"bc2071a9be934948a6ffb7984ac0eadb","_version":2,"attrs":{},"children":[{"type":"p","attrs":{},"children":[{"text":"This apparel store offers a curated selection of high-quality clothing and accessories designed to blend contemporary trends with timeless style. Focused on versatile pieces for every occasion, the shop features a mix of comfortable everyday essentials, sophisticated professional attire, and unique seasonal highlights. With a commitment to quality craftsmanship and a welcoming atmosphere, it provides a seamless shopping experience for those looking to elevate their personal wardrobe with ease."}],"uid":"09cf60629983401e82f96bef507e591b"}]},"uid":"blt2b9505e1d54d0340","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"fr","time":"2026-09-15T09:29:25.868Z","user":"blt07c2db602bb1f752","version":2,"entry_locale":"fr"},{"environment":"bltc0c2e83d3b733728","locale":"fr","time":"2026-09-15T09:29:25.840Z","user":"blt07c2db602bb1f752","version":2,"entry_locale":"fr"},{"environment":"bltfb5af98ff1412882","locale":"fr","time":"2026-09-15T09:29:25.885Z","user":"blt07c2db602bb1f752","version":2,"entry_locale":"fr"},{"environment":"blt981d8215e326a76c","locale":"de","time":"2026-09-15T09:29:14.805Z","user":"blt07c2db602bb1f752","version":2,"entry_locale":"de"},{"environment":"bltc0c2e83d3b733728","locale":"de","time":"2026-09-15T09:29:14.743Z","user":"blt07c2db602bb1f752","version":2,"entry_locale":"de"},{"environment":"bltfb5af98ff1412882","locale":"de","time":"2026-09-15T09:29:14.776Z","user":"blt07c2db602bb1f752","version":2,"entry_locale":"de"},{"environment":"blt981d8215e326a76c","locale":"es","time":"2026-09-15T09:29:03.734Z","user":"blt07c2db602bb1f752","version":2,"entry_locale":"es"},{"environment":"bltc0c2e83d3b733728","locale":"es","time":"2026-09-15T09:29:03.727Z","user":"blt07c2db602bb1f752","version":2,"entry_locale":"es"},{"environment":"bltfb5af98ff1412882","locale":"es","time":"2026-09-15T09:29:03.856Z","user":"blt07c2db602bb1f752","version":2,"entry_locale":"es"},{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:03.496Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltc0c2e83d3b733728","locale":"en","time":"2026-09-15T09:28:04.419Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:04.411Z","user":"blt07c2db602bb1f752","version":2}]}}
+{
+    "blt2b9505e1d54d0340": {
+        "title": "Apparel",
+        "url": "/plp/apparel",
+        "modular_blocks_top": [],
+        "headline": "Apparel",
+        "image": {
+            "uid": "am6159b1a9db62c1e2",
+            "created_at": "2026-09-15T09:22:12.938Z",
+            "updated_at": "2026-09-15T09:22:12.938Z",
+            "created_by": "blt07c2db602bb1f752",
+            "updated_by": "blt07c2db602bb1f752",
+            "content_type": "image/png",
+            "file_size": "2050899",
+            "tags": [
+                ""
+            ],
+            "filename": "Apparel.png",
+            "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am6159b1a9db62c1e2/bab54c7cace9e18ed8e4ac22/Apparel.png",
+            "ACL": {
+                "fields": {}
+            },
+            "is_dir": false,
+            "parent_uid": "am766f28dc127c4c03",
+            "_version": 1,
+            "title": "Apparel.png",
+            "description": "",
+            "publish_details": [
+                {
+                    "environment": "blt981d8215e326a76c",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.737Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltc0c2e83d3b733728",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.737Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltfb5af98ff1412882",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.737Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                }
+            ]
+        },
+        "video": {
+            "uid": "am3b2abd87fbec1dc8",
+            "created_at": "2026-09-15T09:22:12.060Z",
+            "updated_at": "2026-09-15T09:22:12.060Z",
+            "created_by": "blt07c2db602bb1f752",
+            "updated_by": "blt07c2db602bb1f752",
+            "content_type": "video/mp4",
+            "file_size": "2688770",
+            "tags": [
+                ""
+            ],
+            "filename": "Apparel_Store_Video.mp4",
+            "url": "https://assets.contentstack.io/v3/assets/blt823327b57e39d857/am3b2abd87fbec1dc8/55dbbfbf5a30f4085dd98969/Apparel_Store_Video.mp4",
+            "ACL": {
+                "fields": {}
+            },
+            "is_dir": false,
+            "parent_uid": "am766f28dc127c4c03",
+            "_version": 1,
+            "title": "Apparel_Store_Video.mp4",
+            "description": "",
+            "publish_details": [
+                {
+                    "environment": "blt981d8215e326a76c",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.772Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltc0c2e83d3b733728",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.772Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltfb5af98ff1412882",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.772Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                }
+            ]
+        },
+        "product_category": [
+            {
+                "selectedIds": [
+                    "7d6cbc5d-e3d8-4586-94b8-2f8809bccf96"
+                ],
+                "items": [
+                    {
+                        "id": "7d6cbc5d-e3d8-4586-94b8-2f8809bccf96",
+                        "name": "Apparel",
+                        "image": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Apparel.png",
+                        "url": "/apparel",
+                        "description": "<p>This apparel store offers a curated selection of high-quality clothing and accessories designed to blend contemporary trends with timeless style. Focused on versatile pieces for every occasion, the shop features a mix of comfortable everyday essentials, sophisticated professional attire, and unique seasonal highlights. With a commitment to quality craftsmanship and a welcoming atmosphere, it provides a seamless shopping experience for those looking to elevate their personal wardrobe with ease.</p>",
+                        "children": [
+                            {
+                                "id": "ea227c6b-e98c-4dde-8b19-67de29dea823",
+                                "name": "Sweater",
+                                "url": "/sweater",
+                                "locale": "en"
+                            },
+                            {
+                                "id": "78d0e041-f2ef-4101-9348-ad84b550d743",
+                                "name": "Swimwear",
+                                "url": "/swimwear",
+                                "locale": "en"
+                            }
+                        ],
+                        "locale": "en"
+                    }
+                ]
+            }
+        ],
+        "modular_blocks_bottom": [],
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "show_category_hero": true,
+        "description": {
+            "type": "doc",
+            "uid": "bc2071a9be934948a6ffb7984ac0eadb",
+            "_version": 2,
+            "attrs": {},
+            "children": [
+                {
+                    "type": "p",
+                    "attrs": {},
+                    "children": [
+                        {
+                            "text": "This apparel store offers a curated selection of high-quality clothing and accessories designed to blend contemporary trends with timeless style. Focused on versatile pieces for every occasion, the shop features a mix of comfortable everyday essentials, sophisticated professional attire, and unique seasonal highlights. With a commitment to quality craftsmanship and a welcoming atmosphere, it provides a seamless shopping experience for those looking to elevate their personal wardrobe with ease."
+                        }
+                    ],
+                    "uid": "09cf60629983401e82f96bef507e591b"
+                }
+            ]
+        },
+        "uid": "blt2b9505e1d54d0340",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "fr",
+                "time": "2026-09-15T09:29:25.868Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2,
+                "entry_locale": "fr"
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "fr",
+                "time": "2026-09-15T09:29:25.840Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2,
+                "entry_locale": "fr"
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "fr",
+                "time": "2026-09-15T09:29:25.885Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2,
+                "entry_locale": "fr"
+            },
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "de",
+                "time": "2026-09-15T09:29:14.805Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2,
+                "entry_locale": "de"
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "de",
+                "time": "2026-09-15T09:29:14.743Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2,
+                "entry_locale": "de"
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "de",
+                "time": "2026-09-15T09:29:14.776Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2,
+                "entry_locale": "de"
+            },
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "es",
+                "time": "2026-09-15T09:29:03.734Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2,
+                "entry_locale": "es"
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "es",
+                "time": "2026-09-15T09:29:03.727Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2,
+                "entry_locale": "es"
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "es",
+                "time": "2026-09-15T09:29:03.856Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2,
+                "entry_locale": "es"
+            },
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:03.496Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "en",
+                "time": "2026-09-15T09:28:04.419Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:04.411Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    }
+}

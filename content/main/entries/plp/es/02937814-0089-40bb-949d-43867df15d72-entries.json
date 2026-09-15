@@ -1,1 +1,211 @@
-{"blt2b9505e1d54d0340":{"locale":"es","uid":"blt2b9505e1d54d0340","ACL":{},"_in_progress":false,"_version":2,"description":{"type":"doc","uid":"c5c81076b9c043c0b813ba8896b62338","_version":2,"attrs":{},"children":[{"type":"p","attrs":{},"children":[{"text":"Esta tienda de ropa ofrece una selección curada de prendas y accesorios de alta calidad diseñados para combinar tendencias contemporáneas con un estilo atemporal. Enfocada en piezas versátiles para cada ocasión, la tienda presenta una mezcla de esenciales cómodos para el día a día, atuendos profesionales sofisticados y destacados de temporada únicos. Con un compromiso con la artesanía de calidad y un ambiente acogedor, proporciona una experiencia de compra fluida para aquellos que buscan elevar su guardarropa personal con facilidad."}],"uid":"c4b7482570b7487096aa02071fb5b667"}]},"headline":"Ropa","image":null,"modular_blocks_bottom":[],"modular_blocks_top":[],"product_category":[{"selectedIds":["7d6cbc5d-e3d8-4586-94b8-2f8809bccf96"],"items":[{"id":"7d6cbc5d-e3d8-4586-94b8-2f8809bccf96","name":"Ropa","image":"https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Apparel.png","url":"/apparel","description":"<p>Nuestra tienda de <strong>ropa</strong> ofrece una selección exclusiva de prendas y accesorios de alta calidad que combinan modernidad y elegancia eterna. Entre básicos cómodos, looks de oficina sofisticados y tendencias estacionales únicas, priorizamos la versatilidad para cualquier ocasión. Con un enfoque en la confección artesanal y una atención cálida, te ayudamos a transformar tu estilo personal de forma sencilla.</p>","children":[{"id":"ea227c6b-e98c-4dde-8b19-67de29dea823","name":"Suéter","locale":"es"},{"id":"78d0e041-f2ef-4101-9348-ad84b550d743","name":"Ropa de baño","locale":"es"}],"locale":"es"}]}],"show_category_hero":true,"tags":[],"title":"Apparel","url":"/plp/apparel","video":null,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"es","time":"2026-09-15T09:29:03.734Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltc0c2e83d3b733728","locale":"es","time":"2026-09-15T09:29:03.727Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"es","time":"2026-09-15T09:29:03.856Z","user":"blt07c2db602bb1f752","version":2}]},"blt2641b91c68f403ef":{"locale":"es","ACL":{},"headline":"Ofertas Especiales","tags":[],"title":"Ofertas de paquetes","url":"/plp/package-offers","show_category_hero":false,"uid":"blt2641b91c68f403ef","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"es","time":"2026-09-15T09:29:03.350Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltc0c2e83d3b733728","locale":"es","time":"2026-09-15T09:29:04.372Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"es","time":"2026-09-15T09:29:03.385Z","user":"blt07c2db602bb1f752","version":2}]}}
+{
+    "blt2b9505e1d54d0340": {
+        "locale": "es",
+        "uid": "blt2b9505e1d54d0340",
+        "ACL": {},
+        "_in_progress": false,
+        "_version": 2,
+        "description": {
+            "type": "doc",
+            "uid": "c5c81076b9c043c0b813ba8896b62338",
+            "_version": 2,
+            "attrs": {},
+            "children": [
+                {
+                    "type": "p",
+                    "attrs": {},
+                    "children": [
+                        {
+                            "text": "Esta tienda de ropa ofrece una selección curada de prendas y accesorios de alta calidad diseñados para combinar tendencias contemporáneas con un estilo atemporal. Enfocada en piezas versátiles para cada ocasión, la tienda presenta una mezcla de esenciales cómodos para el día a día, atuendos profesionales sofisticados y destacados de temporada únicos. Con un compromiso con la artesanía de calidad y un ambiente acogedor, proporciona una experiencia de compra fluida para aquellos que buscan elevar su guardarropa personal con facilidad."
+                        }
+                    ],
+                    "uid": "c4b7482570b7487096aa02071fb5b667"
+                }
+            ]
+        },
+        "headline": "Ropa",
+        "image": {
+            "uid": "am6159b1a9db62c1e2",
+            "created_at": "2026-09-15T09:22:12.938Z",
+            "updated_at": "2026-09-15T09:22:12.938Z",
+            "created_by": "blt07c2db602bb1f752",
+            "updated_by": "blt07c2db602bb1f752",
+            "content_type": "image/png",
+            "file_size": "2050899",
+            "tags": [
+                ""
+            ],
+            "filename": "Apparel.png",
+            "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am6159b1a9db62c1e2/bab54c7cace9e18ed8e4ac22/Apparel.png",
+            "ACL": {
+                "fields": {}
+            },
+            "is_dir": false,
+            "parent_uid": "am766f28dc127c4c03",
+            "_version": 1,
+            "title": "Apparel.png",
+            "description": "",
+            "publish_details": [
+                {
+                    "environment": "blt981d8215e326a76c",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.737Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltc0c2e83d3b733728",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.737Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltfb5af98ff1412882",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.737Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                }
+            ]
+        },
+        "modular_blocks_bottom": [],
+        "modular_blocks_top": [],
+        "product_category": [
+            {
+                "selectedIds": [
+                    "7d6cbc5d-e3d8-4586-94b8-2f8809bccf96"
+                ],
+                "items": [
+                    {
+                        "id": "7d6cbc5d-e3d8-4586-94b8-2f8809bccf96",
+                        "name": "Ropa",
+                        "image": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Apparel.png",
+                        "url": "/apparel",
+                        "description": "<p>Nuestra tienda de <strong>ropa</strong> ofrece una selección exclusiva de prendas y accesorios de alta calidad que combinan modernidad y elegancia eterna. Entre básicos cómodos, looks de oficina sofisticados y tendencias estacionales únicas, priorizamos la versatilidad para cualquier ocasión. Con un enfoque en la confección artesanal y una atención cálida, te ayudamos a transformar tu estilo personal de forma sencilla.</p>",
+                        "children": [
+                            {
+                                "id": "ea227c6b-e98c-4dde-8b19-67de29dea823",
+                                "name": "Suéter",
+                                "locale": "es"
+                            },
+                            {
+                                "id": "78d0e041-f2ef-4101-9348-ad84b550d743",
+                                "name": "Ropa de baño",
+                                "locale": "es"
+                            }
+                        ],
+                        "locale": "es"
+                    }
+                ]
+            }
+        ],
+        "show_category_hero": true,
+        "tags": [],
+        "title": "Apparel",
+        "url": "/plp/apparel",
+        "video": {
+            "uid": "am3b2abd87fbec1dc8",
+            "created_at": "2026-09-15T09:22:12.060Z",
+            "updated_at": "2026-09-15T09:22:12.060Z",
+            "created_by": "blt07c2db602bb1f752",
+            "updated_by": "blt07c2db602bb1f752",
+            "content_type": "video/mp4",
+            "file_size": "2688770",
+            "tags": [
+                ""
+            ],
+            "filename": "Apparel_Store_Video.mp4",
+            "url": "https://assets.contentstack.io/v3/assets/blt823327b57e39d857/am3b2abd87fbec1dc8/55dbbfbf5a30f4085dd98969/Apparel_Store_Video.mp4",
+            "ACL": {
+                "fields": {}
+            },
+            "is_dir": false,
+            "parent_uid": "am766f28dc127c4c03",
+            "_version": 1,
+            "title": "Apparel_Store_Video.mp4",
+            "description": "",
+            "publish_details": [
+                {
+                    "environment": "blt981d8215e326a76c",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.772Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltc0c2e83d3b733728",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.772Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltfb5af98ff1412882",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.772Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                }
+            ]
+        },
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "es",
+                "time": "2026-09-15T09:29:03.734Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "es",
+                "time": "2026-09-15T09:29:03.727Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "es",
+                "time": "2026-09-15T09:29:03.856Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    },
+    "blt2641b91c68f403ef": {
+        "locale": "es",
+        "ACL": {},
+        "headline": "Ofertas Especiales",
+        "tags": [],
+        "title": "Ofertas de paquetes",
+        "url": "/plp/package-offers",
+        "show_category_hero": false,
+        "uid": "blt2641b91c68f403ef",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "es",
+                "time": "2026-09-15T09:29:03.350Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "es",
+                "time": "2026-09-15T09:29:04.372Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "es",
+                "time": "2026-09-15T09:29:03.385Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    }
+}

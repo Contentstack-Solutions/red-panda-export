@@ -1,1 +1,95 @@
-{"bltd279b6ce7c77610b":{"title":"Feature experience","feature":{"eyebrow_text":"FEATURED EXPERIENCE","headline":"Private Sunset Cruise","description":"Sail into the horizon on a private dhoni as the sun paints the sky. Champagne, canopies and moments you’ll cherish forever.","rating_summary":{"rating_value":5,"rating_label":"4.9","review_count":120,"reviews_link":{"title":"","href":"#"}},"media":{"curve_image":true,"primary_image":null,"primary_video":null,"alt_text":"feature_exp"},"cta":{"title":"Learn More","href":"#"}},"tags":[],"locale":"en","ACL":{},"uid":"bltd279b6ce7c77610b","_version":1,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:16.869Z","user":"blt07c2db602bb1f752","version":1},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:16.651Z","user":"blt07c2db602bb1f752","version":1}]}}
+{
+    "bltd279b6ce7c77610b": {
+        "title": "Feature experience",
+        "feature": {
+            "eyebrow_text": "FEATURED EXPERIENCE",
+            "headline": "Private Sunset Cruise",
+            "description": "Sail into the horizon on a private dhoni as the sun paints the sky. Champagne, canopies and moments you’ll cherish forever.",
+            "rating_summary": {
+                "rating_value": 5,
+                "rating_label": "4.9",
+                "review_count": 120,
+                "reviews_link": {
+                    "title": "",
+                    "href": "#"
+                }
+            },
+            "media": {
+                "curve_image": true,
+                "primary_image": {
+                    "uid": "am19772524542bb57a",
+                    "created_at": "2026-09-15T09:22:23.793Z",
+                    "updated_at": "2026-09-15T09:22:23.793Z",
+                    "created_by": "blt07c2db602bb1f752",
+                    "updated_by": "blt07c2db602bb1f752",
+                    "content_type": "image/jpeg",
+                    "file_size": "152882",
+                    "tags": [
+                        ""
+                    ],
+                    "filename": "private_sundet_cruise.jpeg",
+                    "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am19772524542bb57a/aa7575887bda3ee503d09c02/private_sundet_cruise.jpeg",
+                    "ACL": {
+                        "fields": {}
+                    },
+                    "is_dir": false,
+                    "parent_uid": "am437d14963d09ab13",
+                    "_version": 1,
+                    "title": "private_sundet_cruise.jpeg",
+                    "description": "",
+                    "publish_details": [
+                        {
+                            "environment": "blt981d8215e326a76c",
+                            "locale": "en",
+                            "time": "2026-09-15T09:23:33.819Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        },
+                        {
+                            "environment": "bltc0c2e83d3b733728",
+                            "locale": "en",
+                            "time": "2026-09-15T09:23:33.819Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        },
+                        {
+                            "environment": "bltfb5af98ff1412882",
+                            "locale": "en",
+                            "time": "2026-09-15T09:23:33.819Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        }
+                    ]
+                },
+                "primary_video": null,
+                "alt_text": "feature_exp"
+            },
+            "cta": {
+                "title": "Learn More",
+                "href": "#"
+            }
+        },
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "bltd279b6ce7c77610b",
+        "_version": 1,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:16.869Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 1
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:16.651Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 1
+            }
+        ]
+    }
+}

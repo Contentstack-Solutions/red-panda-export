@@ -1,1 +1,211 @@
-{"blt2b9505e1d54d0340":{"locale":"de","uid":"blt2b9505e1d54d0340","ACL":{},"_in_progress":false,"_version":2,"description":{"type":"doc","uid":"1c5be3dbe5c646f3bbcb1ad47771e1b2","_version":2,"attrs":{},"children":[{"type":"p","attrs":{},"children":[{"text":"Dieses Bekleidungsgeschäft bietet eine kuratierte Auswahl an hochwertiger Kleidung und Accessoires, die zeitgenössische Trends mit zeitlosem Stil verbinden. Der Fokus liegt auf vielseitigen Stücken für jeden Anlass, das Geschäft bietet eine Mischung aus bequemen Alltags-Essentials, anspruchsvoller Berufskleidung und einzigartigen saisonalen Highlights. Mit einem Engagement für hochwertige Handwerkskunst und einer einladenden Atmosphäre bietet es ein nahtloses Einkaufserlebnis für diejenigen, die ihre persönliche Garderobe mühelos aufwerten möchten."}],"uid":"1e14e1e558354727ab272278401e33b8"}]},"headline":"Bekleidung","image":null,"modular_blocks_bottom":[],"modular_blocks_top":[],"product_category":[{"selectedIds":["7d6cbc5d-e3d8-4586-94b8-2f8809bccf96"],"items":[{"id":"7d6cbc5d-e3d8-4586-94b8-2f8809bccf96","name":"Bekleidung","image":"https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Apparel.png","url":"/apparel","description":"<p>Unser <strong>Bekleidungsgeschäft</strong> präsentiert eine exklusive Auswahl an hochwertiger Mode und Accessoires – modern und zugleich zeitlos. Von bequemen Basics für jeden Tag über elegante Business-Outfits bis hin zu besonderen saisonalen Trends bieten wir Vielseitigkeit für jeden Moment. Wir setzen auf erstklassige Verarbeitung und ein herzliches Ambiente, damit Sie Ihren persönlichen Stil ganz entspannt perfektionieren können.</p>","children":[{"id":"ea227c6b-e98c-4dde-8b19-67de29dea823","name":"Strickwaren","locale":"de"},{"id":"78d0e041-f2ef-4101-9348-ad84b550d743","name":"Bademode","locale":"de"}],"locale":"de"}]}],"show_category_hero":true,"tags":[],"title":"Apparel","url":"/plp/apparel","video":null,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"de","time":"2026-09-15T09:29:14.805Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltc0c2e83d3b733728","locale":"de","time":"2026-09-15T09:29:14.743Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"de","time":"2026-09-15T09:29:14.776Z","user":"blt07c2db602bb1f752","version":2}]},"blt2641b91c68f403ef":{"locale":"de","uid":"blt2641b91c68f403ef","ACL":{},"_in_progress":false,"_version":2,"headline":"Sonderangebote","show_category_hero":false,"tags":[],"title":"Pauschalangebote","url":"/plp/package-offers","publish_details":[{"environment":"blt981d8215e326a76c","locale":"de","time":"2026-09-15T09:29:14.448Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltc0c2e83d3b733728","locale":"de","time":"2026-09-15T09:29:15.494Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"de","time":"2026-09-15T09:29:14.447Z","user":"blt07c2db602bb1f752","version":2}]}}
+{
+    "blt2b9505e1d54d0340": {
+        "locale": "de",
+        "uid": "blt2b9505e1d54d0340",
+        "ACL": {},
+        "_in_progress": false,
+        "_version": 2,
+        "description": {
+            "type": "doc",
+            "uid": "1c5be3dbe5c646f3bbcb1ad47771e1b2",
+            "_version": 2,
+            "attrs": {},
+            "children": [
+                {
+                    "type": "p",
+                    "attrs": {},
+                    "children": [
+                        {
+                            "text": "Dieses Bekleidungsgeschäft bietet eine kuratierte Auswahl an hochwertiger Kleidung und Accessoires, die zeitgenössische Trends mit zeitlosem Stil verbinden. Der Fokus liegt auf vielseitigen Stücken für jeden Anlass, das Geschäft bietet eine Mischung aus bequemen Alltags-Essentials, anspruchsvoller Berufskleidung und einzigartigen saisonalen Highlights. Mit einem Engagement für hochwertige Handwerkskunst und einer einladenden Atmosphäre bietet es ein nahtloses Einkaufserlebnis für diejenigen, die ihre persönliche Garderobe mühelos aufwerten möchten."
+                        }
+                    ],
+                    "uid": "1e14e1e558354727ab272278401e33b8"
+                }
+            ]
+        },
+        "headline": "Bekleidung",
+        "image": {
+            "uid": "am6159b1a9db62c1e2",
+            "created_at": "2026-09-15T09:22:12.938Z",
+            "updated_at": "2026-09-15T09:22:12.938Z",
+            "created_by": "blt07c2db602bb1f752",
+            "updated_by": "blt07c2db602bb1f752",
+            "content_type": "image/png",
+            "file_size": "2050899",
+            "tags": [
+                ""
+            ],
+            "filename": "Apparel.png",
+            "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am6159b1a9db62c1e2/bab54c7cace9e18ed8e4ac22/Apparel.png",
+            "ACL": {
+                "fields": {}
+            },
+            "is_dir": false,
+            "parent_uid": "am766f28dc127c4c03",
+            "_version": 1,
+            "title": "Apparel.png",
+            "description": "",
+            "publish_details": [
+                {
+                    "environment": "blt981d8215e326a76c",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.737Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltc0c2e83d3b733728",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.737Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltfb5af98ff1412882",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.737Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                }
+            ]
+        },
+        "modular_blocks_bottom": [],
+        "modular_blocks_top": [],
+        "product_category": [
+            {
+                "selectedIds": [
+                    "7d6cbc5d-e3d8-4586-94b8-2f8809bccf96"
+                ],
+                "items": [
+                    {
+                        "id": "7d6cbc5d-e3d8-4586-94b8-2f8809bccf96",
+                        "name": "Bekleidung",
+                        "image": "https://wtxrbukgejhzplfwzamn.supabase.co/storage/v1/object/public/feebf9c7-ef97-44c8-829a-8fdad7e2852a/e3a4c0cf-d9d8-4502-8850-208dd61c07e6/Apparel/Apparel.png",
+                        "url": "/apparel",
+                        "description": "<p>Unser <strong>Bekleidungsgeschäft</strong> präsentiert eine exklusive Auswahl an hochwertiger Mode und Accessoires – modern und zugleich zeitlos. Von bequemen Basics für jeden Tag über elegante Business-Outfits bis hin zu besonderen saisonalen Trends bieten wir Vielseitigkeit für jeden Moment. Wir setzen auf erstklassige Verarbeitung und ein herzliches Ambiente, damit Sie Ihren persönlichen Stil ganz entspannt perfektionieren können.</p>",
+                        "children": [
+                            {
+                                "id": "ea227c6b-e98c-4dde-8b19-67de29dea823",
+                                "name": "Strickwaren",
+                                "locale": "de"
+                            },
+                            {
+                                "id": "78d0e041-f2ef-4101-9348-ad84b550d743",
+                                "name": "Bademode",
+                                "locale": "de"
+                            }
+                        ],
+                        "locale": "de"
+                    }
+                ]
+            }
+        ],
+        "show_category_hero": true,
+        "tags": [],
+        "title": "Apparel",
+        "url": "/plp/apparel",
+        "video": {
+            "uid": "am3b2abd87fbec1dc8",
+            "created_at": "2026-09-15T09:22:12.060Z",
+            "updated_at": "2026-09-15T09:22:12.060Z",
+            "created_by": "blt07c2db602bb1f752",
+            "updated_by": "blt07c2db602bb1f752",
+            "content_type": "video/mp4",
+            "file_size": "2688770",
+            "tags": [
+                ""
+            ],
+            "filename": "Apparel_Store_Video.mp4",
+            "url": "https://assets.contentstack.io/v3/assets/blt823327b57e39d857/am3b2abd87fbec1dc8/55dbbfbf5a30f4085dd98969/Apparel_Store_Video.mp4",
+            "ACL": {
+                "fields": {}
+            },
+            "is_dir": false,
+            "parent_uid": "am766f28dc127c4c03",
+            "_version": 1,
+            "title": "Apparel_Store_Video.mp4",
+            "description": "",
+            "publish_details": [
+                {
+                    "environment": "blt981d8215e326a76c",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.772Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltc0c2e83d3b733728",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.772Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                },
+                {
+                    "environment": "bltfb5af98ff1412882",
+                    "locale": "en",
+                    "time": "2026-09-15T09:23:23.772Z",
+                    "user": "blt07c2db602bb1f752",
+                    "version": 1
+                }
+            ]
+        },
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "de",
+                "time": "2026-09-15T09:29:14.805Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "de",
+                "time": "2026-09-15T09:29:14.743Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "de",
+                "time": "2026-09-15T09:29:14.776Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    },
+    "blt2641b91c68f403ef": {
+        "locale": "de",
+        "uid": "blt2641b91c68f403ef",
+        "ACL": {},
+        "_in_progress": false,
+        "_version": 2,
+        "headline": "Sonderangebote",
+        "show_category_hero": false,
+        "tags": [],
+        "title": "Pauschalangebote",
+        "url": "/plp/package-offers",
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "de",
+                "time": "2026-09-15T09:29:14.448Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "de",
+                "time": "2026-09-15T09:29:15.494Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "de",
+                "time": "2026-09-15T09:29:14.447Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    }
+}

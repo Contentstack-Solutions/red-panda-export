@@ -1,1 +1,1583 @@
-{"blt0eae451c6fa8a28f":{"title":"Home Banner","layout_option":"image","image_option":{"image":null,"image_height":"h-auto","split_banner":false,"image_position":"Right","background_color":{"hsl":{"h":246.66666666666669,"s":0.15979177448324167,"l":0.67151,"a":1},"hex":"#a19eb9","rgb":{"r":161,"g":158,"b":185,"a":1},"hsv":{"h":246.66666666666669,"s":0.14500000000000007,"v":0.7240000000000001,"a":1},"oldHue":246.66666666666663,"source":"hsv"}},"video_options":{"video":null,"video_controls":"Autoplay","in_loop":true},"media_overlay":"75%","carousel_group":[{"image":null,"_metadata":{"uid":"cs7fec18ee17105959"},"media_overlay":"75%","heading":"Escape into Paradise","body":"Where turquoise waters meet timeless luxury. Your unforgettable journey begings here.","button_text":"Book Your Escape","page":[{"uid":"blt330b8780a5ee4e70","_content_type_uid":"page"}],"body_text_size":"14px","text_position":"Center","alignment":"Center","banner_text_color":{"hsl":{"h":249.99999999999994,"s":0,"l":1,"a":1},"hex":"#ffffff","rgb":{"r":255,"g":255,"b":255,"a":1},"hsv":{"h":249.99999999999994,"s":0,"v":1,"a":1},"oldHue":249.99999999999994,"source":"hex"}},{"image":null,"_metadata":{"uid":"csded31c5a6d89decc"},"media_overlay":"75%","heading":"Maldives Beaches","body":"Where turquoise waters meet timeless luxury. Your unforgettable journey begings here.","button_text":"Escape","page":[{"uid":"blta39a263f645f713a","_content_type_uid":"page"}],"body_text_size":"14px","text_position":"Left","alignment":"Left","banner_text_color":{"hsl":{"h":246.9064748201439,"s":0,"l":1,"a":1},"hex":"#ffffff","rgb":{"r":255,"g":255,"b":255,"a":1},"hsv":{"h":246.9064748201439,"s":0,"v":1,"a":1},"oldHue":246.9064748201439,"source":"hex"}},{"image":null,"_metadata":{"uid":"csfd7a4898c6447952"},"media_overlay":"50%","heading":"Holiday Plans","body":"Where turquoise waters meet timeless luxury. Your unforgettable journey begings here.","button_text":"Learn More","page":[{"uid":"blt9ee8c2d08a67c89f","_content_type_uid":"page"}],"body_text_size":"14px","text_position":"Right","alignment":"Right","banner_text_color":{"hsl":{"h":246.9064748201439,"s":0,"l":1,"a":1},"hex":"#ffffff","rgb":{"r":255,"g":255,"b":255,"a":1},"hsv":{"h":246.9064748201439,"s":0,"v":1,"a":1},"oldHue":246.9064748201439,"source":"hex"}}],"image_height":"h-screen","aspect_ratio":"16:9","header":"Escape into Paradise","body":"Where turquoise waters meet timeless luxury. Your unforgettable journey begings here.","button_text":"Book Your Escape","page":[{"uid":"bltf8b4aac594fcdb81","_content_type_uid":"page"}],"body_text_size":"16px","text_position":"Center","alignment":"Center","banner_text_color":{"hsl":{"h":246.9064748201439,"s":0,"l":1,"a":1},"hex":"#ffffff","rgb":{"r":255,"g":255,"b":255,"a":1},"hsv":{"h":246.9064748201439,"s":0,"v":1,"a":1},"oldHue":246.9064748201439,"source":"hex"},"header_overlay":true,"tags":[],"locale":"en","ACL":{},"uid":"blt0eae451c6fa8a28f","_version":3,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T10:19:51.534Z","user":"blt07c2db602bb1f752","version":3},{"environment":"bltc0c2e83d3b733728","locale":"en","time":"2026-09-15T10:19:51.534Z","user":"blt07c2db602bb1f752","version":3},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T10:19:51.534Z","user":"blt07c2db602bb1f752","version":3}]},"bltc2e15f87db8d5b5d":{"title":"Experience Banner","layout_option":"image","image_option":{"image":null,"image_height":"h-screen","split_banner":false,"image_position":null,"background_color":{}},"video_options":{"video":null,"video_controls":"Autoplay","in_loop":true},"media_overlay":"50%","carousel_group":[],"image_height":"h-screen","aspect_ratio":"16:9","header":"EXPERIENCE THE MALDIVES","body":"Nestled within the turquoise embrace of the Indian Ocean, our Maldivian resort offers an unparalleled sanctuary of luxury and tranquility. Indulge in world-class amenities, and discover a haven where dreams meet reality.","button_text":"Learn More","page":[{"uid":"bltdc67a448d7bac0f8","_content_type_uid":"page"}],"body_text_size":"16px","text_position":"Center","alignment":"Center","banner_text_color":{"hsl":{"h":246.90647482014379,"s":0.29284701481280284,"l":0.9585662499999998,"a":1},"hex":"#f2f1f8","rgb":{"r":242,"g":241,"b":248,"a":1},"hsv":{"h":246.90647482014379,"s":0.025,"v":0.9706999999999999,"a":1},"oldHue":246.9064748201439,"source":"hsv"},"header_overlay":true,"tags":[],"locale":"en","ACL":{},"uid":"bltc2e15f87db8d5b5d","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:10.613Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:10.486Z","user":"blt07c2db602bb1f752","version":2}]},"blt055d113410265f3a":{"title":"Example Banner","layout_option":"image","image_option":{"image":null,"image_height":"h-screen","split_banner":false,"image_position":null,"background_color":{}},"video_options":{"video":null,"video_controls":"Autoplay","in_loop":true},"media_overlay":"50%","carousel_group":[],"image_height":"h-screen","aspect_ratio":"16:9","header":"Testing Hero Banner","body":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets.","button_text":"","page":[],"body_text_size":"16px","text_position":"Center","alignment":"Center","banner_text_color":{"hsl":{"h":246.90647482014415,"s":0.19423049420802088,"l":0.9388162499999999,"a":1},"hex":"#edecf2","rgb":{"r":237,"g":236,"b":242,"a":1},"hsv":{"h":246.90647482014415,"s":0.025000000000000057,"v":0.9506999999999999,"a":1},"oldHue":246.9064748201439,"source":"hsv"},"header_overlay":true,"tags":[],"locale":"en","ACL":{},"uid":"blt055d113410265f3a","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:11.627Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:11.718Z","user":"blt07c2db602bb1f752","version":2}]},"blt84e131c1cd189a7a":{"title":"Relax, Unwind, and Rejuvenate with our luxurious spa treatments","layout_option":"image","image_option":{"image":null,"image_height":"h-auto","split_banner":false,"image_position":null,"background_color":{}},"video_options":{"video":null,"video_controls":"Autoplay","in_loop":true},"media_overlay":"75%","carousel_group":[],"image_height":"h-screen","aspect_ratio":"16:9","header":"Relax & Rejuvenate with luxurious spa treatments","body":"Unwind in our tranquil spa, where personalized pampering meets unparalleled luxury. Our expert therapists use only the finest products, ensuring each treatment is a bespoke journey to relaxation in a serene sanctuary.","button_text":"","page":[],"body_text_size":"14px","text_position":"Left","alignment":"Center","banner_text_color":{"hsl":{"h":246.9064748201439,"s":0,"l":1,"a":1},"hex":"#ffffff","rgb":{"r":255,"g":255,"b":255,"a":1},"hsv":{"h":246.9064748201439,"s":0,"v":1,"a":1},"oldHue":246.9064748201439,"source":"hex"},"header_overlay":true,"tags":[],"locale":"en","ACL":{},"uid":"blt84e131c1cd189a7a","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:10.360Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:11.493Z","user":"blt07c2db602bb1f752","version":2}]},"blt87059599b9b96a5d":{"title":"Unwind and Rejuvenate at Our New Spa Sanctuary","layout_option":"image","image_option":{"image":null,"image_height":"h-screen","split_banner":false,"image_position":null,"background_color":{}},"video_options":{"video":null,"video_controls":"Autoplay","in_loop":true},"media_overlay":"50%","carousel_group":[],"image_height":"h-screen","aspect_ratio":"16:9","header":"Unwind and Rejuvenate at Our New Spa Sanctuary","body":"Escape the hustle and bustle of everyday life and indulge in a moment of pure relaxation at our luxurious new spa. Our team of expert therapists are dedicated to providing you with a personalized experience that will leave you feeling rejuvenated and refreshed. From soothing massages to rejuvenating facials, we offer a wide range of treatments designed to pamper both your body and mind. So why wait? Book a session with us today and treat yourself to a well-deserved spa day that will leave you feeling like a whole new person.","button_text":"","page":[],"body_text_size":"14px","text_position":"Top Left","alignment":"Left","banner_text_color":{"hsl":{"h":246.9064748201439,"s":0,"l":1,"a":1},"hex":"#ffffff","rgb":{"r":255,"g":255,"b":255,"a":1},"hsv":{"h":246.9064748201439,"s":0,"v":1,"a":1},"oldHue":246.9064748201439,"source":"hex"},"header_overlay":true,"tags":[],"locale":"en","ACL":{},"uid":"blt87059599b9b96a5d","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:10.393Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:10.579Z","user":"blt07c2db602bb1f752","version":2}]},"bltef131965697a2d27":{"title":"Lagoon Villas Page Banner","layout_option":"image","image_option":{"image":null,"image_height":"h-screen","split_banner":true,"image_position":"Left","background_color":{"hsl":{"h":240,"s":0.24967564575980558,"l":0.8897809999999999,"a":1},"hex":"#dcdcea","rgb":{"r":220,"g":220,"b":234,"a":1},"hsv":{"h":240,"s":0.06000000000000003,"v":0.9173,"a":1},"oldHue":240,"source":"hsv"}},"video_options":{"video":null,"video_controls":"Autoplay","in_loop":true},"media_overlay":"50%","carousel_group":[],"image_height":"h-screen","aspect_ratio":null,"header":"Lagoon Villas","body":"Where Luxury meets serenity","button_text":"","page":[],"body_text_size":"16px","text_position":"Center","alignment":"Center","banner_text_color":{"hsl":{"h":246.9064748201439,"s":0,"l":0,"a":1},"hex":"#000000","rgb":{"r":0,"g":0,"b":0,"a":1},"hsv":{"h":246.9064748201439,"s":0,"v":0,"a":1},"oldHue":246.9064748201439,"source":"hex"},"header_overlay":true,"tags":[],"locale":"en","ACL":{},"uid":"bltef131965697a2d27","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:11.449Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:11.781Z","user":"blt07c2db602bb1f752","version":2}]},"bltbf63451f87f8a81f":{"title":"Beach Villa Page Banner","layout_option":"video","image_option":{"image":null,"image_height":"h-screen","split_banner":false,"image_position":null,"background_color":{}},"video_options":{"video":null,"video_controls":"Autoplay","in_loop":true},"media_overlay":"75%","carousel_group":[],"image_height":"h-screen","aspect_ratio":"16:9","header":"Beach Villas","body":"Your private shoreline escape with sunrise views and ocean breezes.","button_text":"","page":[],"body_text_size":"16px","text_position":"Center","alignment":"Center","banner_text_color":{"hsl":{"h":246.9064748201439,"s":0,"l":1,"a":1},"hex":"#ffffff","rgb":{"r":255,"g":255,"b":255,"a":1},"hsv":{"h":246.9064748201439,"s":0,"v":1,"a":1},"oldHue":246.9064748201439,"source":"hex"},"header_overlay":true,"tags":[],"locale":"en","ACL":{},"uid":"bltbf63451f87f8a81f","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:09.614Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltc0c2e83d3b733728","locale":"en","time":"2026-09-15T10:19:53.609Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:09.428Z","user":"blt07c2db602bb1f752","version":2}]},"bltb297ccddd9482823":{"title":"Unwind and Rejuvenate","layout_option":"image","image_option":{"image":null,"image_height":"h-auto","split_banner":false,"image_position":null,"background_color":{}},"video_options":{"video":null,"video_controls":"Autoplay","in_loop":true},"media_overlay":"50%","carousel_group":[],"image_height":"h-screen","aspect_ratio":"16:9","header":"Unwind and Rejuvenate","body":"","button_text":"","page":[],"body_text_size":"16px","text_position":"Center","alignment":"Center","banner_text_color":{"hsl":{"h":246.9064748201439,"s":0,"l":1,"a":1},"hex":"#ffffff","rgb":{"r":255,"g":255,"b":255,"a":1},"hsv":{"h":246.9064748201439,"s":0,"v":1,"a":1},"oldHue":246.9064748201439,"source":"hex"},"header_overlay":true,"tags":[],"locale":"en","ACL":{},"uid":"bltb297ccddd9482823","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:07.865Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:08.127Z","user":"blt07c2db602bb1f752","version":2}]},"bltd92bfd24984079aa":{"title":"FAQ Banner","layout_option":"image","image_option":{"image":null,"image_height":"h-auto","split_banner":false,"image_position":null,"background_color":{}},"video_options":{"video":null,"video_controls":"Autoplay","in_loop":true},"media_overlay":"75%","carousel_group":[],"image_height":"h-screen","aspect_ratio":"16:9","header":"FREQUENTLY ASKED QUESTIONS","body":"","button_text":"","page":[],"body_text_size":"16px","text_position":"Center","alignment":"Center","banner_text_color":{"hsl":{"h":246.9064748201439,"s":0,"l":1,"a":1},"hex":"#ffffff","rgb":{"r":255,"g":255,"b":255,"a":1},"hsv":{"h":246.9064748201439,"s":0,"v":1,"a":1},"oldHue":246.9064748201439,"source":"hex"},"header_overlay":true,"tags":[],"locale":"en","ACL":{},"uid":"bltd92bfd24984079aa","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:08.000Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:08.160Z","user":"blt07c2db602bb1f752","version":2}]},"bltabf67962d16661b3":{"title":"Cuisine Hero","layout_option":"image","image_option":{"image":null,"image_height":"h-screen","split_banner":false,"image_position":null,"background_color":{}},"video_options":{"video":null,"video_controls":"Autoplay","in_loop":true},"media_overlay":"50%","carousel_group":[],"image_height":"h-screen","aspect_ratio":"16:9","header":"EXPERIENCE MALDIVIAN CUISINE","body":"Experience the exquisite flavors of the Maldives, where fresh seafood and aromatic spices blend to create culinary masterpieces.  From delicate curries to grilled reef fish, Maldivian cuisine offers a tantalizing taste of island life.","button_text":"BOOK YOUR ESCAPE","page":[{"uid":"blta39a263f645f713a","_content_type_uid":"page"}],"body_text_size":"16px","text_position":"Center","alignment":"Center","banner_text_color":{"hsl":{"h":246.9064748201439,"s":0,"l":1,"a":1},"hex":"#ffffff","rgb":{"r":255,"g":255,"b":255,"a":1},"hsv":{"h":246.9064748201439,"s":0,"v":1,"a":1},"oldHue":246.9064748201439,"source":"hex"},"header_overlay":true,"tags":[],"locale":"en","ACL":{},"uid":"bltabf67962d16661b3","_version":2,"_in_progress":false,"publish_details":[{"environment":"blt981d8215e326a76c","locale":"en","time":"2026-09-15T09:28:09.412Z","user":"blt07c2db602bb1f752","version":2},{"environment":"bltfb5af98ff1412882","locale":"en","time":"2026-09-15T09:28:09.653Z","user":"blt07c2db602bb1f752","version":2}]}}
+{
+    "blt0eae451c6fa8a28f": {
+        "title": "Home Banner",
+        "layout_option": "image",
+        "image_option": {
+            "image": {
+                "uid": "am128e30b16f4931d3",
+                "created_at": "2026-09-15T10:19:38.734Z",
+                "updated_at": "2026-09-15T10:19:38.734Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "image/png",
+                "file_size": "2450418",
+                "tags": [],
+                "filename": "maldives_heroBanner.png",
+                "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am128e30b16f4931d3/b685f6cd7f34571653b264ef/maldives_heroBanner.png",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am22642eeb13325364",
+                "_version": 1,
+                "title": "maldives_heroBanner.png",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.701Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.701Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.701Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "image_height": "h-auto",
+            "split_banner": false,
+            "image_position": "Right",
+            "background_color": {
+                "hsl": {
+                    "h": 246.66666666666669,
+                    "s": 0.15979177448324167,
+                    "l": 0.67151,
+                    "a": 1
+                },
+                "hex": "#a19eb9",
+                "rgb": {
+                    "r": 161,
+                    "g": 158,
+                    "b": 185,
+                    "a": 1
+                },
+                "hsv": {
+                    "h": 246.66666666666669,
+                    "s": 0.14500000000000007,
+                    "v": 0.7240000000000001,
+                    "a": 1
+                },
+                "oldHue": 246.66666666666663,
+                "source": "hsv"
+            }
+        },
+        "video_options": {
+            "video": {
+                "uid": "amca43ea395031ce6b",
+                "created_at": "2026-09-15T09:22:07.948Z",
+                "updated_at": "2026-09-15T09:22:07.948Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "video/quicktime",
+                "file_size": "8147252",
+                "tags": [
+                    ""
+                ],
+                "filename": "turtle_snorkle.mov",
+                "url": "https://assets.contentstack.io/v3/assets/blt823327b57e39d857/amca43ea395031ce6b/a93490f10881af96cca166b3/turtle_snorkle.mov",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am787d34510bfaff29",
+                "_version": 1,
+                "title": "turtle_snorkle.mov",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.600Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.600Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.600Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "video_controls": "Autoplay",
+            "in_loop": true
+        },
+        "media_overlay": "75%",
+        "carousel_group": [
+            {
+                "image": {
+                    "uid": "am5d7eca2cccefd198",
+                    "created_at": "2026-09-15T09:22:25.821Z",
+                    "updated_at": "2026-09-15T09:22:25.821Z",
+                    "created_by": "blt07c2db602bb1f752",
+                    "updated_by": "blt07c2db602bb1f752",
+                    "content_type": "image/jpeg",
+                    "file_size": "161120",
+                    "tags": [
+                        ""
+                    ],
+                    "filename": "beach_villa.jpeg",
+                    "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am5d7eca2cccefd198/29279ed37c28e0cc14d3153e/beach_villa.jpeg",
+                    "ACL": {
+                        "fields": {}
+                    },
+                    "is_dir": false,
+                    "parent_uid": "amab6aa870664893c3",
+                    "_version": 1,
+                    "title": "beach_villa.jpeg",
+                    "description": "",
+                    "publish_details": [
+                        {
+                            "environment": "blt981d8215e326a76c",
+                            "locale": "en",
+                            "time": "2026-09-15T10:19:52.551Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        },
+                        {
+                            "environment": "bltc0c2e83d3b733728",
+                            "locale": "en",
+                            "time": "2026-09-15T10:19:52.551Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        },
+                        {
+                            "environment": "bltfb5af98ff1412882",
+                            "locale": "en",
+                            "time": "2026-09-15T10:19:52.551Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        }
+                    ]
+                },
+                "_metadata": {
+                    "uid": "cs7fec18ee17105959"
+                },
+                "media_overlay": "75%",
+                "heading": "Escape into Paradise",
+                "body": "Where turquoise waters meet timeless luxury. Your unforgettable journey begings here.",
+                "button_text": "Book Your Escape",
+                "page": [
+                    {
+                        "uid": "blt330b8780a5ee4e70",
+                        "_content_type_uid": "page"
+                    }
+                ],
+                "body_text_size": "14px",
+                "text_position": "Center",
+                "alignment": "Center",
+                "banner_text_color": {
+                    "hsl": {
+                        "h": 249.99999999999994,
+                        "s": 0,
+                        "l": 1,
+                        "a": 1
+                    },
+                    "hex": "#ffffff",
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 249.99999999999994,
+                        "s": 0,
+                        "v": 1,
+                        "a": 1
+                    },
+                    "oldHue": 249.99999999999994,
+                    "source": "hex"
+                }
+            },
+            {
+                "image": {
+                    "uid": "am5877bb310c9a5b2a",
+                    "created_at": "2026-09-15T09:21:49.466Z",
+                    "updated_at": "2026-09-15T09:21:49.466Z",
+                    "created_by": "blt07c2db602bb1f752",
+                    "updated_by": "blt07c2db602bb1f752",
+                    "content_type": "image/jpeg",
+                    "file_size": "2228114",
+                    "tags": [
+                        ""
+                    ],
+                    "filename": "hero_banner.jpg",
+                    "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am5877bb310c9a5b2a/8259667e20a24a1d8a3dda1c/hero_banner.jpg",
+                    "ACL": {
+                        "fields": {}
+                    },
+                    "is_dir": false,
+                    "parent_uid": "am22642eeb13325364",
+                    "_version": 1,
+                    "title": "hero.jpeg",
+                    "description": "",
+                    "publish_details": [
+                        {
+                            "environment": "blt981d8215e326a76c",
+                            "locale": "en",
+                            "time": "2026-09-15T10:19:52.650Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        },
+                        {
+                            "environment": "bltc0c2e83d3b733728",
+                            "locale": "en",
+                            "time": "2026-09-15T10:19:52.650Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        },
+                        {
+                            "environment": "bltfb5af98ff1412882",
+                            "locale": "en",
+                            "time": "2026-09-15T10:19:52.650Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        }
+                    ]
+                },
+                "_metadata": {
+                    "uid": "csded31c5a6d89decc"
+                },
+                "media_overlay": "75%",
+                "heading": "Maldives Beaches",
+                "body": "Where turquoise waters meet timeless luxury. Your unforgettable journey begings here.",
+                "button_text": "Escape",
+                "page": [
+                    {
+                        "uid": "blta39a263f645f713a",
+                        "_content_type_uid": "page"
+                    }
+                ],
+                "body_text_size": "14px",
+                "text_position": "Left",
+                "alignment": "Left",
+                "banner_text_color": {
+                    "hsl": {
+                        "h": 246.9064748201439,
+                        "s": 0,
+                        "l": 1,
+                        "a": 1
+                    },
+                    "hex": "#ffffff",
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 246.9064748201439,
+                        "s": 0,
+                        "v": 1,
+                        "a": 1
+                    },
+                    "oldHue": 246.9064748201439,
+                    "source": "hex"
+                }
+            },
+            {
+                "image": {
+                    "uid": "am6617cf2b060c3c76",
+                    "created_at": "2026-09-15T09:21:58.120Z",
+                    "updated_at": "2026-09-15T09:21:58.120Z",
+                    "created_by": "blt07c2db602bb1f752",
+                    "updated_by": "blt07c2db602bb1f752",
+                    "content_type": "image/jpeg",
+                    "file_size": "57149",
+                    "tags": [
+                        ""
+                    ],
+                    "filename": "maldives_holiday.jpg",
+                    "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am6617cf2b060c3c76/0ed3e9de47bd1f98b22f58e7/maldives_holiday.jpg",
+                    "ACL": {
+                        "fields": {}
+                    },
+                    "is_dir": false,
+                    "parent_uid": "am22642eeb13325364",
+                    "_version": 1,
+                    "title": "maldives_holiday.jpg",
+                    "description": "",
+                    "publish_details": [
+                        {
+                            "environment": "blt981d8215e326a76c",
+                            "locale": "en",
+                            "time": "2026-09-15T10:19:52.506Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        },
+                        {
+                            "environment": "bltc0c2e83d3b733728",
+                            "locale": "en",
+                            "time": "2026-09-15T10:19:52.506Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        },
+                        {
+                            "environment": "bltfb5af98ff1412882",
+                            "locale": "en",
+                            "time": "2026-09-15T10:19:52.506Z",
+                            "user": "blt07c2db602bb1f752",
+                            "version": 1
+                        }
+                    ]
+                },
+                "_metadata": {
+                    "uid": "csfd7a4898c6447952"
+                },
+                "media_overlay": "50%",
+                "heading": "Holiday Plans",
+                "body": "Where turquoise waters meet timeless luxury. Your unforgettable journey begings here.",
+                "button_text": "Learn More",
+                "page": [
+                    {
+                        "uid": "blt9ee8c2d08a67c89f",
+                        "_content_type_uid": "page"
+                    }
+                ],
+                "body_text_size": "14px",
+                "text_position": "Right",
+                "alignment": "Right",
+                "banner_text_color": {
+                    "hsl": {
+                        "h": 246.9064748201439,
+                        "s": 0,
+                        "l": 1,
+                        "a": 1
+                    },
+                    "hex": "#ffffff",
+                    "rgb": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 1
+                    },
+                    "hsv": {
+                        "h": 246.9064748201439,
+                        "s": 0,
+                        "v": 1,
+                        "a": 1
+                    },
+                    "oldHue": 246.9064748201439,
+                    "source": "hex"
+                }
+            }
+        ],
+        "image_height": "h-screen",
+        "aspect_ratio": "16:9",
+        "header": "Escape into Paradise",
+        "body": "Where turquoise waters meet timeless luxury. Your unforgettable journey begings here.",
+        "button_text": "Book Your Escape",
+        "page": [
+            {
+                "uid": "bltf8b4aac594fcdb81",
+                "_content_type_uid": "page"
+            }
+        ],
+        "body_text_size": "16px",
+        "text_position": "Center",
+        "alignment": "Center",
+        "banner_text_color": {
+            "hsl": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "l": 1,
+                "a": 1
+            },
+            "hex": "#ffffff",
+            "rgb": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+            },
+            "hsv": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "v": 1,
+                "a": 1
+            },
+            "oldHue": 246.9064748201439,
+            "source": "hex"
+        },
+        "header_overlay": true,
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "blt0eae451c6fa8a28f",
+        "_version": 3,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T10:19:51.534Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 3
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "en",
+                "time": "2026-09-15T10:19:51.534Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 3
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T10:19:51.534Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 3
+            }
+        ]
+    },
+    "bltc2e15f87db8d5b5d": {
+        "title": "Experience Banner",
+        "layout_option": "image",
+        "image_option": {
+            "image": {
+                "uid": "am5877bb310c9a5b2a",
+                "created_at": "2026-09-15T09:21:49.466Z",
+                "updated_at": "2026-09-15T09:21:49.466Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "image/jpeg",
+                "file_size": "2228114",
+                "tags": [
+                    ""
+                ],
+                "filename": "hero_banner.jpg",
+                "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am5877bb310c9a5b2a/8259667e20a24a1d8a3dda1c/hero_banner.jpg",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am22642eeb13325364",
+                "_version": 1,
+                "title": "hero.jpeg",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.650Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.650Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.650Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "image_height": "h-screen",
+            "split_banner": false,
+            "image_position": null,
+            "background_color": {}
+        },
+        "video_options": {
+            "video": null,
+            "video_controls": "Autoplay",
+            "in_loop": true
+        },
+        "media_overlay": "50%",
+        "carousel_group": [],
+        "image_height": "h-screen",
+        "aspect_ratio": "16:9",
+        "header": "EXPERIENCE THE MALDIVES",
+        "body": "Nestled within the turquoise embrace of the Indian Ocean, our Maldivian resort offers an unparalleled sanctuary of luxury and tranquility. Indulge in world-class amenities, and discover a haven where dreams meet reality.",
+        "button_text": "Learn More",
+        "page": [
+            {
+                "uid": "bltdc67a448d7bac0f8",
+                "_content_type_uid": "page"
+            }
+        ],
+        "body_text_size": "16px",
+        "text_position": "Center",
+        "alignment": "Center",
+        "banner_text_color": {
+            "hsl": {
+                "h": 246.90647482014379,
+                "s": 0.29284701481280284,
+                "l": 0.9585662499999998,
+                "a": 1
+            },
+            "hex": "#f2f1f8",
+            "rgb": {
+                "r": 242,
+                "g": 241,
+                "b": 248,
+                "a": 1
+            },
+            "hsv": {
+                "h": 246.90647482014379,
+                "s": 0.025,
+                "v": 0.9706999999999999,
+                "a": 1
+            },
+            "oldHue": 246.9064748201439,
+            "source": "hsv"
+        },
+        "header_overlay": true,
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "bltc2e15f87db8d5b5d",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:10.613Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:10.486Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    },
+    "blt055d113410265f3a": {
+        "title": "Example Banner",
+        "layout_option": "image",
+        "image_option": {
+            "image": {
+                "uid": "am9a0f82573afdde6d",
+                "created_at": "2026-09-15T09:22:13.897Z",
+                "updated_at": "2026-09-15T09:22:13.897Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "image/jpeg",
+                "file_size": "1825672",
+                "tags": [
+                    ""
+                ],
+                "filename": "avi-waxman-_RlsZJu1IBA-unsplash.jpg",
+                "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am9a0f82573afdde6d/6eb471c1cecb91df960c7114/avi-waxman-_RlsZJu1IBA-unsplash.jpg",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am22642eeb13325364",
+                "_version": 1,
+                "title": "avi-waxman-_RlsZJu1IBA-unsplash.jpg",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:24.746Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:24.746Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:24.746Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "image_height": "h-screen",
+            "split_banner": false,
+            "image_position": null,
+            "background_color": {}
+        },
+        "video_options": {
+            "video": null,
+            "video_controls": "Autoplay",
+            "in_loop": true
+        },
+        "media_overlay": "50%",
+        "carousel_group": [],
+        "image_height": "h-screen",
+        "aspect_ratio": "16:9",
+        "header": "Testing Hero Banner",
+        "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets.",
+        "button_text": "",
+        "page": [],
+        "body_text_size": "16px",
+        "text_position": "Center",
+        "alignment": "Center",
+        "banner_text_color": {
+            "hsl": {
+                "h": 246.90647482014415,
+                "s": 0.19423049420802088,
+                "l": 0.9388162499999999,
+                "a": 1
+            },
+            "hex": "#edecf2",
+            "rgb": {
+                "r": 237,
+                "g": 236,
+                "b": 242,
+                "a": 1
+            },
+            "hsv": {
+                "h": 246.90647482014415,
+                "s": 0.025000000000000057,
+                "v": 0.9506999999999999,
+                "a": 1
+            },
+            "oldHue": 246.9064748201439,
+            "source": "hsv"
+        },
+        "header_overlay": true,
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "blt055d113410265f3a",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:11.627Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:11.718Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    },
+    "blt84e131c1cd189a7a": {
+        "title": "Relax, Unwind, and Rejuvenate with our luxurious spa treatments",
+        "layout_option": "image",
+        "image_option": {
+            "image": {
+                "uid": "amff717c4ffde54089",
+                "created_at": "2026-09-15T09:22:01.157Z",
+                "updated_at": "2026-09-15T09:22:01.157Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "image/webp",
+                "file_size": "168990",
+                "tags": [
+                    ""
+                ],
+                "filename": "spa_banner.webp",
+                "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/amff717c4ffde54089/bbd635b18a49e4dd99751069/spa_banner.webp",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am22642eeb13325364",
+                "_version": 1,
+                "title": "spa_banner.webp",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:11.787Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:10.702Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:11.787Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "image_height": "h-auto",
+            "split_banner": false,
+            "image_position": null,
+            "background_color": {}
+        },
+        "video_options": {
+            "video": null,
+            "video_controls": "Autoplay",
+            "in_loop": true
+        },
+        "media_overlay": "75%",
+        "carousel_group": [],
+        "image_height": "h-screen",
+        "aspect_ratio": "16:9",
+        "header": "Relax & Rejuvenate with luxurious spa treatments",
+        "body": "Unwind in our tranquil spa, where personalized pampering meets unparalleled luxury. Our expert therapists use only the finest products, ensuring each treatment is a bespoke journey to relaxation in a serene sanctuary.",
+        "button_text": "",
+        "page": [],
+        "body_text_size": "14px",
+        "text_position": "Left",
+        "alignment": "Center",
+        "banner_text_color": {
+            "hsl": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "l": 1,
+                "a": 1
+            },
+            "hex": "#ffffff",
+            "rgb": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+            },
+            "hsv": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "v": 1,
+                "a": 1
+            },
+            "oldHue": 246.9064748201439,
+            "source": "hex"
+        },
+        "header_overlay": true,
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "blt84e131c1cd189a7a",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:10.360Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:11.493Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    },
+    "blt87059599b9b96a5d": {
+        "title": "Unwind and Rejuvenate at Our New Spa Sanctuary",
+        "layout_option": "image",
+        "image_option": {
+            "image": {
+                "uid": "am335a4c45efb8fec9",
+                "created_at": "2026-09-15T09:22:07.246Z",
+                "updated_at": "2026-09-15T09:22:07.246Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "image/jpeg",
+                "file_size": "324703",
+                "tags": [
+                    ""
+                ],
+                "filename": "chairs_on_beach.jpeg",
+                "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am335a4c45efb8fec9/032a91027347a68a529c7037/chairs_on_beach.jpeg",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am22642eeb13325364",
+                "_version": 1,
+                "title": "chairs_on_beach.jpeg",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:18.730Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:18.730Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:18.730Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "image_height": "h-screen",
+            "split_banner": false,
+            "image_position": null,
+            "background_color": {}
+        },
+        "video_options": {
+            "video": null,
+            "video_controls": "Autoplay",
+            "in_loop": true
+        },
+        "media_overlay": "50%",
+        "carousel_group": [],
+        "image_height": "h-screen",
+        "aspect_ratio": "16:9",
+        "header": "Unwind and Rejuvenate at Our New Spa Sanctuary",
+        "body": "Escape the hustle and bustle of everyday life and indulge in a moment of pure relaxation at our luxurious new spa. Our team of expert therapists are dedicated to providing you with a personalized experience that will leave you feeling rejuvenated and refreshed. From soothing massages to rejuvenating facials, we offer a wide range of treatments designed to pamper both your body and mind. So why wait? Book a session with us today and treat yourself to a well-deserved spa day that will leave you feeling like a whole new person.",
+        "button_text": "",
+        "page": [],
+        "body_text_size": "14px",
+        "text_position": "Top Left",
+        "alignment": "Left",
+        "banner_text_color": {
+            "hsl": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "l": 1,
+                "a": 1
+            },
+            "hex": "#ffffff",
+            "rgb": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+            },
+            "hsv": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "v": 1,
+                "a": 1
+            },
+            "oldHue": 246.9064748201439,
+            "source": "hex"
+        },
+        "header_overlay": true,
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "blt87059599b9b96a5d",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:10.393Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:10.579Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    },
+    "bltef131965697a2d27": {
+        "title": "Lagoon Villas Page Banner",
+        "layout_option": "image",
+        "image_option": {
+            "image": {
+                "uid": "am6bb165df505440b1",
+                "created_at": "2026-09-15T09:21:28.730Z",
+                "updated_at": "2026-09-15T09:21:28.730Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "image/jpeg",
+                "file_size": "192572",
+                "tags": [
+                    ""
+                ],
+                "filename": "ocenFrontDining.jpeg",
+                "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am6bb165df505440b1/91373a8d70912a2ea6630843/ocenFrontDining.jpeg",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am4ca584be7e6e32d9",
+                "_version": 1,
+                "title": "ocenFrontDining.jpeg",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T09:22:38.703Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T09:22:38.769Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T09:22:38.703Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "image_height": "h-screen",
+            "split_banner": true,
+            "image_position": "Left",
+            "background_color": {
+                "hsl": {
+                    "h": 240,
+                    "s": 0.24967564575980558,
+                    "l": 0.8897809999999999,
+                    "a": 1
+                },
+                "hex": "#dcdcea",
+                "rgb": {
+                    "r": 220,
+                    "g": 220,
+                    "b": 234,
+                    "a": 1
+                },
+                "hsv": {
+                    "h": 240,
+                    "s": 0.06000000000000003,
+                    "v": 0.9173,
+                    "a": 1
+                },
+                "oldHue": 240,
+                "source": "hsv"
+            }
+        },
+        "video_options": {
+            "video": null,
+            "video_controls": "Autoplay",
+            "in_loop": true
+        },
+        "media_overlay": "50%",
+        "carousel_group": [],
+        "image_height": "h-screen",
+        "aspect_ratio": null,
+        "header": "Lagoon Villas",
+        "body": "Where Luxury meets serenity",
+        "button_text": "",
+        "page": [],
+        "body_text_size": "16px",
+        "text_position": "Center",
+        "alignment": "Center",
+        "banner_text_color": {
+            "hsl": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "l": 0,
+                "a": 1
+            },
+            "hex": "#000000",
+            "rgb": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 1
+            },
+            "hsv": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "v": 0,
+                "a": 1
+            },
+            "oldHue": 246.9064748201439,
+            "source": "hex"
+        },
+        "header_overlay": true,
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "bltef131965697a2d27",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:11.449Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:11.781Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    },
+    "bltbf63451f87f8a81f": {
+        "title": "Beach Villa Page Banner",
+        "layout_option": "video",
+        "image_option": {
+            "image": {
+                "uid": "amb2ba5de1d97b8467",
+                "created_at": "2026-09-15T09:21:27.622Z",
+                "updated_at": "2026-09-15T09:21:27.622Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "image/jpeg",
+                "file_size": "96047",
+                "tags": [
+                    ""
+                ],
+                "filename": "beachfrontVilla.jpeg",
+                "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/amb2ba5de1d97b8467/6b14352e8f9e6f2e869261ac/beachfrontVilla.jpeg",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am4ca584be7e6e32d9",
+                "_version": 1,
+                "title": "beachfrontVilla.jpeg",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:53.780Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:53.780Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:53.780Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "image_height": "h-screen",
+            "split_banner": false,
+            "image_position": null,
+            "background_color": {}
+        },
+        "video_options": {
+            "video": {
+                "uid": "amca43ea395031ce6b",
+                "created_at": "2026-09-15T09:22:07.948Z",
+                "updated_at": "2026-09-15T09:22:07.948Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "video/quicktime",
+                "file_size": "8147252",
+                "tags": [
+                    ""
+                ],
+                "filename": "turtle_snorkle.mov",
+                "url": "https://assets.contentstack.io/v3/assets/blt823327b57e39d857/amca43ea395031ce6b/a93490f10881af96cca166b3/turtle_snorkle.mov",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am787d34510bfaff29",
+                "_version": 1,
+                "title": "turtle_snorkle.mov",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.600Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.600Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T10:19:52.600Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "video_controls": "Autoplay",
+            "in_loop": true
+        },
+        "media_overlay": "75%",
+        "carousel_group": [],
+        "image_height": "h-screen",
+        "aspect_ratio": "16:9",
+        "header": "Beach Villas",
+        "body": "Your private shoreline escape with sunrise views and ocean breezes.",
+        "button_text": "",
+        "page": [],
+        "body_text_size": "16px",
+        "text_position": "Center",
+        "alignment": "Center",
+        "banner_text_color": {
+            "hsl": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "l": 1,
+                "a": 1
+            },
+            "hex": "#ffffff",
+            "rgb": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+            },
+            "hsv": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "v": 1,
+                "a": 1
+            },
+            "oldHue": 246.9064748201439,
+            "source": "hex"
+        },
+        "header_overlay": true,
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "bltbf63451f87f8a81f",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:09.614Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltc0c2e83d3b733728",
+                "locale": "en",
+                "time": "2026-09-15T10:19:53.609Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:09.428Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    },
+    "bltb297ccddd9482823": {
+        "title": "Unwind and Rejuvenate",
+        "layout_option": "image",
+        "image_option": {
+            "image": {
+                "uid": "amff717c4ffde54089",
+                "created_at": "2026-09-15T09:22:01.157Z",
+                "updated_at": "2026-09-15T09:22:01.157Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "image/webp",
+                "file_size": "168990",
+                "tags": [
+                    ""
+                ],
+                "filename": "spa_banner.webp",
+                "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/amff717c4ffde54089/bbd635b18a49e4dd99751069/spa_banner.webp",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am22642eeb13325364",
+                "_version": 1,
+                "title": "spa_banner.webp",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:11.787Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:10.702Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:11.787Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "image_height": "h-auto",
+            "split_banner": false,
+            "image_position": null,
+            "background_color": {}
+        },
+        "video_options": {
+            "video": null,
+            "video_controls": "Autoplay",
+            "in_loop": true
+        },
+        "media_overlay": "50%",
+        "carousel_group": [],
+        "image_height": "h-screen",
+        "aspect_ratio": "16:9",
+        "header": "Unwind and Rejuvenate",
+        "body": "",
+        "button_text": "",
+        "page": [],
+        "body_text_size": "16px",
+        "text_position": "Center",
+        "alignment": "Center",
+        "banner_text_color": {
+            "hsl": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "l": 1,
+                "a": 1
+            },
+            "hex": "#ffffff",
+            "rgb": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+            },
+            "hsv": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "v": 1,
+                "a": 1
+            },
+            "oldHue": 246.9064748201439,
+            "source": "hex"
+        },
+        "header_overlay": true,
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "bltb297ccddd9482823",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:07.865Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:08.127Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    },
+    "bltd92bfd24984079aa": {
+        "title": "FAQ Banner",
+        "layout_option": "image",
+        "image_option": {
+            "image": {
+                "uid": "am335a4c45efb8fec9",
+                "created_at": "2026-09-15T09:22:07.246Z",
+                "updated_at": "2026-09-15T09:22:07.246Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "image/jpeg",
+                "file_size": "324703",
+                "tags": [
+                    ""
+                ],
+                "filename": "chairs_on_beach.jpeg",
+                "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am335a4c45efb8fec9/032a91027347a68a529c7037/chairs_on_beach.jpeg",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "am22642eeb13325364",
+                "_version": 1,
+                "title": "chairs_on_beach.jpeg",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:18.730Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltc0c2e83d3b733728",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:18.730Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:18.730Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "image_height": "h-auto",
+            "split_banner": false,
+            "image_position": null,
+            "background_color": {}
+        },
+        "video_options": {
+            "video": null,
+            "video_controls": "Autoplay",
+            "in_loop": true
+        },
+        "media_overlay": "75%",
+        "carousel_group": [],
+        "image_height": "h-screen",
+        "aspect_ratio": "16:9",
+        "header": "FREQUENTLY ASKED QUESTIONS",
+        "body": "",
+        "button_text": "",
+        "page": [],
+        "body_text_size": "16px",
+        "text_position": "Center",
+        "alignment": "Center",
+        "banner_text_color": {
+            "hsl": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "l": 1,
+                "a": 1
+            },
+            "hex": "#ffffff",
+            "rgb": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+            },
+            "hsv": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "v": 1,
+                "a": 1
+            },
+            "oldHue": 246.9064748201439,
+            "source": "hex"
+        },
+        "header_overlay": true,
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "bltd92bfd24984079aa",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:08.000Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:08.160Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    },
+    "bltabf67962d16661b3": {
+        "title": "Cuisine Hero",
+        "layout_option": "image",
+        "image_option": {
+            "image": {
+                "uid": "am55d3cdb6f440012d",
+                "created_at": "2026-09-15T09:22:15.762Z",
+                "updated_at": "2026-09-15T09:22:15.762Z",
+                "created_by": "blt07c2db602bb1f752",
+                "updated_by": "blt07c2db602bb1f752",
+                "content_type": "image/jpeg",
+                "file_size": "1020885",
+                "tags": [
+                    ""
+                ],
+                "filename": "AdobeStock_265316359.jpeg",
+                "url": "https://images.contentstack.io/v3/assets/blt823327b57e39d857/am55d3cdb6f440012d/1ad3fe8db8820999d816a0b8/AdobeStock_265316359.jpeg",
+                "ACL": {
+                    "fields": {}
+                },
+                "is_dir": false,
+                "parent_uid": "amd61ac25559f7a70b",
+                "_version": 1,
+                "title": "fiji-banner.jpeg",
+                "description": "",
+                "publish_details": [
+                    {
+                        "environment": "blt981d8215e326a76c",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:26.803Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    },
+                    {
+                        "environment": "bltfb5af98ff1412882",
+                        "locale": "en",
+                        "time": "2026-09-15T09:23:26.803Z",
+                        "user": "blt07c2db602bb1f752",
+                        "version": 1
+                    }
+                ]
+            },
+            "image_height": "h-screen",
+            "split_banner": false,
+            "image_position": null,
+            "background_color": {}
+        },
+        "video_options": {
+            "video": null,
+            "video_controls": "Autoplay",
+            "in_loop": true
+        },
+        "media_overlay": "50%",
+        "carousel_group": [],
+        "image_height": "h-screen",
+        "aspect_ratio": "16:9",
+        "header": "EXPERIENCE MALDIVIAN CUISINE",
+        "body": "Experience the exquisite flavors of the Maldives, where fresh seafood and aromatic spices blend to create culinary masterpieces.  From delicate curries to grilled reef fish, Maldivian cuisine offers a tantalizing taste of island life.",
+        "button_text": "BOOK YOUR ESCAPE",
+        "page": [
+            {
+                "uid": "blta39a263f645f713a",
+                "_content_type_uid": "page"
+            }
+        ],
+        "body_text_size": "16px",
+        "text_position": "Center",
+        "alignment": "Center",
+        "banner_text_color": {
+            "hsl": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "l": 1,
+                "a": 1
+            },
+            "hex": "#ffffff",
+            "rgb": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+            },
+            "hsv": {
+                "h": 246.9064748201439,
+                "s": 0,
+                "v": 1,
+                "a": 1
+            },
+            "oldHue": 246.9064748201439,
+            "source": "hex"
+        },
+        "header_overlay": true,
+        "tags": [],
+        "locale": "en",
+        "ACL": {},
+        "uid": "bltabf67962d16661b3",
+        "_version": 2,
+        "_in_progress": false,
+        "publish_details": [
+            {
+                "environment": "blt981d8215e326a76c",
+                "locale": "en",
+                "time": "2026-09-15T09:28:09.412Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            },
+            {
+                "environment": "bltfb5af98ff1412882",
+                "locale": "en",
+                "time": "2026-09-15T09:28:09.653Z",
+                "user": "blt07c2db602bb1f752",
+                "version": 2
+            }
+        ]
+    }
+}
